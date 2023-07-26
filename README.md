@@ -1,5 +1,5 @@
-# hakenkreuzbanner-gt
-Das Hakenkreuzbanner war ein Parteiblatt der NSDAP zwischen 1931–1945. Weitere
+# hkb-gt
+Das Hakenkreuzbanner (hkb) war ein Parteiblatt der NSDAP zwischen 1931–1945. Weitere
 Information ist auf der Seite von [Udo Leuschner](https://www.udo-leuschner.de/zeitungsgeschichte/sonstige/hkb.htm) zu finden.
 
 
