@@ -6,9 +6,13 @@ Information ist auf der Seite von [Udo Leuschner](https://www.udo-leuschner.de/z
 Das [MARCHIVUM](https://druckschriften-digital.marchivum.de/zd/periodical/titleinfo/74387) digitalisierte das Parteiblatt. Im Rahmen dieser Tätigkeit wurde zur hochqualitativen Texterkennung dieser GT-Datensatz erstellt, um neue Modelle zu trainieren.
 
 ### Images:
-Images can be downloaded via script
+Images can be downloaded via script in their own image folder
 
-`./download_images.sh `
+`./download_images_to_folder.sh `
+
+Or to the existing pagexml files
+
+`./download_images_to_page.sh `
 
 ### Quantity:
 - 36 single newspaper pages
