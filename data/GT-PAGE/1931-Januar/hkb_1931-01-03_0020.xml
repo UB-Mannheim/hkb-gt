@@ -1,0 +1,2625 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-08-26T18:23:40.097+02:00</Created>
+        <LastChange>2023-05-05T18:43:08.219+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1126024" pageId="46550158" pageNr="16" tsid="121118403" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=QXCDJBBCAXXZUGOQXWDEXFSR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PUTEHBEMDTYMSGFZBWCFVQGH" imageId="37937324"/>
+    </Metadata>
+    <Page imageFilename="hkb_1931-01-03_0020.jpg" imageWidth="4083" imageHeight="5503">
+        <PrintSpace>
+            <Coords points="246,187 3827,187 3827,5167 246,5167"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688452676400" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="4" regionRef="r4"/>
+                <RegionRefIndexed index="5" regionRef="r5"/>
+                <RegionRefIndexed index="6" regionRef="r6"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r9"/>
+                <RegionRefIndexed index="10" regionRef="r10"/>
+                <RegionRefIndexed index="11" regionRef="r11"/>
+                <RegionRefIndexed index="13" regionRef="r12"/>
+                <RegionRefIndexed index="14" regionRef="r13"/>
+                <RegionRefIndexed index="15" regionRef="r14"/>
+                <RegionRefIndexed index="16" regionRef="r15"/>
+                <RegionRefIndexed index="17" regionRef="r16"/>
+                <RegionRefIndexed index="18" regionRef="r17"/>
+                <RegionRefIndexed index="19" regionRef="r18"/>
+                <RegionRefIndexed index="20" regionRef="r19"/>
+                <RegionRefIndexed index="21" regionRef="r20"/>
+                <RegionRefIndexed index="22" regionRef="r21"/>
+                <RegionRefIndexed index="23" regionRef="r22"/>
+                <RegionRefIndexed index="24" regionRef="r23"/>
+                <RegionRefIndexed index="25" regionRef="r24"/>
+                <RegionRefIndexed index="26" regionRef="r25"/>
+                <RegionRefIndexed index="27" regionRef="r26"/>
+                <RegionRefIndexed index="28" regionRef="r27"/>
+                <RegionRefIndexed index="29" regionRef="r28"/>
+                <RegionRefIndexed index="30" regionRef="r29"/>
+                <RegionRefIndexed index="31" regionRef="r30"/>
+                <RegionRefIndexed index="32" regionRef="r31"/>
+                <RegionRefIndexed index="33" regionRef="r32"/>
+                <RegionRefIndexed index="34" regionRef="r33"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="427,192 659,192 659,247 427,247"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="432,199 594,195 623,196 646,197 645,234 626,240 485,242 437,241"/>
+                <Baseline points="442,237 506,236 518,236 641,234"/>
+                <TextEquiv>
+                    <Unicode>Nr. 3/1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nr. 3/1931</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1795,187 2463,187 2464,256 1796,256"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1800,199 1846,199 2118,200 2297,201 2456,207 2457,238 2418,239 2230,244 1800,244"/>
+                <Baseline points="1810,236 1905,236 1934,236 2447,236"/>
+                <TextEquiv>
+                    <Unicode>Das Hakenkreuz⸗Banner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Hakenkreuz⸗Banner</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="3655,203 3821,202 3820,261 3654,262"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3668,208 3726,208 3811,211 3816,251 3722,254 3664,254"/>
+                <Baseline points="3671,248 3765,247 3789,247 3810,247"/>
+                <TextEquiv>
+                    <Unicode>Seite 3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Seite 3</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1668687709250_1324" custom="readingOrder {index:3;}">
+            <Coords points="440,285 1499,285 1499,693 557,705 512,701 487,747 445,747"/>
+        </ImageRegion>
+        <TextRegion type="heading" id="r4" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="466,693 1503,693 1502,886 465,886"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="482,786 495,749 513,701 591,710 1326,693 1424,705 1485,724 1485,848 1326,881 1192,881 479,876"/>
+                <Baseline points="479,850 1485,848"/>
+                <TextEquiv>
+                    <Unicode>Paroleausgabe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Paroleausgabe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r5" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="392,922 1506,922 1512,2518 398,2518"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="725,950 803,948 1160,952 1201,959 1209,979 1206,996 1162,1002 1129,1003 783,1003 723,998"/>
+                <Baseline points="733,993 854,992 881,992 1201,991"/>
+                <TextEquiv>
+                    <Unicode>Bezirk Groß⸗Mannheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="430,1020 500,1020 1196,1025 1433,1025 1455,1026 1457,1066 501,1069 431,1069"/>
+                <Baseline points="436,1062 514,1062 713,1063 920,1061 947,1060 973,1060 997,1060 1028,1060 1056,1059 1097,1059 1109,1059 1138,1061 1165,1061 1301,1060 1324,1060 1388,1060 1402,1060 1453,1060"/>
+                <TextEquiv>
+                    <Unicode>Geſchäftsſtelle Mannheim, P 5, 13 a. Telefon 317 15.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="502,1070 1021,1067 1037,1067 1225,1069 1250,1077 1250,1098 1225,1104 763,1106 608,1106 503,1103"/>
+                <Baseline points="505,1100 763,1099 787,1099 841,1099 862,1099 950,1098 975,1098 1031,1098 1056,1098 1161,1097 1183,1097 1250,1097"/>
+                <TextEquiv>
+                    <Unicode>Geſchäftsſtunden von 8—12 und 14—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="503,1103 1039,1104 1174,1104 1442,1105 1498,1112 1500,1140 1442,1141 1414,1141 1151,1140 731,1140 502,1138"/>
+                <Baseline points="506,1135 591,1134 610,1135 648,1135 1039,1133 1197,1134 1215,1134 1397,1134 1414,1134 1498,1134"/>
+                <TextEquiv>
+                    <Unicode>Geld⸗ undEinſchreibeſendungen: NSDAP. Mannheim, Hans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="542,1140 659,1140 789,1144 803,1173 702,1175 557,1175 542,1171"/>
+                <Baseline points="542,1171 615,1170 636,1170 790,1169"/>
+                <TextEquiv>
+                    <Unicode>Feit, P 5, 13 a.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="502,1175 660,1175 1497,1176 1503,1211 1218,1211 657,1212 499,1212"/>
+                <Baseline points="500,1205 779,1205 809,1205 893,1204 922,1204 1055,1204 1086,1205 1267,1205 1299,1205 1395,1205 1426,1205 1497,1205"/>
+                <TextEquiv>
+                    <Unicode>Poſtſcheck⸗Konto: Ernſt Nöltner, Mannheim, Konto Lud⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;}">
+                <Coords points="540,1212 810,1212 826,1230 822,1247 663,1247 628,1248 540,1248"/>
+                <Baseline points="540,1241 697,1241 716,1241 748,1241 756,1241 819,1241"/>
+                <TextEquiv>
+                    <Unicode>wigshafen 18 375.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="426,1252 631,1257 693,1255 951,1255 1420,1256 1446,1278 1439,1297 1243,1299 951,1300 712,1300 424,1299"/>
+                <Baseline points="430,1292 674,1293 693,1293 1033,1292 1055,1292 1141,1292 1163,1292 1253,1292 1278,1292 1332,1292 1345,1292 1374,1292 1386,1292 1431,1292"/>
+                <TextEquiv>
+                    <Unicode>Bezirks⸗ und Ortsgruppenleiter: Karl Lenz, M. d. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="496,1300 1221,1299 1245,1299 1483,1304 1494,1329 1499,1341 1274,1345 1255,1345 527,1343 496,1336"/>
+                <Baseline points="501,1336 707,1336 737,1336 809,1335 820,1335 884,1335 897,1335 948,1335 978,1336 1055,1336 1083,1336 1282,1336 1314,1337 1384,1336 1396,1336 1494,1336"/>
+                <TextEquiv>
+                    <Unicode>Mannheim, Tel. 317 15, oder Heidelberg, Tel. 3727.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="503,1345 522,1344 940,1344 956,1344 1162,1344 1233,1352 1233,1380 706,1381 522,1381 503,1376"/>
+                <Baseline points="503,1376 719,1374 742,1374 805,1373 829,1373 986,1373 1008,1373 1233,1373"/>
+                <TextEquiv>
+                    <Unicode>Sprechſtunden nach vorheriger Vereinbarung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="429,1389 1231,1389 1433,1391 1458,1398 1458,1419 1433,1426 627,1428 427,1423"/>
+                <Baseline points="429,1421 593,1420 603,1420 819,1419 841,1419 892,1419 903,1419 972,1419 993,1419 1076,1418 1107,1418 1154,1418 1166,1418 1193,1419 1204,1419 1255,1419 1268,1419 1372,1419 1393,1419 1458,1419"/>
+                <TextEquiv>
+                    <Unicode>Stellvertr. Bezirksleiter: Dr. Otto Orth. Di. u. Fr. 14—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="429,1433 1097,1433 1300,1435 1325,1443 1325,1463 1300,1470 916,1470 628,1469 425,1470"/>
+                <Baseline points="429,1466 592,1466 602,1465 894,1463 916,1463 999,1463 1024,1464 1097,1463 1132,1463 1235,1465 1258,1465 1325,1463"/>
+                <TextEquiv>
+                    <Unicode>Stellvertr. Ortsgruppenleiter: Hans Feit. 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="429,1478 991,1478 1469,1479 1493,1487 1493,1509 1469,1514 678,1515 429,1515"/>
+                <Baseline points="429,1509 722,1508 743,1508 847,1508 879,1508 991,1507 1015,1507 1070,1507 1094,1507 1198,1508 1220,1508 1276,1508 1301,1508 1404,1508 1427,1508 1493,1509"/>
+                <TextEquiv>
+                    <Unicode>Kaſſenverwaltung: Loewe. Täglich von 10—12 und 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="491,1514 952,1516 970,1516 1465,1515 1486,1519 1499,1534 1497,1551 1380,1551 969,1549 951,1549 513,1550 491,1545"/>
+                <Baseline points="495,1545 671,1543 682,1543 726,1543 736,1543 867,1543 878,1543 924,1544 925,1544 1185,1544 1202,1544 1227,1544 1239,1544 1361,1545 1372,1545 1409,1545 1418,1545 1494,1545"/>
+                <TextEquiv>
+                    <Unicode>Abrechnung für Beiträge der Sektionskaſſiere v. 15.—18. jd. Mts.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="422,1558 903,1558 1127,1559 1428,1561 1448,1562 1454,1593 903,1595 422,1595"/>
+                <Baseline points="427,1591 629,1589 649,1589 706,1589 725,1589 934,1589 953,1589 1127,1588 1160,1588 1263,1588 1284,1588 1311,1588 1335,1588 1448,1589"/>
+                <TextEquiv>
+                    <Unicode>Organiſation und Propaganda: Trautwein. 10—12 u. 16—18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:15;}">
+                <Coords points="427,1603 822,1603 1410,1604 1435,1612 1435,1633 1410,1639 962,1640 427,1640"/>
+                <Baseline points="427,1634 828,1633 849,1633 962,1633 986,1633 1040,1633 1064,1633 1168,1633 1190,1633 1218,1633 1242,1633 1346,1633 1369,1633 1435,1633"/>
+                <TextEquiv>
+                    <Unicode>Betriebszellen⸗Abteilung: Täglich von 10—12 u. 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:16;}">
+                <Coords points="425,1647 872,1647 1147,1648 1171,1656 1171,1677 1147,1684 1106,1684 425,1683"/>
+                <Baseline points="425,1677 737,1677 759,1677 872,1676 897,1677 952,1677 978,1677 1082,1677 1106,1677 1171,1677"/>
+                <TextEquiv>
+                    <Unicode>Arbeitsvermittlung: Täglich von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:17;}">
+                <Coords points="425,1690 555,1690 1274,1692 1415,1695 1432,1708 1430,1728 1118,1728 816,1728 425,1727"/>
+                <Baseline points="425,1722 679,1722 689,1721 855,1721 879,1721 930,1721 943,1721 1011,1722 1036,1722 1118,1722 1151,1721 1198,1721 1210,1721 1236,1721 1249,1721 1298,1722 1312,1722 1424,1722"/>
+                <TextEquiv>
+                    <Unicode>Kommunalpolit. Abteilung: Dr. Otto Orth. Di. u. Fr. 16—18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:18;}">
+                <Coords points="421,1734 633,1734 875,1735 1077,1736 1102,1744 1102,1766 1077,1772 440,1772 421,1766"/>
+                <Baseline points="421,1766 674,1765 693,1765 875,1765 894,1765 928,1765 949,1765 1016,1765 1036,1765 1102,1765"/>
+                <TextEquiv>
+                    <Unicode>Rechtsberatung: Donnerstag ab 16 ½ Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:19;}">
+                <Coords points="423,1779 576,1779 998,1780 1282,1781 1340,1789 1340,1810 1282,1816 423,1816"/>
+                <Baseline points="423,1811 576,1809 600,1810 744,1810 767,1810 925,1810 948,1810 1111,1809 1121,1810 1157,1810 1169,1810 1337,1810"/>
+                <TextEquiv>
+                    <Unicode>Opferring „Deutſche Freiheit“: Dipl.⸗Ing. A. Fehrmann.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:20;}">
+                <Coords points="495,1815 946,1814 1087,1814 1460,1819 1465,1850 1325,1852 1089,1854 948,1854 513,1852 495,1845"/>
+                <Baseline points="495,1845 676,1845 701,1845 804,1845 827,1845 894,1845 928,1845 1120,1846 1143,1846 1360,1846 1382,1846 1460,1846"/>
+                <TextEquiv>
+                    <Unicode>Donnerstag 18—19 Uhr. Poſiſchechk. Ludwigshafen 5987.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:21;}">
+                <Coords points="422,1856 700,1856 1332,1862 1356,1870 1356,1891 1332,1897 730,1897 422,1896"/>
+                <Baseline points="422,1890 706,1890 730,1890 814,1890 825,1890 863,1890 874,1890 968,1889 993,1889 1053,1890 1080,1890 1135,1890 1162,1890 1266,1890 1291,1890 1356,1890"/>
+                <TextEquiv>
+                    <Unicode>Landtagsfraktion: Prof. H. Kraft. Mi. von 17—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:22;}">
+                <Coords points="419,1903 626,1903 1322,1906 1430,1908 1459,1909 1465,1940 652,1940 419,1940"/>
+                <Baseline points="419,1934 667,1934 689,1934 770,1933 1143,1934 1246,1934 1268,1934 1322,1935 1346,1935 1459,1936"/>
+                <TextEquiv>
+                    <Unicode>Verlagsleitung: „Das Hakenkreuzbanner“. 10—12 und 16—18.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:23;}">
+                <Coords points="492,1939 501,1939 584,1935 624,1938 1486,1943 1491,1975 1348,1977 623,1977 596,1977 492,1975"/>
+                <Baseline points="492,1969 655,1969 658,1969 767,1970 823,1969 866,1968 891,1970 969,1970 995,1970 1035,1970 1057,1970 1073,1970 1092,1970 1141,1971 1167,1971 1383,1970 1407,1970 1486,1970"/>
+                <TextEquiv>
+                    <Unicode>Poſtſcheck⸗Konto: Karl Lenz, M. d. R., Ludwigshafen 6775.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:24;}">
+                <Coords points="420,1984 644,1984 1248,1986 1278,1994 1278,2015 1248,2021 420,2021"/>
+                <Baseline points="420,2016 648,2015 671,2015 783,2014 808,2014 863,2014 885,2014 974,2014 997,2014 1053,2014 1078,2014 1182,2015 1206,2015 1272,2015"/>
+                <TextEquiv>
+                    <Unicode>Schriftleitung: Täglich von 8—10 und 16—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:25;}">
+                <Coords points="421,2028 586,2028 851,2029 1332,2031 1356,2039 1366,2065 1332,2066 1291,2066 615,2065 421,2064"/>
+                <Baseline points="421,2059 592,2059 615,2059 706,2059 739,2059 851,2059 876,2059 931,2059 956,2059 1059,2059 1083,2059 1138,2059 1165,2059 1268,2059 1291,2060 1356,2060"/>
+                <TextEquiv>
+                    <Unicode>Preſſeamt: Haas. Täglich von 12—13 und 14—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:26;}">
+                <Coords points="420,2072 550,2072 1304,2076 1328,2084 1333,2111 1304,2111 1263,2111 420,2110"/>
+                <Baseline points="420,2103 653,2103 676,2103 758,2103 780,2103 912,2103 943,2103 1032,2103 1056,2103 1111,2103 1136,2103 1239,2104 1263,2104 1328,2105"/>
+                <TextEquiv>
+                    <Unicode>Buchhandlung: Ernſt Nöltner. 9—12 und 14—19 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:27;}">
+                <Coords points="417,2116 643,2116 1280,2120 1304,2128 1304,2150 1280,2155 995,2156 980,2156 417,2152"/>
+                <Baseline points="417,2148 455,2147 463,2150 689,2150 709,2150 784,2148 815,2149 1013,2149 1035,2149 1090,2149 1113,2149 1217,2149 1239,2149 1304,2150"/>
+                <TextEquiv>
+                    <Unicode>S, A.⸗Standarte: Feit. Donnerstags von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:28;}">
+                <Coords points="419,2165 471,2160 507,2160 1114,2167 1139,2175 1144,2199 1114,2202 507,2204 471,2204 414,2201"/>
+                <Baseline points="419,2198 471,2198 503,2197 507,2197 513,2197 600,2197 624,2197 697,2196 729,2196 841,2196 866,2196 921,2196 946,2196 1049,2196 1073,2196 1139,2196"/>
+                <TextEquiv>
+                    <Unicode>S. A. Stuf: Feit. Täglich von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:29;}">
+                <Coords points="417,2211 465,2211 1465,2211 1483,2219 1488,2248 1470,2249 1265,2247 575,2248 486,2248 414,2246"/>
+                <Baseline points="419,2242 456,2242 465,2242 616,2241 639,2241 772,2241 804,2241 917,2240 941,2240 966,2240 993,2240 1096,2240 1118,2240 1185,2240 1210,2240 1295,2240 1318,2240 1377,2240 1390,2240 1416,2240 1429,2240 1483,2240"/>
+                <TextEquiv>
+                    <Unicode>S. A.⸗Kaſſe: Schmidt. Täglich v. 17—19 Uhr, außer Mi. u. Do.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:30;}">
+                <Coords points="419,2255 554,2255 1245,2256 1269,2264 1279,2288 1245,2291 585,2292 419,2292"/>
+                <Baseline points="419,2285 653,2285 675,2285 783,2284 816,2285 974,2284 998,2284 1053,2284 1077,2284 1181,2285 1203,2285 1269,2285"/>
+                <TextEquiv>
+                    <Unicode>Hitler⸗ZJugend: Kaiſer. Samstags von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l32" custom="readingOrder {index:31;}">
+                <Coords points="419,2299 475,2296 557,2296 1375,2301 1447,2308 1447,2336 554,2337 472,2337 414,2336"/>
+                <Baseline points="419,2331 472,2331 505,2331 521,2331 554,2331 555,2331 565,2330 616,2330 626,2330 680,2330 706,2330 924,2329 950,2329 1013,2329 1040,2329 1198,2329 1224,2329 1447,2329"/>
+                <TextEquiv>
+                    <Unicode>N. S. D. St. B.: Sprechſtunden nach vorheriger Vereinbarung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l33" custom="readingOrder {index:32;}">
+                <Coords points="418,2344 810,2344 1337,2346 1362,2353 1362,2374 1337,2380 418,2380"/>
+                <Baseline points="418,2376 623,2374 645,2374 810,2373 833,2373 888,2373 911,2374 1068,2374 1092,2374 1146,2374 1170,2374 1273,2374 1296,2374 1362,2374"/>
+                <TextEquiv>
+                    <Unicode>Schülerbund: Mittwochs und Samstags von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l34" custom="readingOrder {index:33;}">
+                <Coords points="418,2387 448,2387 1399,2389 1424,2397 1424,2418 1399,2424 672,2424 413,2423"/>
+                <Baseline points="418,2419 459,2419 468,2419 507,2419 516,2419 555,2419 564,2419 601,2419 612,2419 649,2418 672,2418 943,2417 965,2417 1129,2418 1153,2418 1209,2418 1233,2418 1336,2418 1358,2418 1424,2418"/>
+                <TextEquiv>
+                    <Unicode>N. S. D. A. K. (Automobilklub): Mittwochs von 16—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l35" custom="readingOrder {index:34;}">
+                <Coords points="414,2431 557,2431 1052,2432 1399,2433 1424,2441 1424,2462 1399,2468 557,2469 414,2469"/>
+                <Baseline points="414,2463 557,2463 578,2463 795,2461 817,2461 896,2461 916,2461 953,2461 964,2461 1052,2462 1084,2462 1140,2461 1156,2461 1211,2461 1235,2461 1338,2461 1359,2461 1424,2462"/>
+                <TextEquiv>
+                    <Unicode>Deutſcher Frauenorden: Frau A. Roth. Sa. von 16—17 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l36" custom="readingOrder {index:35;}">
+                <Coords points="418,2476 743,2476 1457,2478 1481,2486 1481,2508 1457,2514 1441,2514 418,2513"/>
+                <Baseline points="418,2507 743,2507 768,2507 914,2507 946,2506 959,2506 974,2506 999,2506 1010,2506 1053,2506 1087,2506 1177,2506 1203,2506 1258,2506 1286,2506 1389,2506 1416,2506 1481,2507"/>
+                <TextEquiv>
+                    <Unicode>Nationalſozialiſtiſche Leſehalle, U 6, 24. 9—12 und 14—18 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Bezirk Groß⸗Mannheim.&#13;
+Geſchäftsſtelle Mannheim, P 5, 13 a. Telefon 317 15.&#13;
+Geſchäftsſtunden von 8—12 und 14—19 Uhr.&#13;
+Geld⸗ undEinſchreibeſendungen: NSDAP. Mannheim, Hans&#13;
+Feit, P 5, 13 a.&#13;
+Poſtſcheck⸗Konto: Ernſt Nöltner, Mannheim, Konto Lud⸗&#13;
+wigshafen 18 375.&#13;
+Bezirks⸗ und Ortsgruppenleiter: Karl Lenz, M. d. R.&#13;
+Mannheim, Tel. 317 15, oder Heidelberg, Tel. 3727.&#13;
+Sprechſtunden nach vorheriger Vereinbarung.&#13;
+Stellvertr. Bezirksleiter: Dr. Otto Orth. Di. u. Fr. 14—19 Uhr.&#13;
+Stellvertr. Ortsgruppenleiter: Hans Feit. 16—18 Uhr.&#13;
+Kaſſenverwaltung: Loewe. Täglich von 10—12 und 16—18 Uhr.&#13;
+Abrechnung für Beiträge der Sektionskaſſiere v. 15.—18. jd. Mts.&#13;
+Organiſation und Propaganda: Trautwein. 10—12 u. 16—18.&#13;
+Betriebszellen⸗Abteilung: Täglich von 10—12 u. 16—18 Uhr.&#13;
+Arbeitsvermittlung: Täglich von 16—18 Uhr.&#13;
+Kommunalpolit. Abteilung: Dr. Otto Orth. Di. u. Fr. 16—18.&#13;
+Rechtsberatung: Donnerstag ab 16 ½ Uhr.&#13;
+Opferring „Deutſche Freiheit“: Dipl.⸗Ing. A. Fehrmann.&#13;
+Donnerstag 18—19 Uhr. Poſiſchechk. Ludwigshafen 5987.&#13;
+Landtagsfraktion: Prof. H. Kraft. Mi. von 17—19 Uhr.&#13;
+Verlagsleitung: „Das Hakenkreuzbanner“. 10—12 und 16—18.&#13;
+Poſtſcheck⸗Konto: Karl Lenz, M. d. R., Ludwigshafen 6775.&#13;
+Schriftleitung: Täglich von 8—10 und 16—19 Uhr.&#13;
+Preſſeamt: Haas. Täglich von 12—13 und 14—19 Uhr.&#13;
+Buchhandlung: Ernſt Nöltner. 9—12 und 14—19 Uhr.&#13;
+S, A.⸗Standarte: Feit. Donnerstags von 16—18 Uhr.&#13;
+S. A. Stuf: Feit. Täglich von 16—18 Uhr.&#13;
+S. A.⸗Kaſſe: Schmidt. Täglich v. 17—19 Uhr, außer Mi. u. Do.&#13;
+Hitler⸗ZJugend: Kaiſer. Samstags von 16—18 Uhr.&#13;
+N. S. D. St. B.: Sprechſtunden nach vorheriger Vereinbarung.&#13;
+Schülerbund: Mittwochs und Samstags von 16—18 Uhr.&#13;
+N. S. D. A. K. (Automobilklub): Mittwochs von 16—18 Uhr.&#13;
+Deutſcher Frauenorden: Frau A. Roth. Sa. von 16—17 Uhr.&#13;
+Nationalſozialiſtiſche Leſehalle, U 6, 24. 9—12 und 14—18 Uhr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="397,2584 1498,2584 1498,2774 397,2774"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="480,2591 570,2591 1197,2592 1469,2593 1489,2605 1489,2616 1484,2627 1416,2629 1401,2629 480,2628"/>
+                <Baseline points="485,2621 604,2621 621,2621 655,2621 673,2621 787,2621 806,2621 865,2622 884,2622 992,2621 1009,2621 1197,2621 1217,2621 1269,2621 1287,2621 1316,2622 1337,2622 1481,2620"/>
+                <TextEquiv>
+                    <Unicode>Beſuche zu anderer Zeit werden grundſätzlich nur in dringend⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="407,2635 501,2636 604,2636 1421,2637 1480,2644 1480,2674 469,2672 409,2672"/>
+                <Baseline points="415,2667 470,2667 501,2667 604,2666 634,2666 690,2666 722,2666 775,2665 805,2665 868,2665 900,2666 1059,2666 1090,2666 1272,2667 1302,2667 1480,2667"/>
+                <TextEquiv>
+                    <Unicode>ſten Fällen und nur nach vorheriger telefoniſcher Abmachung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="414,2672 534,2672 586,2680 592,2706 543,2709 414,2709"/>
+                <Baseline points="414,2701 586,2702"/>
+                <TextEquiv>
+                    <Unicode>empfangen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="1041,2728 1159,2726 1429,2726 1440,2756 1433,2764 1243,2772 1159,2769 1039,2767"/>
+                <Baseline points="1047,2762 1133,2762 1161,2762 1251,2762 1281,2762 1335,2761 1345,2761 1377,2761 1388,2761 1432,2761"/>
+                <TextEquiv>
+                    <Unicode>Karl Lenz, M. d. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Beſuche zu anderer Zeit werden grundſätzlich nur in dringend⸗&#13;
+ſten Fällen und nur nach vorheriger telefoniſcher Abmachung&#13;
+empfangen.&#13;
+Karl Lenz, M. d. R.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="392,2832 1489,2832 1489,2913 1489,3366 392,3366 392,2913"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="722,2841 1116,2841 1148,2842 1159,2868 1159,2878 1124,2882 762,2882 719,2880"/>
+                <Baseline points="728,2879 937,2878 964,2878 1159,2878"/>
+                <TextEquiv>
+                    <Unicode>Ortsgruppe Weinheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" custom="readingOrder {index:1;}">
+                <Coords points="405,2915 604,2920 1413,2923 1473,2933 1480,2963 1420,2966 1129,2965 680,2965 472,2964 405,2962"/>
+                <Baseline points="410,2956 604,2956 680,2957 960,2957 993,2958 1137,2957 1173,2957 1231,2957 1265,2957 1317,2957 1329,2957 1473,2956"/>
+                <TextEquiv>
+                    <Unicode>Nächſter Sprechabend: Freitag, den 23. Januar.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l3" custom="readingOrder {index:2;}">
+                <Coords points="492,2965 547,2966 870,2966 890,2969 890,3001 870,3009 714,3009 628,3008 490,3003"/>
+                <Baseline points="500,2997 599,3000 628,3000 686,3001 714,3001 890,3001"/>
+                <TextEquiv>
+                    <Unicode>Lokal zur Eintracht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l4" custom="readingOrder {index:3;}">
+                <Coords points="518,3057 1000,3057 1166,3058 1261,3060 1297,3065 1301,3106 1015,3114 736,3109 602,3107 517,3101"/>
+                <Baseline points="523,3099 576,3099 602,3099 711,3099 736,3099 1005,3100 1031,3100 1097,3101 1124,3101 1291,3101"/>
+                <TextEquiv>
+                    <Unicode>An unſere Parteigenoſſen und Freunde!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l5" custom="readingOrder {index:4;}">
+                <Coords points="491,3135 677,3135 1446,3137 1470,3138 1470,3180 517,3180 491,3179"/>
+                <Baseline points="495,3171 562,3171 573,3171 731,3172 742,3172 883,3172 893,3172 965,3172 974,3172 1044,3172 1057,3172 1120,3172 1132,3172 1169,3172 1181,3172 1278,3172 1290,3172 1344,3172 1355,3172 1470,3173"/>
+                <TextEquiv>
+                    <Unicode>Pg. Stadtrat Oswald teilt mit, daß er unter der Woche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l6" custom="readingOrder {index:5;}">
+                <Coords points="409,3180 500,3180 1064,3181 1451,3183 1472,3192 1483,3221 1395,3225 1142,3225 527,3224 409,3223"/>
+                <Baseline points="409,3215 500,3216 527,3216 631,3216 657,3216 762,3216 788,3216 870,3216 895,3216 936,3216 962,3216 1103,3217 1130,3217 1176,3218 1212,3218 1261,3217 1287,3217 1323,3217 1349,3217 1471,3215"/>
+                <TextEquiv>
+                    <Unicode>durch ſeinen Beruf nicht zu ſprechen iſt. Er iſt jeweils</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l7" custom="readingOrder {index:6;}">
+                <Coords points="407,3224 507,3224 1131,3225 1419,3227 1461,3236 1478,3246 1478,3266 1419,3269 1222,3270 637,3270 407,3269"/>
+                <Baseline points="407,3261 592,3260 615,3260 841,3261 864,3261 898,3261 922,3261 1021,3261 1043,3261 1222,3261 1245,3261 1285,3261 1308,3261 1471,3261"/>
+                <TextEquiv>
+                    <Unicode>Samstags Nachmittags in ſeiner Wohnung zu erreichen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l8" custom="readingOrder {index:7;}">
+                <Coords points="407,3269 1407,3271 1425,3271 1471,3271 1478,3309 1428,3313 735,3314 668,3314 403,3310"/>
+                <Baseline points="407,3306 482,3305 502,3305 601,3305 623,3305 732,3305 754,3305 821,3305 843,3305 909,3305 932,3306 1093,3305 1118,3305 1166,3306 1189,3306 1231,3306 1258,3306 1319,3306 1344,3306 1471,3305"/>
+                <TextEquiv>
+                    <Unicode>Wir bitten unſere Pg. und Freunde, die an Pg. Oswald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l9" custom="readingOrder {index:8;}">
+                <Coords points="404,3324 424,3314 520,3314 1239,3315 1273,3317 1288,3318 1338,3326 1348,3354 1239,3357 1172,3358 803,3358 502,3357 403,3355"/>
+                <Baseline points="407,3349 459,3349 482,3349 640,3349 687,3349 774,3349 803,3349 858,3349 884,3349 927,3350 953,3350 1032,3350 1060,3350 1132,3351 1156,3350 1196,3350 1220,3350 1338,3350"/>
+                <TextEquiv>
+                    <Unicode>ein Anliegen haben, ſich an dieſe Zeit zu halten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Ortsgruppe Weinheim.&#13;
+Nächſter Sprechabend: Freitag, den 23. Januar.&#13;
+Lokal zur Eintracht.&#13;
+An unſere Parteigenoſſen und Freunde!&#13;
+Pg. Stadtrat Oswald teilt mit, daß er unter der Woche&#13;
+durch ſeinen Beruf nicht zu ſprechen iſt. Er iſt jeweils&#13;
+Samstags Nachmittags in ſeiner Wohnung zu erreichen.&#13;
+Wir bitten unſere Pg. und Freunde, die an Pg. Oswald&#13;
+ein Anliegen haben, ſich an dieſe Zeit zu halten.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1565,298 2659,298 2659,1261 1565,1261"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="1754,301 2156,301 2449,308 2471,309 2487,320 2494,351 2419,353 2156,354 1754,354"/>
+                <Baseline points="1754,344 2180,345 2198,345 2252,345 2272,345 2332,346 2350,346 2488,345"/>
+                <TextEquiv>
+                    <Unicode>Verſammlungskalender für den Bezirk:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="1586,376 1821,376 2276,378 2595,380 2609,382 2639,392 2651,409 2651,416 2595,424 2351,425 2128,423 1586,419"/>
+                <Baseline points="1586,413 1763,412 1784,413 1844,413 1863,413 1917,413 1935,414 2080,414 2101,414 2351,415 2369,415 2404,416 2423,416 2651,416"/>
+                <TextEquiv>
+                    <Unicode>Samstag, den 17. Januar, Verſammlung in Schriesheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="1677,420 1745,420 2258,423 2298,425 2339,434 2349,453 2349,461 2339,469 2148,469 1889,467 1851,466 1673,462"/>
+                <Baseline points="1677,457 1823,458 1851,458 1918,458 1946,459 2122,460 2148,460 2349,460"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Schirmer, Heidelberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l4" custom="readingOrder {index:3;}">
+                <Coords points="1586,473 1630,473 2532,477 2640,480 2651,508 2655,519 2590,522 2391,522 2120,521 1605,518 1586,511"/>
+                <Baseline points="1586,511 1755,510 1777,511 1807,511 1829,511 1881,511 1900,512 2044,512 2066,512 2317,513 2337,514 2371,514 2391,515 2651,514"/>
+                <TextEquiv>
+                    <Unicode>Sonntag, d. 18. Januar, Verſammlung in Friedrichsfeld.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:4;}">
+                <Coords points="1676,518 1711,518 2307,521 2348,531 2348,566 2147,566 1851,564 1674,557"/>
+                <Baseline points="1676,554 1822,555 1851,555 1917,556 1946,556 2121,557 2147,557 2348,558"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Schirmer, Heidelberg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:5;}">
+                <Coords points="1586,571 1630,571 2214,574 2593,576 2606,578 2639,587 2650,605 2653,618 2593,619 2566,620 2525,620 1605,616 1586,608"/>
+                <Baseline points="1586,607 1755,608 1773,608 1804,608 1822,608 1875,609 1891,609 2036,609 2055,610 2223,610 2240,610 2354,611 2370,611 2405,611 2421,612 2650,612"/>
+                <TextEquiv>
+                    <Unicode>Sonntag, d. 18. Januar, Deutſcher Abend in Neulußheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:6;}">
+                <Coords points="1581,623 1694,623 2520,628 2608,630 2640,639 2652,657 2652,667 2593,672 2181,672 1949,671 1611,669 1581,662"/>
+                <Baseline points="1586,661 1756,662 1779,662 1840,662 1864,662 1917,664 1937,664 2085,665 2108,665 2361,665 2384,665 2420,665 2442,665 2652,667"/>
+                <TextEquiv>
+                    <Unicode>Sonntag, den 18. Jannar, Führertagung in Mannheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:7;}">
+                <Coords points="1586,677 1607,674 1607,674 1673,674 2320,680 2492,683 2587,693 2587,719 2536,727 2446,727 1607,723 1586,715"/>
+                <Baseline points="1586,715 1760,714 1783,714 1842,715 1863,715 1915,716 1935,716 2080,716 2102,716 2353,717 2373,717 2407,718 2428,718 2587,719"/>
+                <TextEquiv>
+                    <Unicode>Dienstag, den 27. Januar, Verſammlung in Edingen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:8;}">
+                <Coords points="1675,722 1718,722 2283,725 2305,736 2305,762 2283,770 2081,770 1849,768 1668,764"/>
+                <Baseline points="1675,758 1820,759 1849,759 1915,760 1942,760 2054,761 2081,761 2305,762"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:9;}">
+                <Coords points="1586,775 1711,775 2290,778 2608,780 2648,785 2648,816 2608,824 2270,824 1586,820"/>
+                <Baseline points="1586,811 1767,812 1792,813 1851,813 1874,813 1925,813 1947,813 2091,814 2116,814 2365,815 2387,815 2420,815 2443,815 2648,816"/>
+                <TextEquiv>
+                    <Unicode>Mittwoch, den 28. Januar, Verſammlung in Plankſtadt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:10;}">
+                <Coords points="1675,820 1709,820 1997,822 2116,823 2253,825 2294,834 2305,853 2314,866 2137,867 2097,867 1848,866 1668,864"/>
+                <Baseline points="1675,857 1820,857 1848,858 1914,858 1942,858 2055,859 2081,859 2305,859"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l12" custom="readingOrder {index:11;}">
+                <Coords points="1585,873 1628,873 2603,878 2636,880 2648,907 2648,914 2603,921 2117,921 1604,918 1585,910"/>
+                <Baseline points="1585,909 1807,910 1834,910 1863,910 1889,910 1942,911 1966,911 2059,911 2086,911 2335,912 2361,912 2395,912 2419,912 2648,914"/>
+                <TextEquiv>
+                    <Unicode>Donnerstag, d. 29. Jan., Verſammlung in Neulußheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l13" custom="readingOrder {index:12;}">
+                <Coords points="1675,918 1718,918 2283,921 2304,932 2304,957 2283,965 2080,965 1871,964 1847,963 1667,960"/>
+                <Baseline points="1675,954 1819,955 1847,955 1914,956 1941,956 2054,956 2080,956 2304,957"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l14" custom="readingOrder {index:13;}">
+                <Coords points="1583,971 1730,971 2624,975 2647,986 2647,1011 2624,1020 2464,1020 1680,1014 1574,1017"/>
+                <Baseline points="1583,1009 1730,1007 1764,1007 1823,1008 1854,1008 1906,1008 1938,1008 2081,1009 2115,1009 2364,1010 2397,1010 2430,1010 2464,1010 2647,1011"/>
+                <TextEquiv>
+                    <Unicode>Freitag, den 30. Januar, Verſammlung in Reilingen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l15" custom="readingOrder {index:14;}">
+                <Coords points="1673,1016 1707,1016 1973,1017 2114,1018 2252,1020 2292,1029 2303,1048 2304,1059 2135,1062 2095,1062 1847,1061 1672,1056"/>
+                <Baseline points="1673,1051 1819,1052 1847,1052 1913,1053 1940,1053 2052,1054 2078,1054 2303,1054"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l16" custom="readingOrder {index:15;}">
+                <Coords points="1582,1068 1737,1068 2619,1073 2645,1084 2645,1109 2619,1115 2349,1116 2128,1116 1582,1113"/>
+                <Baseline points="1582,1104 1758,1104 1781,1105 1839,1105 1860,1105 1913,1106 1933,1106 2077,1106 2100,1106 2349,1107 2370,1107 2403,1108 2425,1108 2645,1108"/>
+                <TextEquiv>
+                    <Unicode>Samstag, den 31. Januar, Verſammlung in Hockenheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l17" custom="readingOrder {index:16;}">
+                <Coords points="1672,1113 1706,1113 2123,1115 2250,1117 2291,1126 2302,1145 2308,1157 2123,1159 1706,1160 1672,1160"/>
+                <Baseline points="1672,1149 1817,1150 1845,1150 1911,1150 1939,1150 2051,1150 2077,1151 2302,1152"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l18" custom="readingOrder {index:17;}">
+                <Coords points="1578,1164 1732,1165 2274,1168 2619,1170 2645,1181 2645,1206 2619,1213 2128,1213 1606,1210 1578,1201"/>
+                <Baseline points="1582,1202 1750,1202 1775,1202 1834,1203 1859,1203 1889,1203 1911,1203 2071,1203 2096,1203 2346,1204 2370,1205 2404,1205 2428,1205 2645,1206"/>
+                <TextEquiv>
+                    <Unicode>Sonntag, den 1. Februar, Verſammlung in Seckenheim.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l19" custom="readingOrder {index:18;}">
+                <Coords points="1671,1210 1705,1210 2107,1212 2249,1214 2300,1223 2311,1252 2132,1256 2076,1256 1844,1255 1664,1251"/>
+                <Baseline points="1671,1246 1816,1246 1844,1246 1910,1247 1937,1247 2050,1248 2076,1248 2300,1248"/>
+                <TextEquiv>
+                    <Unicode>Redner: Pg. Senft, Oſterburken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Verſammlungskalender für den Bezirk:&#13;
+Samstag, den 17. Januar, Verſammlung in Schriesheim.&#13;
+Redner: Pg. Schirmer, Heidelberg.&#13;
+Sonntag, d. 18. Januar, Verſammlung in Friedrichsfeld.&#13;
+Redner: Pg. Schirmer, Heidelberg.&#13;
+Sonntag, d. 18. Januar, Deutſcher Abend in Neulußheim.&#13;
+Sonntag, den 18. Jannar, Führertagung in Mannheim.&#13;
+Dienstag, den 27. Januar, Verſammlung in Edingen.&#13;
+Redner: Pg. Senft, Oſterburken.&#13;
+Mittwoch, den 28. Januar, Verſammlung in Plankſtadt.&#13;
+Redner: Pg. Senft, Oſterburken.&#13;
+Donnerstag, d. 29. Jan., Verſammlung in Neulußheim.&#13;
+Redner: Pg. Senft, Oſterburken.&#13;
+Freitag, den 30. Januar, Verſammlung in Reilingen.&#13;
+Redner: Pg. Senft, Oſterburken.&#13;
+Samstag, den 31. Januar, Verſammlung in Hockenheim.&#13;
+Redner: Pg. Senft, Oſterburken.&#13;
+Sonntag, den 1. Februar, Verſammlung in Seckenheim.&#13;
+Redner: Pg. Senft, Oſterburken.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="1559,1382 2657,1382 2657,2057 1559,2057"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;} structure {type:heading;}">
+                <Coords points="1574,1391 1625,1393 2183,1394 2244,1408 2250,1450 2184,1453 1825,1452 1574,1449"/>
+                <Baseline points="1578,1441 1654,1441 1677,1442 1763,1442 1784,1442 2244,1442"/>
+                <TextEquiv>
+                    <Unicode>An alle Ortsgruppenführer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l2" custom="readingOrder {index:1;} structure {type:heading;}">
+                <Coords points="2084,1465 2335,1465 2534,1469 2643,1471 2649,1522 2540,1528 2508,1529 2215,1523 2082,1519"/>
+                <Baseline points="2097,1516 2158,1516 2179,1516 2335,1516 2356,1516 2643,1518"/>
+                <TextEquiv>
+                    <Unicode>im Bezirk Mannheim!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l3" custom="readingOrder {index:2;}">
+                <Coords points="1578,1552 1629,1550 1957,1550 2483,1552 2647,1554 2646,1595 2565,1596 2357,1596 1740,1595 1576,1590"/>
+                <Baseline points="1578,1585 1607,1585 1629,1586 1711,1586 1740,1586 2003,1587 2032,1587 2081,1587 2106,1587 2150,1587 2179,1587 2298,1588 2328,1588 2523,1588 2552,1588 2640,1589"/>
+                <TextEquiv>
+                    <Unicode>1. Jede Veranſtaltung, die im Bezirk Mannheim ſtatt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l4" custom="readingOrder {index:3;}">
+                <Coords points="1624,1596 1645,1595 1717,1595 2347,1596 2595,1598 2647,1606 2649,1638 2595,1641 1933,1641 1780,1639 1624,1637"/>
+                <Baseline points="1631,1630 1741,1631 1767,1631 1803,1631 1828,1631 1881,1631 1904,1631 2383,1632 2410,1632 2639,1633"/>
+                <TextEquiv>
+                    <Unicode>findet, iſt der Bezirkspropagandaleitung (Bezirkspro⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l5" custom="readingOrder {index:4;}">
+                <Coords points="1630,1649 1694,1639 1694,1639 1707,1639 1904,1641 1928,1651 1928,1676 1749,1682 1707,1683 1675,1683 1630,1682"/>
+                <Baseline points="1630,1674 1707,1674 1732,1674 1772,1675 1795,1675 1928,1675"/>
+                <TextEquiv>
+                    <Unicode>pag) zu melden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l6" custom="readingOrder {index:5;}">
+                <Coords points="1575,1694 1627,1692 1627,1692 1709,1692 2127,1693 2507,1695 2572,1697 2639,1706 2639,1741 2426,1741 1904,1738 1627,1729 1575,1726"/>
+                <Baseline points="1575,1726 1606,1727 1627,1728 1709,1728 1736,1728 1801,1728 1826,1728 1880,1728 1904,1728 2171,1729 2198,1729 2362,1730 2389,1730 2639,1731"/>
+                <TextEquiv>
+                    <Unicode>2. Jede von der Bezirkspropag angeſetzte Verſammlung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l7" custom="readingOrder {index:6;}">
+                <Coords points="1628,1737 1665,1737 2171,1738 2580,1741 2638,1751 2641,1781 2281,1782 1831,1782 1640,1780 1623,1774"/>
+                <Baseline points="1626,1770 1665,1772 1700,1772 1875,1773 1912,1773 2171,1774 2207,1774 2281,1775 2318,1775 2413,1775 2450,1776 2516,1776 2550,1776 2638,1776"/>
+                <TextEquiv>
+                    <Unicode>iſt unbedingt durchzuführen, auch wenn von einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l8" custom="readingOrder {index:7;}">
+                <Coords points="1623,1781 1807,1781 2265,1783 2609,1787 2640,1798 2640,1823 2471,1828 2076,1828 1648,1824 1623,1817"/>
+                <Baseline points="1627,1816 1835,1817 1854,1817 1923,1818 1943,1818 2058,1818 2075,1819 2329,1819 2349,1819 2497,1820 2516,1820 2636,1821"/>
+                <TextEquiv>
+                    <Unicode>Ortsgruppe eine andere Veranſtaltung angeſetzt wurde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l9" custom="readingOrder {index:8;}">
+                <Coords points="1618,1826 1780,1826 2140,1827 2569,1830 2620,1834 2641,1842 2641,1854 2639,1867 2574,1869 2045,1871 1736,1871 1618,1864"/>
+                <Baseline points="1627,1864 1700,1862 1736,1862 1931,1863 1960,1863 2045,1863 2078,1863 2140,1863 2175,1864 2302,1864 2340,1864 2387,1864 2423,1864 2501,1865 2538,1865 2633,1862"/>
+                <TextEquiv>
+                    <Unicode>Für Mißlingen jeder Art werden die betr. Orts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l10" custom="readingOrder {index:9;}">
+                <Coords points="1627,1880 1806,1872 1884,1872 2258,1873 2411,1874 2440,1877 2440,1909 2411,1917 2397,1918 2291,1918 1627,1914"/>
+                <Baseline points="1627,1906 1771,1907 1806,1907 1971,1908 2003,1908 2258,1909 2291,1909 2437,1909"/>
+                <TextEquiv>
+                    <Unicode>gruppen finanziell verantwortlich gemacht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l11" custom="readingOrder {index:10;}">
+                <Coords points="1658,1919 1689,1916 2564,1919 2619,1930 2635,1936 2635,1948 2635,1960 2564,1962 2482,1962 1863,1961 1655,1958"/>
+                <Baseline points="1661,1952 1723,1951 1759,1951 1827,1951 1863,1952 2081,1952 2113,1952 2180,1953 2214,1953 2414,1954 2451,1954 2633,1953"/>
+                <TextEquiv>
+                    <Unicode>Um eine reibungsloſe und erfolgreiche Verſamm⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l12" custom="readingOrder {index:11;}">
+                <Coords points="1567,1960 1820,1960 2085,1961 2421,1963 2503,1964 2644,1972 2642,2001 2594,2008 2577,2008 1632,2004 1566,2001"/>
+                <Baseline points="1571,1995 1820,1996 1848,1996 2106,1997 2134,1997 2256,1997 2282,1998 2360,1998 2390,1998 2635,1999"/>
+                <TextEquiv>
+                    <Unicode>lungstätigkeit durchzuführen, müſſen dieſe Anordnungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l13" custom="readingOrder {index:12;}">
+                <Coords points="1567,2015 1592,2006 1965,2006 2567,2009 2597,2019 2597,2052 2544,2052 1831,2050 1592,2049 1567,2040"/>
+                <Baseline points="1571,2040 1745,2041 1776,2041 1997,2042 2025,2042 2162,2043 2471,2044 2589,2044"/>
+                <TextEquiv>
+                    <Unicode>unbedingt durchgeführt werden. Lenz.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>An alle Ortsgruppenführer
+im Bezirk Mannheim!
+1. Jede Veranſtaltung, die im Bezirk Mannheim ſtatt⸗
+findet, iſt der Bezirkspropagandaleitung (Bezirkspro⸗
+pag) zu melden.
+2. Jede von der Bezirkspropag angeſetzte Verſammlung
+iſt unbedingt durchzuführen, auch wenn von einer
+Ortsgruppe eine andere Veranſtaltung angeſetzt wurde.
+Für Mißlingen jeder Art werden die betr. Orts⸗
+gruppen finanziell verantwortlich gemacht.
+Um eine reibungsloſe und erfolgreiche Verſamm⸗
+lungstätigkeit durchzuführen, müſſen dieſe Anordnungen
+unbedingt durchgeführt werden. Lenz.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="1555,2106 2639,2106 2639,2297 1555,2297"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="1656,2112 1738,2107 1741,2107 2098,2109 2604,2115 2631,2126 2631,2158 2604,2159 2323,2159 1869,2157 1652,2152"/>
+                <Baseline points="1660,2148 1714,2148 1738,2149 1920,2149 1952,2149 2011,2149 2040,2149 2098,2150 2124,2151 2267,2150 2299,2150 2450,2150 2483,2150 2523,2150 2555,2150 2631,2152"/>
+                <TextEquiv>
+                    <Unicode>Am Sonntag, den 18. Januar, morgens 10 Uhr,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" custom="readingOrder {index:1;}">
+                <Coords points="1568,2167 1604,2157 1862,2157 2344,2159 2467,2160 2555,2161 2616,2162 2632,2176 2632,2188 2634,2203 2597,2204 1718,2201 1604,2200 1564,2199"/>
+                <Baseline points="1570,2193 1698,2193 1718,2193 1874,2194 1895,2194 2131,2194 2149,2194 2196,2194 2218,2194 2344,2195 2364,2195 2428,2195 2448,2195 2502,2195 2523,2195 2630,2193"/>
+                <TextEquiv>
+                    <Unicode>rechnen ſämtliche Zellenobleute die Karten von der Groß⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" custom="readingOrder {index:2;}">
+                <Coords points="1565,2202 2255,2203 2483,2205 2555,2206 2631,2215 2631,2249 2460,2249 1565,2244"/>
+                <Baseline points="1569,2237 1729,2237 1756,2237 1983,2238 2008,2238 2050,2238 2077,2238 2197,2239 2222,2239 2327,2239 2355,2239 2410,2239 2437,2239 2631,2240"/>
+                <TextEquiv>
+                    <Unicode>deutſchen Kundgebung im großen Saale des Wartburg⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l4" custom="readingOrder {index:3;}">
+                <Coords points="1569,2246 1609,2246 1815,2249 1815,2283 1690,2290 1590,2290 1569,2289"/>
+                <Baseline points="1569,2281 1728,2282 1757,2282 1809,2282"/>
+                <TextEquiv>
+                    <Unicode>Hoſpizes ab.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Am Sonntag, den 18. Januar, morgens 10 Uhr,
+rechnen ſämtliche Zellenobleute die Karten von der Groß⸗
+deutſchen Kundgebung im großen Saale des Wartburg⸗
+Hoſpizes ab.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:11;} structure {type:paragraph;}">
+            <Coords points="1554,2386 1850,2366 2594,2367 2650,2555 2650,2865 2645,3372 1648,3372 1549,3117 1549,2878"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="1564,2397 1620,2395 1678,2392 1842,2394 1843,2459 1679,2460 1618,2458 1562,2457"/>
+                <Baseline points="1569,2453 1835,2453"/>
+                <TextEquiv>
+                    <Unicode>NSDAP</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" custom="readingOrder {index:1;}">
+                <Coords points="2043,2396 2526,2397 2575,2401 2584,2459 2469,2465 2042,2462"/>
+                <Baseline points="2048,2454 2575,2455"/>
+                <TextEquiv>
+                    <Unicode>HEIDELBERG</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l3" custom="readingOrder {index:2;}">
+                <Coords points="1664,2560 2436,2560 2557,2564 2600,2567 2635,2572 2639,2604 2540,2606 1956,2606 1694,2605 1664,2595"/>
+                <Baseline points="1672,2595 1809,2595 1825,2595 1884,2595 1896,2595 1947,2595 1958,2595 2068,2595 2079,2595 2176,2595 2191,2595 2276,2595 2289,2595 2364,2596 2375,2596 2447,2596 2463,2596 2573,2597 2591,2597 2631,2597"/>
+                <TextEquiv>
+                    <Unicode>Montag, den 19. Januar 1931, abds. 8.30 Uhr, spricht im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l4" custom="readingOrder {index:3;}">
+                <Coords points="1664,2627 1728,2614 1816,2613 2160,2613 2566,2615 2640,2621 2636,2648 2599,2656 2461,2656 1664,2655"/>
+                <Baseline points="1671,2645 1787,2645 1816,2645 1886,2645 1909,2645 1963,2645 1990,2645 2160,2645 2187,2645 2241,2645 2265,2645 2417,2645 2442,2645 2632,2647"/>
+                <TextEquiv>
+                    <Unicode>großen Saal der Stadthalle der bekannte Verteidiger</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l5" custom="readingOrder {index:4;}">
+                <Coords points="1671,2663 2434,2663 2519,2665 2598,2667 2629,2673 2640,2689 2640,2700 2620,2705 2549,2705 2211,2704 1687,2702 1666,2701"/>
+                <Baseline points="1671,2694 1733,2694 1744,2694 1857,2694 1875,2694 1929,2694 1942,2694 2064,2694 2081,2694 2120,2694 2135,2694 2434,2695 2453,2695 2482,2695 2497,2695 2629,2695"/>
+                <TextEquiv>
+                    <Unicode>Ad. Hitlers der Anwalt im Reichswehrprozeß in Leipzig,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l6" custom="readingOrder {index:5;}">
+                <Coords points="1667,2731 1788,2724 2041,2731 2612,2740 2629,2763 2635,2780 2069,2785 2045,2785 1667,2778"/>
+                <Baseline points="1671,2772 1772,2772 1788,2772 2063,2772 2083,2772 2403,2773 2425,2773 2629,2774"/>
+                <TextEquiv>
+                    <Unicode>Dr. Frank, München M.d.R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l7" custom="readingOrder {index:6;}">
+                <Coords points="1662,2816 1895,2816 2445,2815 2595,2817 2628,2834 2628,2853 2496,2861 2397,2866 1687,2857 1662,2850"/>
+                <Baseline points="1670,2850 1882,2850 1896,2850 1951,2850 1964,2850 2259,2849 2274,2849 2328,2849 2339,2849 2541,2851 2556,2851 2629,2851"/>
+                <TextEquiv>
+                    <Unicode>Vorsitzender des Rechtsausschusses des Reichstages, ũber</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l8" custom="readingOrder {index:7;}">
+                <Coords points="1565,2888 1640,2888 2121,2889 2306,2917 2307,2987 1914,2988 1562,2992"/>
+                <Baseline points="1565,2983 1834,2982 1866,2982 2281,2981"/>
+                <TextEquiv>
+                    <Unicode>Rote Justiz oder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l9" custom="readingOrder {index:8;}">
+                <Coords points="1563,3005 1651,3005 2022,3009 2461,3011 2503,3027 2504,3117 2386,3118 2190,3124 1657,3121 1564,3109"/>
+                <Baseline points="1564,3106 2150,3109 2190,3109 2500,3106"/>
+                <TextEquiv>
+                    <Unicode>Deutsches Recht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l10" custom="readingOrder {index:9;}">
+                <Coords points="1660,3158 1876,3154 1893,3160 2453,3166 2626,3169 2634,3199 2517,3203 1892,3199 1873,3203 1658,3196"/>
+                <Baseline points="1665,3192 1777,3193 1798,3193 1876,3193 1901,3193 1908,3193 1913,3193 1955,3193 1977,3193 2021,3193 2048,3194 2242,3194 2266,3194 2547,3196 2569,3196 2626,3195"/>
+                <TextEquiv>
+                    <Unicode>Eintritt RM —.50, für Erwerbslose, Kriegsbeschädigte und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l11" custom="readingOrder {index:10;}">
+                <Coords points="1932,3201 2130,3201 2282,3202 2290,3224 2289,3236 1956,3238 1923,3231"/>
+                <Baseline points="1932,3229 2137,3230 2156,3230 2234,3230 2237,3230 2288,3230"/>
+                <TextEquiv>
+                    <Unicode>Sozialrentner RM -.30.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l12" custom="readingOrder {index:11;}">
+                <Coords points="1660,3251 1688,3250 1908,3253 2396,3254 2611,3257 2628,3268 2628,3289 2529,3293 2476,3293 1691,3286 1663,3285"/>
+                <Baseline points="1664,3282 1908,3282 1933,3282 2158,3283 2177,3283 2404,3284 2418,3284 2584,3285 2593,3285 2624,3285"/>
+                <TextEquiv>
+                    <Unicode>HEIDELBERG Vorverkauf: Geschäftsstelle Marktplatz 3;</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l13" custom="readingOrder {index:12;}">
+                <Coords points="1924,3286 2558,3292 2576,3292 2627,3298 2624,3313 2626,3326 2577,3325 2559,3325 1980,3326 1924,3324"/>
+                <Baseline points="1930,3318 1984,3319 2009,3319 2049,3318 2070,3318 2342,3319 2366,3319 2467,3320 2489,3320 2623,3321"/>
+                <TextEquiv>
+                    <Unicode>Hilpert, Bismarckarkaden; Arndt, Brücken-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l14" custom="readingOrder {index:13;}">
+                <Coords points="1925,3326 2162,3326 2162,3364 1925,3364"/>
+                <Baseline points="1931,3354 2151,3354"/>
+                <TextEquiv>
+                    <Unicode>straße Nr. 6 a.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l15" custom="readingOrder {index:14;} structure {type:reference;}">
+                <Coords points="2592,3332 2631,3332 2631,3368 2592,3368"/>
+                <Baseline points="2600,3358 2622,3358"/>
+                <TextEquiv>
+                    <Unicode>58</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NSDAP&#13;
+HEIDELBERG&#13;
+Montag, den 19. Januar 1931, abds. 8.30 Uhr, spricht im&#13;
+großen Saal der Stadthalle der bekannte Verteidiger&#13;
+Ad. Hitlers der Anwalt im Reichswehrprozeß in Leipzig,&#13;
+Dr. Frank, München M.d.R.&#13;
+Vorsitzender des Rechtsausschusses des Reichstages, ũber&#13;
+Rote Justiz oder&#13;
+Deutsches Recht&#13;
+Eintritt RM —.50, für Erwerbslose, Kriegsbeschädigte und&#13;
+Sozialrentner RM -.30.&#13;
+HEIDELBERG Vorverkauf: Geschäftsstelle Marktplatz 3;&#13;
+Hilpert, Bismarckarkaden; Arndt, Brücken-&#13;
+straße Nr. 6 a.&#13;
+58</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1668693001020_1559" custom="readingOrder {index:12;}">
+            <Coords points="1859,2365 2022,2365 2022,2529 1859,2529"/>
+        </ImageRegion>
+        <TextRegion type="paragraph" id="r12" custom="readingOrder {index:13;} structure {type:paragraph;}">
+            <Coords points="2712,305 3823,305 3823,1772 2712,1772"/>
+            <TextLine id="r12l1" custom="readingOrder {index:0;} structure {type:heading;}">
+                <Coords points="3161,319 3188,315 3214,315 3383,321 3393,376 3363,376 3231,377 3205,377 3155,375"/>
+                <Baseline points="3161,368 3383,369"/>
+                <TextEquiv>
+                    <Unicode>Achtung!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l2" custom="readingOrder {index:1;} structure {type:heading;}">
+                <Coords points="2804,387 2891,387 3429,391 3620,393 3741,395 3750,447 3657,449 3596,449 3299,447 2804,443"/>
+                <Baseline points="2807,436 3094,438 3121,438 3198,439 3223,439 3429,440 3455,441 3741,440"/>
+                <TextEquiv>
+                    <Unicode>Funktionäre des Bezirkes Mannheim!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l3" custom="readingOrder {index:2;}">
+                <Coords points="2820,472 2879,472 3298,475 3667,478 3757,479 3816,478 3814,518 3757,518 3569,518 2903,513 2815,509"/>
+                <Baseline points="2820,505 2879,505 2903,506 3054,507 3078,507 3132,507 3156,508 3202,509 3214,509 3342,509 3365,509 3504,509 3527,510 3545,510 3558,510 3590,510 3622,510 3692,511 3715,511 3807,512"/>
+                <TextEquiv>
+                    <Unicode>Am Sonntag, den 18. Januar, morgens 8 ¾ Uhr, findet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l4" custom="readingOrder {index:3;}">
+                <Coords points="2740,512 2750,512 3509,516 3763,519 3803,527 3803,557 3737,559 3638,559 3187,557 2871,553 2818,552 2736,549"/>
+                <Baseline points="2739,544 2781,544 2818,544 2927,545 2965,545 3061,546 3099,546 3150,547 3187,547 3509,549 3546,550 3577,550 3614,550 3803,551"/>
+                <TextEquiv>
+                    <Unicode>im großen Saale des Wartburg⸗Hoſpizes in Mannheim,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l5" custom="readingOrder {index:4;}">
+                <Coords points="2737,552 2767,552 3230,554 3788,559 3809,573 3809,584 3807,596 3670,597 3581,597 3072,594 2854,591 2787,589 2735,590"/>
+                <Baseline points="2739,584 2767,584 2787,584 2814,584 2835,585 2897,585 2930,585 2991,585 3022,586 3248,587 3280,587 3353,588 3384,588 3423,588 3456,588 3504,589 3537,589 3670,590 3701,590 3802,589"/>
+                <TextEquiv>
+                    <Unicode>F 4, 8/9, eine Führertagung ſtatt, an der folgende Funk⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l6" custom="readingOrder {index:5;}">
+                <Coords points="2734,591 2768,591 3038,592 3061,602 3069,632 3038,632 2939,632 2753,628 2732,627"/>
+                <Baseline points="2739,623 2852,624 2877,624 3061,625"/>
+                <TextEquiv>
+                    <Unicode>tionäre teilnehmen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l7" custom="readingOrder {index:6;}">
+                <Coords points="2738,639 2768,639 3145,641 3789,646 3808,653 3808,677 3789,687 3686,687 3452,686 2976,683 2734,679"/>
+                <Baseline points="2738,672 2818,672 2842,672 2936,673 2958,673 3276,676 3300,676 3422,677 3447,677 3664,678 3686,679 3803,679"/>
+                <TextEquiv>
+                    <Unicode>Vom Land: Ortsgruppenführer, Kaſſier, Schriftführer, Preſſe⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l8" custom="readingOrder {index:7;}">
+                <Coords points="2813,680 3040,682 3802,687 3808,725 3585,724 3472,725 3399,725 3022,720 2814,715"/>
+                <Baseline points="2817,713 3162,714 3187,714 3291,715 3316,715 3376,716 3399,716 3719,719 3743,719 3802,719"/>
+                <TextEquiv>
+                    <Unicode>obmann, Gemeinde⸗, Kreis⸗ und Bezirksabgeordnete und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l9" custom="readingOrder {index:8;}">
+                <Coords points="2811,721 2867,721 2880,723 2905,729 2913,746 2903,753 2900,756 2814,755"/>
+                <Baseline points="2818,754 2903,753"/>
+                <TextEquiv>
+                    <Unicode>Räte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l10" custom="readingOrder {index:9;}">
+                <Coords points="2736,760 2767,760 3404,761 3705,766 3801,768 3805,804 3404,803 3075,803 2868,801 2732,798"/>
+                <Baseline points="2736,792 2807,792 2846,793 3037,794 3075,794 3404,797 3445,797 3705,798 3742,798 3801,799"/>
+                <TextEquiv>
+                    <Unicode>Von Mannheim: Ortsgruppenleitung, Stadtverordnete und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l11" custom="readingOrder {index:10;}">
+                <Coords points="2811,799 2835,800 2936,800 3004,801 3058,810 3065,840 2936,846 2835,846 2811,832"/>
+                <Baseline points="2819,832 3055,834"/>
+                <TextEquiv>
+                    <Unicode>Sektionsleiter.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l12" custom="readingOrder {index:11;}">
+                <Coords points="2808,856 3045,857 3784,864 3800,873 3800,896 3784,904 3713,904 3318,901 2839,897 2808,893"/>
+                <Baseline points="2816,890 3045,891 3081,891 3284,893 3318,893 3410,894 3447,894 3605,895 3638,895 3676,896 3713,896 3800,896"/>
+                <TextEquiv>
+                    <Unicode>Obengenannte Funktionäre haben unbedingt an dieſer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l13" custom="readingOrder {index:12;}">
+                <Coords points="2730,894 2764,896 3114,898 3617,902 3712,904 3800,912 3807,940 3617,943 3474,943 2899,938 2786,936 2729,934"/>
+                <Baseline points="2735,929 2863,930 2899,930 3114,932 3159,933 3439,934 3474,934 3617,935 3650,935 3712,936 3744,936 3800,936"/>
+                <TextEquiv>
+                    <Unicode>Tagung teilzunehmen. Entſchuldigungen ſchriftlich und nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l14" custom="readingOrder {index:13;}">
+                <Coords points="2735,937 2752,937 2912,938 3797,944 3797,984 3658,984 2840,977 2730,974"/>
+                <Baseline points="2737,968 2815,969 2840,969 2942,970 2967,971 3051,971 3076,972 3121,971 3145,972 3292,973 3316,973 3364,974 3389,974 3443,974 3468,974 3634,975 3658,975 3797,977"/>
+                <TextEquiv>
+                    <Unicode>dann gültig, wenn ein Vertreter für den Jehlenden erſcheint.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l15" custom="readingOrder {index:14;}">
+                <Coords points="2728,976 2809,977 3410,980 3654,983 3802,984 3805,1021 3672,1022 3582,1022 3065,1020 2958,1017 2732,1012"/>
+                <Baseline points="2738,1008 2837,1009 2866,1009 2898,1010 2925,1010 3036,1011 3065,1011 3203,1012 3231,1013 3479,1014 3507,1014 3798,1018"/>
+                <TextEquiv>
+                    <Unicode>Sollte es infolge ſchlechter Zugverbindung auswärtigen Pg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l16" custom="readingOrder {index:15;}">
+                <Coords points="2730,1025 2770,1017 2895,1017 3408,1020 3778,1023 3806,1034 3806,1046 3803,1060 3549,1062 3492,1062 3256,1061 3014,1059 2770,1056 2730,1048"/>
+                <Baseline points="2735,1048 2895,1049 2922,1049 2988,1050 3014,1050 3131,1051 3186,1051 3221,1051 3247,1052 3408,1053 3436,1053 3465,1054 3492,1054 3585,1054 3612,1055 3656,1055 3681,1055 3797,1053"/>
+                <TextEquiv>
+                    <Unicode>unmöglich ſein, pünktlich zu erſcheinen, ſo haben die Betref⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l17" custom="readingOrder {index:16;}">
+                <Coords points="2730,1057 2939,1057 3773,1063 3805,1075 3805,1099 3580,1101 3471,1102 3457,1102 2872,1097 2730,1095"/>
+                <Baseline points="2734,1088 2838,1088 2860,1089 2939,1089 2960,1090 3009,1090 3033,1090 3181,1092 3202,1092 3234,1092 3255,1092 3434,1093 3457,1094 3492,1094 3515,1094 3580,1094 3611,1095 3675,1095 3697,1095 3797,1096"/>
+                <TextEquiv>
+                    <Unicode>fenden ſchon am Samstag in Männheim zu ſein. Für Quar⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l18" custom="readingOrder {index:17;}">
+                <Coords points="2728,1096 2801,1096 3746,1102 3799,1112 3799,1141 3746,1142 3575,1142 3062,1138 2901,1135 2726,1131"/>
+                <Baseline points="2733,1128 2801,1128 2824,1128 2907,1129 2931,1129 3015,1130 3039,1130 3188,1131 3211,1131 3317,1132 3337,1132 3379,1132 3404,1132 3462,1133 3487,1133 3535,1133 3557,1134 3797,1135"/>
+                <TextEquiv>
+                    <Unicode>tiere wird, wenn Meldung erfolgt iſt, von der Bezirksleitung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l19" custom="readingOrder {index:18;}">
+                <Coords points="2734,1144 2769,1136 2824,1136 2854,1139 2860,1172 2833,1175 2734,1175"/>
+                <Baseline points="2734,1167 2854,1169"/>
+                <TextEquiv>
+                    <Unicode>geſorgt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l20" custom="readingOrder {index:19;}">
+                <Coords points="2805,1184 2843,1180 3184,1186 3559,1190 3610,1191 3623,1193 3657,1192 3666,1230 3559,1230 3517,1230 3240,1229 2863,1225 2804,1219"/>
+                <Baseline points="2812,1217 2875,1217 2901,1217 2949,1218 2974,1218 3213,1220 3240,1220 3332,1221 3358,1221 3492,1222 3517,1222 3651,1222"/>
+                <TextEquiv>
+                    <Unicode>Auf der Tagesordnung ſtehen folgende Punkte:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l21" custom="readingOrder {index:20;}">
+                <Coords points="2726,1269 2734,1238 2779,1234 2934,1234 3631,1239 3732,1241 3790,1243 3796,1277 3732,1279 2950,1273 2795,1273"/>
+                <Baseline points="2732,1266 2934,1266 2959,1267 3220,1269 3264,1269 3270,1269 3313,1270 3350,1270 3364,1270 3445,1270 3470,1271 3787,1272"/>
+                <TextEquiv>
+                    <Unicode>1. Politiſche Lage K. Lenz, Ortsgruppenführer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l22" custom="readingOrder {index:21;}">
+                <Coords points="2732,1277 2811,1274 2990,1274 3231,1276 3518,1279 3569,1280 3643,1282 3649,1313 3455,1318 3395,1318 3095,1316 2811,1313 2723,1309"/>
+                <Baseline points="2732,1305 2758,1305 2811,1305 2990,1307 3014,1307 3072,1307 3095,1307 3231,1309 3264,1309 3270,1309 3315,1310 3368,1310 3379,1310 3464,1310 3490,1311 3636,1311"/>
+                <TextEquiv>
+                    <Unicode>2. Organiſation und Propag. Dr. Orth, Stadtrat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l23" custom="readingOrder {index:22;}">
+                <Coords points="2731,1317 2779,1314 3057,1314 3567,1319 3636,1321 3647,1353 3453,1358 3394,1358 2852,1354 2724,1350"/>
+                <Baseline points="2731,1345 2758,1345 2779,1345 3065,1347 3091,1347 3210,1349 3263,1349 3269,1349 3313,1350 3366,1350 3378,1350 3462,1350 3489,1351 3636,1352"/>
+                <TextEquiv>
+                    <Unicode>3. Kommunalpolitik (Stadt) Dr. Orth, Stadtrat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l24" custom="readingOrder {index:23;}">
+                <Coords points="2898,1355 3199,1356 3446,1358 3554,1359 3659,1360 3730,1363 3742,1395 3491,1397 3361,1397 2898,1394"/>
+                <Baseline points="2907,1389 3199,1389 3262,1389 3268,1389 3311,1390 3350,1390 3361,1390 3491,1391 3518,1391 3730,1392"/>
+                <TextEquiv>
+                    <Unicode>„ (Land) V. Treiber, Gemeinderat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l25" custom="readingOrder {index:24;}">
+                <Coords points="2730,1398 2778,1394 2842,1394 3671,1399 3676,1438 3342,1434 3263,1434 2886,1433 2726,1431"/>
+                <Baseline points="2730,1426 2757,1426 2778,1426 3070,1427 3263,1429 3667,1431"/>
+                <TextEquiv>
+                    <Unicode>4. Zeitung H. Runkel, Stadtrat.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l26" custom="readingOrder {index:25;}">
+                <Coords points="2778,1434 2937,1434 3411,1438 3470,1439 3470,1478 3413,1478 2798,1472 2772,1470"/>
+                <Baseline points="2778,1465 2975,1467 3214,1469 3470,1471"/>
+                <TextEquiv>
+                    <Unicode>Mitarbeit Dr. Roth.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l27" custom="readingOrder {index:26;}">
+                <Coords points="2772,1475 3172,1474 3733,1480 3744,1481 3784,1489 3795,1515 3721,1517 3436,1518 3380,1518 2797,1512 2772,1509"/>
+                <Baseline points="2778,1508 3172,1509 3220,1509 3221,1509 3264,1510 3270,1510 3313,1510 3352,1511 3363,1511 3480,1510 3501,1510 3559,1511 3582,1511 3654,1512 3677,1512 3784,1512"/>
+                <TextEquiv>
+                    <Unicode>Inſeraten⸗Abteilung G. Fiehler und Otto Heller.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l28" custom="readingOrder {index:27;}">
+                <Coords points="2722,1513 2775,1514 3011,1514 3287,1516 3700,1519 3793,1521 3800,1558 3700,1559 3505,1559 3152,1556 2994,1554 2722,1550"/>
+                <Baseline points="2728,1545 2755,1545 2775,1545 3011,1547 3044,1547 3102,1547 3134,1547 3287,1548 3321,1548 3378,1549 3411,1549 3474,1549 3505,1550 3700,1551 3734,1551 3794,1551"/>
+                <TextEquiv>
+                    <Unicode>5. Beantwortung von Anfragen aus dem Fragekaſten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l29" custom="readingOrder {index:28;}">
+                <Coords points="2771,1554 2948,1554 2972,1563 2972,1586 2948,1594 2796,1594 2771,1585"/>
+                <Baseline points="2776,1585 2965,1586"/>
+                <TextEquiv>
+                    <Unicode>Ausſprache.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l30" custom="readingOrder {index:29;}">
+                <Coords points="2807,1603 2940,1603 3101,1604 3730,1608 3755,1610 3797,1611 3798,1643 3667,1646 3428,1646 2990,1643 2799,1636"/>
+                <Baseline points="2807,1634 2862,1634 2896,1634 2957,1635 2990,1635 3113,1636 3148,1636 3236,1637 3271,1637 3394,1638 3428,1638 3462,1638 3496,1639 3667,1640 3702,1640 3791,1640"/>
+                <TextEquiv>
+                    <Unicode>Um eine unnötig große Debatte zu vermeiden, bitten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l31" custom="readingOrder {index:30;}">
+                <Coords points="2726,1650 2755,1642 2765,1642 3636,1647 3740,1648 3782,1649 3800,1658 3800,1670 3792,1684 3755,1688 3703,1688 3446,1687 2881,1681 2784,1679 2720,1679"/>
+                <Baseline points="2726,1673 2789,1673 2816,1674 2934,1674 2960,1675 3029,1675 3055,1675 3111,1676 3137,1676 3257,1677 3283,1677 3327,1677 3355,1677 3403,1678 3428,1678 3668,1680 3694,1680 3788,1679"/>
+                <TextEquiv>
+                    <Unicode>wir, Fragen über alle Gebiete bei der Bezirksleitung einzu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l32" custom="readingOrder {index:31;}">
+                <Coords points="2719,1690 2756,1682 2840,1682 3700,1686 3790,1688 3801,1726 3478,1725 3418,1725 2769,1721 2719,1713"/>
+                <Baseline points="2726,1713 2840,1714 2875,1715 2958,1715 2980,1715 3097,1715 3121,1716 3236,1716 3258,1716 3316,1717 3340,1717 3393,1717 3418,1717 3562,1718 3584,1718 3723,1719 3746,1719 3790,1719"/>
+                <TextEquiv>
+                    <Unicode>reichen. Dieſe Fragen werden von den einzelnen Rednern bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r12l33" custom="readingOrder {index:32;}">
+                <Coords points="2721,1723 2869,1722 3185,1724 3286,1726 3330,1734 3340,1751 3339,1763 3185,1763 2979,1763 2737,1761 2721,1754"/>
+                <Baseline points="2725,1753 2815,1754 2841,1754 2953,1754 2979,1755 3185,1756 3210,1756 3333,1757"/>
+                <TextEquiv>
+                    <Unicode>ihrem Thema berückſichtigt werden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Achtung!&#13;
+Funktionäre des Bezirkes Mannheim!&#13;
+Am Sonntag, den 18. Januar, morgens 8 ¾ Uhr, findet&#13;
+im großen Saale des Wartburg⸗Hoſpizes in Mannheim,&#13;
+F 4, 8/9, eine Führertagung ſtatt, an der folgende Funk⸗&#13;
+tionäre teilnehmen:&#13;
+Vom Land: Ortsgruppenführer, Kaſſier, Schriftführer, Preſſe⸗&#13;
+obmann, Gemeinde⸗, Kreis⸗ und Bezirksabgeordnete und&#13;
+Räte.&#13;
+Von Mannheim: Ortsgruppenleitung, Stadtverordnete und&#13;
+Sektionsleiter.&#13;
+Obengenannte Funktionäre haben unbedingt an dieſer&#13;
+Tagung teilzunehmen. Entſchuldigungen ſchriftlich und nur&#13;
+dann gültig, wenn ein Vertreter für den Jehlenden erſcheint.&#13;
+Sollte es infolge ſchlechter Zugverbindung auswärtigen Pg.&#13;
+unmöglich ſein, pünktlich zu erſcheinen, ſo haben die Betref⸗&#13;
+fenden ſchon am Samstag in Männheim zu ſein. Für Quar⸗&#13;
+tiere wird, wenn Meldung erfolgt iſt, von der Bezirksleitung&#13;
+geſorgt.&#13;
+Auf der Tagesordnung ſtehen folgende Punkte:&#13;
+1. Politiſche Lage K. Lenz, Ortsgruppenführer.&#13;
+2. Organiſation und Propag. Dr. Orth, Stadtrat.&#13;
+3. Kommunalpolitik (Stadt) Dr. Orth, Stadtrat.&#13;
+„ (Land) V. Treiber, Gemeinderat.&#13;
+4. Zeitung H. Runkel, Stadtrat.&#13;
+Mitarbeit Dr. Roth.&#13;
+Inſeraten⸗Abteilung G. Fiehler und Otto Heller.&#13;
+5. Beantwortung von Anfragen aus dem Fragekaſten und&#13;
+Ausſprache.&#13;
+Um eine unnötig große Debatte zu vermeiden, bitten&#13;
+wir, Fragen über alle Gebiete bei der Bezirksleitung einzu⸗&#13;
+reichen. Dieſe Fragen werden von den einzelnen Rednern bei&#13;
+ihrem Thema berückſichtigt werden.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r13" custom="readingOrder {index:14;} structure {type:paragraph;}">
+            <Coords points="2692,1845 3804,1845 3804,3042 2692,3042"/>
+            <TextLine id="r13l1" custom="readingOrder {index:0;}">
+                <Coords points="2957,1849 3050,1851 3525,1853 3557,1857 3557,1892 3527,1900 3257,1900 2953,1896"/>
+                <Baseline points="2963,1889 3007,1888 3018,1888 3060,1889 3071,1889 3235,1890 3257,1890 3544,1891"/>
+                <TextEquiv>
+                    <Unicode>S. A. Männer! Parteigenoſſen!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l2" custom="readingOrder {index:1;}">
+                <Coords points="2810,1921 2842,1921 3086,1922 3770,1929 3790,1944 3790,1957 3790,1968 3590,1969 3574,1969 3186,1967 2916,1965 2799,1960"/>
+                <Baseline points="2810,1956 2883,1957 2916,1957 3155,1958 3186,1959 3334,1960 3361,1960 3430,1960 3462,1961 3543,1961 3574,1962 3613,1962 3644,1962 3786,1961"/>
+                <TextEquiv>
+                    <Unicode>Das Reichsbanner entfaltet eine nicht zu überbie⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l3" custom="readingOrder {index:2;}">
+                <Coords points="2719,1967 2774,1966 2967,1966 3109,1967 3146,1970 3163,1978 3187,1992 3181,2006 3146,2010 3109,2011 2865,2011 2712,2005"/>
+                <Baseline points="2719,1999 2810,2000 2846,2001 3174,2004"/>
+                <TextEquiv>
+                    <Unicode>tende Bürgerkriegshetze.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l4" custom="readingOrder {index:3;}">
+                <Coords points="2810,2011 2831,2011 3582,2014 3786,2019 3792,2057 3681,2060 3656,2060 3109,2057 2935,2055 2868,2054 2823,2052 2808,2055"/>
+                <Baseline points="2809,2046 2954,2046 2991,2047 3072,2048 3109,2048 3308,2050 3345,2051 3582,2051 3622,2051 3681,2052 3717,2052 3786,2053"/>
+                <TextEquiv>
+                    <Unicode>Hörſing ſtellt militäriſche Formationen auf und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l5" custom="readingOrder {index:4;}">
+                <Coords points="2713,2056 2961,2056 3198,2057 3220,2067 3220,2102 3062,2102 2713,2097"/>
+                <Baseline points="2720,2089 2840,2090 2867,2090 2961,2091 2987,2092 3220,2093"/>
+                <TextEquiv>
+                    <Unicode>fordert deren Bewaffnung.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l6" custom="readingOrder {index:5;}">
+                <Coords points="2809,2100 2854,2100 3037,2101 3666,2105 3744,2106 3789,2105 3792,2147 3683,2150 3497,2150 2912,2144 2803,2140"/>
+                <Baseline points="2809,2135 2883,2135 2912,2136 3048,2137 3077,2137 3176,2138 3202,2138 3261,2138 3291,2138 3386,2139 3415,2139 3470,2140 3497,2140 3683,2142 3712,2143 3786,2142"/>
+                <TextEquiv>
+                    <Unicode>Das deutſche Volk, vor allem der werktätige Teil</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l7" custom="readingOrder {index:6;}">
+                <Coords points="2714,2142 2729,2144 3560,2149 3761,2151 3785,2161 3793,2191 3633,2192 3477,2192 2862,2189 2712,2182"/>
+                <Baseline points="2718,2178 2753,2178 2778,2178 2836,2179 2862,2181 3170,2182 3193,2182 3251,2182 3276,2182 3381,2183 3405,2183 3560,2184 3585,2185 3710,2186 3733,2186 3785,2186"/>
+                <TextEquiv>
+                    <Unicode>in den Induſtriezentren, ſoll ſeinen jüdiſchen Herren ein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l8" custom="readingOrder {index:7;}">
+                <Coords points="2715,2189 2964,2189 3220,2193 3243,2202 3243,2227 3220,2235 3137,2235 2738,2234 2715,2224"/>
+                <Baseline points="2720,2223 3106,2226 3137,2226 3243,2227"/>
+                <TextEquiv>
+                    <Unicode>Gladiatorenſchauſpiel geben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l9" custom="readingOrder {index:8;}">
+                <Coords points="2808,2233 2841,2233 3364,2237 3749,2240 3764,2243 3784,2250 3789,2276 3761,2278 3593,2281 3345,2281 2974,2277 2808,2274"/>
+                <Baseline points="2808,2268 3066,2270 3092,2270 3219,2271 3244,2271 3292,2271 3317,2272 3450,2273 3478,2273 3532,2273 3559,2273 3785,2272"/>
+                <TextEquiv>
+                    <Unicode>Hemmungslos werden die Maſſen des Proletariats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l10" custom="readingOrder {index:9;}">
+                <Coords points="2709,2287 2764,2278 2943,2278 3383,2280 3761,2284 3785,2294 3790,2324 3607,2326 3571,2326 3239,2324 2764,2320 2709,2311"/>
+                <Baseline points="2719,2311 2943,2313 2974,2313 3026,2313 3055,2314 3112,2314 3140,2314 3208,2315 3239,2315 3383,2316 3413,2316 3468,2317 3497,2317 3691,2318 3721,2319 3785,2319"/>
+                <TextEquiv>
+                    <Unicode>aufgeputſcht, bis auf dem Pflaſter der Großſtädte Ar⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l11" custom="readingOrder {index:10;}">
+                <Coords points="2716,2323 2765,2323 2933,2324 2971,2326 3011,2334 3030,2346 3029,2363 2854,2363 2712,2361"/>
+                <Baseline points="2716,2356 2813,2357 2847,2357 3022,2359"/>
+                <TextEquiv>
+                    <Unicode>beiter verbluten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l12" custom="readingOrder {index:11;}">
+                <Coords points="2806,2366 2954,2366 3718,2372 3755,2369 3783,2383 3783,2414 3595,2414 3411,2413 3096,2411 2819,2407 2800,2405"/>
+                <Baseline points="2806,2401 2954,2402 2975,2403 3039,2403 3060,2403 3266,2405 3285,2405 3377,2405 3398,2405 3450,2406 3469,2406 3529,2407 3549,2407 3653,2408 3680,2408 3781,2408"/>
+                <TextEquiv>
+                    <Unicode>Arbeiter von Mannheim, wollt ihr das auch? Nein,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l13" custom="readingOrder {index:12;}">
+                <Coords points="2712,2412 2730,2410 2748,2410 3015,2411 3587,2415 3606,2419 3606,2451 3587,2459 3499,2459 3264,2457 2730,2452 2712,2445"/>
+                <Baseline points="2717,2444 2765,2445 2789,2445 2879,2446 2903,2446 3015,2447 3035,2447 3100,2448 3124,2447 3220,2449 3243,2450 3389,2450 3409,2450 3475,2450 3499,2450 3606,2451"/>
+                <TextEquiv>
+                    <Unicode>ihr wollt Arbeit und Brot, Freiheit und Recht.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l14" custom="readingOrder {index:13;}">
+                <Coords points="2797,2456 2832,2456 3139,2457 3723,2461 3770,2471 3784,2492 3784,2503 3723,2505 3640,2505 3209,2502 2796,2497"/>
+                <Baseline points="2805,2493 2856,2491 2886,2491 2944,2491 2973,2492 3183,2493 3209,2493 3349,2494 3378,2494 3415,2495 3445,2495 3545,2496 3574,2496 3613,2496 3640,2496 3780,2497"/>
+                <TextEquiv>
+                    <Unicode>In den kommenden Wochen iſt damit zu rechnen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l15" custom="readingOrder {index:14;}">
+                <Coords points="2716,2501 2906,2500 3078,2500 3757,2505 3788,2516 3788,2543 3757,2549 3510,2549 3339,2548 2758,2543 2708,2540"/>
+                <Baseline points="2716,2534 2777,2535 2806,2535 2878,2535 2906,2536 3146,2537 3170,2538 3218,2538 3245,2538 3483,2540 3510,2540 3782,2543"/>
+                <TextEquiv>
+                    <Unicode>daß vom Reichsbanner die unerhörteſten Provokationen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l16" custom="readingOrder {index:15;}">
+                <Coords points="2715,2550 2991,2547 3210,2547 3782,2549 3782,2594 3489,2594 2754,2588 2712,2587"/>
+                <Baseline points="2715,2579 2812,2579 2840,2580 2905,2580 2935,2580 3048,2581 3073,2581 3210,2582 3241,2582 3295,2583 3324,2582 3390,2583 3420,2583 3459,2583 3489,2584 3782,2586"/>
+                <TextEquiv>
+                    <Unicode>gegen uns verübt werden, um uns zu Geſetzloſigkeiten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l17" custom="readingOrder {index:16;}">
+                <Coords points="2710,2588 2938,2588 2938,2631 2710,2631"/>
+                <Baseline points="2715,2624 2930,2624"/>
+                <TextEquiv>
+                    <Unicode>hinzureißen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l18" custom="readingOrder {index:17;}">
+                <Coords points="2803,2634 3159,2634 3457,2637 3780,2641 3780,2683 3735,2684 3723,2684 2827,2678 2803,2670"/>
+                <Baseline points="2803,2669 3159,2671 3193,2671 3309,2672 3341,2673 3528,2674 3557,2674 3692,2675 3723,2675 3780,2676"/>
+                <TextEquiv>
+                    <Unicode>Nationalſozialiſten! Unſere Bewegung gründet ſich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l19" custom="readingOrder {index:18;}">
+                <Coords points="2709,2689 2759,2680 2804,2679 3130,2679 3428,2681 3658,2683 3765,2685 3780,2693 3780,2713 3779,2727 3658,2727 3573,2727 2804,2724 2759,2721 2709,2714"/>
+                <Baseline points="2714,2713 2772,2714 2804,2714 3130,2716 3160,2716 3227,2717 3256,2717 3428,2718 3471,2718 3538,2720 3569,2720 3699,2720 3729,2719 3776,2719"/>
+                <TextEquiv>
+                    <Unicode>auf Gefolgſchaftstreue und Diſziplin. Der Führer be⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l20" custom="readingOrder {index:19;}">
+                <Coords points="2714,2724 2758,2722 2758,2722 2819,2722 3680,2728 3779,2737 3779,2772 3609,2772 3164,2770 2714,2765"/>
+                <Baseline points="2714,2758 2819,2758 2845,2758 2929,2759 2956,2759 3035,2760 3059,2760 3288,2761 3313,2762 3380,2762 3407,2762 3476,2763 3499,2763 3572,2764 3596,2762 3679,2763 3705,2763 3779,2764"/>
+                <TextEquiv>
+                    <Unicode>fiehlt: Seid kalt, wohlüberlegt und laßt euch nicht pro⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l21" custom="readingOrder {index:20;}">
+                <Coords points="2708,2778 2773,2768 2940,2768 3187,2769 3583,2772 3785,2774 3792,2814 3403,2815 3340,2815 2755,2810 2708,2802"/>
+                <Baseline points="2712,2802 2869,2803 2909,2803 2962,2804 2989,2804 3083,2804 3109,2805 3203,2805 3231,2806 3310,2806 3340,2806 3419,2807 3448,2807 3527,2808 3556,2808 3684,2809 3712,2809 3778,2809"/>
+                <TextEquiv>
+                    <Unicode>vozieren. An eurer Ruhe muß dieſe neue Juden⸗ und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l22" custom="readingOrder {index:21;}">
+                <Coords points="2709,2809 2994,2811 3584,2817 3659,2818 3784,2820 3788,2840 3784,2858 3701,2862 3682,2862 2709,2853"/>
+                <Baseline points="2712,2847 3029,2848 3055,2848 3244,2849 3279,2850 3380,2850 3402,2851 3524,2852 3549,2852 3603,2852 3627,2852 3711,2853 3734,2853 3779,2852"/>
+                <TextEquiv>
+                    <Unicode>Reichsbannerhetze zerſchellen. Dann kommt der Tag, an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l23" custom="readingOrder {index:22;}">
+                <Coords points="2707,2859 2808,2855 2840,2855 3596,2861 3691,2862 3712,2863 3777,2872 3777,2906 3429,2906 2894,2901 2808,2900 2707,2894"/>
+                <Baseline points="2711,2891 2780,2892 2808,2892 2868,2892 2894,2892 3031,2893 3056,2893 3215,2894 3241,2894 3295,2895 3323,2895 3383,2895 3410,2896 3596,2898 3623,2898 3712,2899 3737,2899 3777,2899"/>
+                <TextEquiv>
+                    <Unicode>dem ihr, deutſche Arbeiter, als das werktätige Volk zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l24" custom="readingOrder {index:23;}">
+                <Coords points="2705,2901 2966,2901 3013,2904 3013,2938 2966,2944 2921,2944 2749,2943 2705,2936"/>
+                <Baseline points="2710,2936 2892,2937 2921,2937 3008,2938"/>
+                <TextEquiv>
+                    <Unicode>beſtimmen habt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l25" custom="readingOrder {index:24;}">
+                <Coords points="2800,2945 2833,2945 3705,2950 3776,2952 3787,2991 3749,2995 3672,2995 3307,2992 2974,2989 2792,2985"/>
+                <Baseline points="2800,2980 2927,2981 2955,2981 3170,2982 3198,2983 3227,2983 3239,2983 3354,2984 3379,2984 3512,2985 3540,2985 3645,2986 3672,2986 3776,2987"/>
+                <TextEquiv>
+                    <Unicode>Darum Kameraden, in dieſer Stunde Ruhe, Diſzi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r13l26" custom="readingOrder {index:25;}">
+                <Coords points="2710,2999 2734,2992 2746,2991 3164,2991 3431,2993 3461,2996 3461,3036 3411,3037 2890,3034 2710,3031"/>
+                <Baseline points="2710,3024 2780,3025 2801,3025 2867,3025 2890,3025 3164,3027 3194,3027 3264,3028 3285,3028 3345,3029 3368,3030 3456,3030"/>
+                <TextEquiv>
+                    <Unicode>plin und Geſchloſſenheit. Auf den Tag!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S. A. Männer! Parteigenoſſen!&#13;
+Das Reichsbanner entfaltet eine nicht zu überbie⸗&#13;
+tende Bürgerkriegshetze.&#13;
+Hörſing ſtellt militäriſche Formationen auf und&#13;
+fordert deren Bewaffnung.&#13;
+Das deutſche Volk, vor allem der werktätige Teil&#13;
+in den Induſtriezentren, ſoll ſeinen jüdiſchen Herren ein&#13;
+Gladiatorenſchauſpiel geben.&#13;
+Hemmungslos werden die Maſſen des Proletariats&#13;
+aufgeputſcht, bis auf dem Pflaſter der Großſtädte Ar⸗&#13;
+beiter verbluten.&#13;
+Arbeiter von Mannheim, wollt ihr das auch? Nein,&#13;
+ihr wollt Arbeit und Brot, Freiheit und Recht.&#13;
+In den kommenden Wochen iſt damit zu rechnen,&#13;
+daß vom Reichsbanner die unerhörteſten Provokationen&#13;
+gegen uns verübt werden, um uns zu Geſetzloſigkeiten&#13;
+hinzureißen&#13;
+Nationalſozialiſten! Unſere Bewegung gründet ſich&#13;
+auf Gefolgſchaftstreue und Diſziplin. Der Führer be⸗&#13;
+fiehlt: Seid kalt, wohlüberlegt und laßt euch nicht pro⸗&#13;
+vozieren. An eurer Ruhe muß dieſe neue Juden⸗ und&#13;
+Reichsbannerhetze zerſchellen. Dann kommt der Tag, an&#13;
+dem ihr, deutſche Arbeiter, als das werktätige Volk zu&#13;
+beſtimmen habt.&#13;
+Darum Kameraden, in dieſer Stunde Ruhe, Diſzi⸗&#13;
+plin und Geſchloſſenheit. Auf den Tag!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r14" custom="readingOrder {index:15;} structure {type:paragraph;}">
+            <Coords points="2692,3072 3804,3072 3804,3372 2692,3372"/>
+            <TextLine id="r14l1" custom="readingOrder {index:0;}">
+                <Coords points="2710,3079 2814,3079 2826,3119 2790,3125 2707,3125"/>
+                <Baseline points="2710,3117 2814,3116"/>
+                <TextEquiv>
+                    <Unicode>S.⸗A.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l2" custom="readingOrder {index:1;}">
+                <Coords points="2710,3142 2915,3142 3169,3143 3704,3146 3757,3149 3775,3158 3779,3187 3721,3191 3472,3188 2896,3187 2704,3183"/>
+                <Baseline points="2710,3177 2815,3177 2838,3177 2983,3178 3014,3178 3039,3179 3057,3179 3077,3179 3102,3179 3169,3179 3191,3179 3291,3180 3314,3180 3348,3180 3370,3181 3425,3181 3446,3181 3773,3182"/>
+                <TextEquiv>
+                    <Unicode>Jeden Montag ½ 8 Uhr findet in der Kurfürſten⸗Schule</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l3" custom="readingOrder {index:2;}">
+                <Coords points="2799,3188 2840,3188 3427,3190 3639,3191 3733,3193 3778,3199 3777,3232 3754,3233 3427,3233 3329,3233 3140,3232 2955,3231 2789,3226"/>
+                <Baseline points="2799,3222 2934,3223 2955,3223 3038,3224 3068,3225 3119,3224 3140,3224 3176,3224 3197,3224 3251,3225 3273,3225 3427,3226 3447,3226 3773,3225"/>
+                <TextEquiv>
+                    <Unicode>Turnen ſtatt. Es iſt für ſämtliche S.⸗A.⸗Kameraden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l4" custom="readingOrder {index:3;}">
+                <Coords points="2798,3232 2884,3232 2903,3233 2933,3235 2933,3268 2903,3275 2798,3275"/>
+                <Baseline points="2798,3267 2933,3268"/>
+                <TextEquiv>
+                    <Unicode>Pflicht!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l5" custom="readingOrder {index:4;}">
+                <Coords points="2709,3276 2741,3276 3151,3278 3558,3280 3612,3279 3774,3278 3776,3324 3499,3322 3213,3322 2853,3321 2704,3319"/>
+                <Baseline points="2709,3312 2880,3312 2903,3312 2962,3312 2982,3312 3034,3312 3047,3313 3191,3313 3213,3314 3314,3314 3335,3314 3377,3314 3402,3315 3558,3316 3580,3316 3773,3315"/>
+                <TextEquiv>
+                    <Unicode>Dienstag, den 20. Januar, findet im „Ochſen“ eine Gruſ⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r14l6" custom="readingOrder {index:5;}">
+                <Coords points="2797,3322 2946,3322 3237,3323 3264,3333 3264,3358 3237,3365 2924,3365 2835,3364 2790,3361"/>
+                <Baseline points="2797,3356 3003,3356 3027,3357 3109,3357 3142,3357 3163,3358 3188,3358 3264,3358"/>
+                <TextEquiv>
+                    <Unicode>beſprechung ſtatt. 8 Uhr.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>S.⸗A.&#13;
+Jeden Montag ½ 8 Uhr findet in der Kurfürſten⸗Schule&#13;
+Turnen ſtatt. Es iſt für ſämtliche S.⸗A.⸗Kameraden&#13;
+Pflicht!&#13;
+Dienstag, den 20. Januar, findet im „Ochſen“ eine Gruſ⸗&#13;
+beſprechung ſtatt. 8 Uhr.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r15" custom="readingOrder {index:16;} structure {type:heading;}">
+            <Coords points="387,3464 3792,3464 3792,3700 387,3700"/>
+            <TextLine id="r15l1" custom="readingOrder {index:0;}">
+                <Coords points="402,3476 1487,3476 3701,3488 3773,3497 3781,3683 2844,3692 2010,3692 1057,3687 401,3687"/>
+                <Baseline points="402,3663 967,3660 1057,3660 1306,3660 1394,3661 1692,3661 1776,3661 3773,3671"/>
+                <TextEquiv>
+                    <Unicode>Werbt für das „Hakenkreuz⸗Banner“!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Werbt für das „Hakenkreuz⸗Banner“!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r16" custom="readingOrder {index:17;} structure {type:paragraph;}">
+            <Coords points="322,3829 1639,3828 1644,4193 1639,4457 1410,4457 799,4461 313,4465 322,3964"/>
+            <TextLine id="r16l1" custom="readingOrder {index:0;}">
+                <Coords points="440,3860 617,3860 617,3966 440,3966"/>
+                <Baseline points="452,3945 603,3946"/>
+                <TextEquiv>
+                    <Unicode>Mein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l2" custom="readingOrder {index:1;}">
+                <Coords points="746,3853 1639,3853 1639,3963 746,3963"/>
+                <Baseline points="754,3945 1624,3946"/>
+                <TextEquiv>
+                    <Unicode>nventur-Ausverkauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l3" custom="readingOrder {index:2;}">
+                <Coords points="815,3971 921,3971 1157,3972 1371,3973 1495,3974 1516,3982 1532,4007 1427,4005 996,4006 860,4006 815,3998"/>
+                <Baseline points="827,3998 921,3998 938,3999 1010,3999 1030,3999 1191,4000 1210,4000 1468,4001 1488,4001 1514,4001"/>
+                <TextEquiv>
+                    <Unicode>bringt ganz gewaltige Preiskürzungen in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l4" custom="readingOrder {index:3;}">
+                <Coords points="824,4023 967,4023 1384,4029 1482,4030 1583,4037 1583,4075 1552,4075 855,4071 823,4070"/>
+                <Baseline points="828,4063 1023,4064 1039,4064 1137,4064 1157,4064 1583,4066"/>
+                <TextEquiv>
+                    <Unicode>Herren- und Knabenkleidung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l5" custom="readingOrder {index:4;}">
+                <Coords points="823,4079 857,4079 1593,4083 1626,4091 1628,4123 1595,4124 1226,4126 1212,4126 858,4123 822,4122"/>
+                <Baseline points="827,4116 1226,4118 1262,4119 1626,4117"/>
+                <TextEquiv>
+                    <Unicode>Damenmänteln, Kleiderstoffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l6" custom="readingOrder {index:5;}">
+                <Coords points="826,4135 1004,4135 1604,4136 1626,4145 1626,4172 1607,4183 1438,4183 1256,4183 907,4179 861,4177 824,4176"/>
+                <Baseline points="827,4168 1072,4171 1092,4171 1126,4171 1145,4171 1371,4172 1395,4172 1626,4172"/>
+                <TextEquiv>
+                    <Unicode>Manufaktur- u. Wollwaren, Trikotagen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l7" custom="readingOrder {index:6;}">
+                <Coords points="799,4229 934,4231 945,4249 993,4262 996,4307 794,4306"/>
+                <Baseline points="802,4299 984,4298"/>
+                <TextEquiv>
+                    <Unicode>Fritz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l8" custom="readingOrder {index:7;}">
+                <Coords points="852,4312 884,4311 959,4333 1003,4311 1008,4256 957,4245 936,4216 954,4190 1620,4189 1620,4393 867,4393"/>
+                <Baseline points="879,4385 1606,4385"/>
+                <TextEquiv>
+                    <Unicode>Janzer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l9" custom="readingOrder {index:8;}">
+                <Coords points="992,4398 1385,4398 1385,4441 992,4441"/>
+                <Baseline points="999,4439 1386,4437"/>
+                <TextEquiv>
+                    <Unicode>WEINHEIM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l10" custom="readingOrder {index:9;}">
+                <Coords points="392,4027 553,4029 610,4030 620,4055 452,4055 392,4053"/>
+                <Baseline points="399,4051 451,4051 473,4050 610,4050"/>
+                <TextEquiv>
+                    <Unicode>Zum Verkauf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l11" custom="readingOrder {index:10;}">
+                <Coords points="392,4058 506,4058 522,4058 596,4057 610,4064 617,4081 524,4081 508,4081 390,4081"/>
+                <Baseline points="398,4077 497,4078 504,4078 530,4077 540,4077 610,4077"/>
+                <TextEquiv>
+                    <Unicode>kommen n. meine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l12" custom="readingOrder {index:11;}">
+                <Coords points="398,4083 493,4083 568,4085 610,4091 617,4105 531,4109 516,4109 393,4107"/>
+                <Baseline points="398,4104 493,4104 516,4104 610,4104"/>
+                <TextEquiv>
+                    <Unicode>bekannt guten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l13" custom="readingOrder {index:12;}">
+                <Coords points="392,4109 450,4109 610,4111 618,4134 457,4135 393,4135"/>
+                <Baseline points="400,4133 556,4131 566,4131 610,4131"/>
+                <TextEquiv>
+                    <Unicode>Qualitäten und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l14" custom="readingOrder {index:13;}">
+                <Coords points="407,4137 570,4137 596,4145 604,4159 537,4160 408,4161"/>
+                <Baseline points="412,4157 476,4157 489,4157 525,4157 535,4158 596,4158"/>
+                <TextEquiv>
+                    <Unicode>keine fũr diese</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l15" custom="readingOrder {index:14;}">
+                <Coords points="413,4161 590,4161 590,4188 413,4188"/>
+                <Baseline points="420,4183 586,4182"/>
+                <TextEquiv>
+                    <Unicode>Veranstaltung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l16" custom="readingOrder {index:15;}">
+                <Coords points="420,4188 579,4188 577,4215 418,4215"/>
+                <Baseline points="427,4209 572,4211"/>
+                <TextEquiv>
+                    <Unicode>geramschten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l17" custom="readingOrder {index:16;}">
+                <Coords points="401,4216 601,4216 601,4243 401,4243"/>
+                <Baseline points="408,4237 592,4237"/>
+                <TextEquiv>
+                    <Unicode>minderwertigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l18" custom="readingOrder {index:17;}">
+                <Coords points="446,4243 549,4243 549,4266 446,4266"/>
+                <Baseline points="460,4262 544,4262"/>
+                <TextEquiv>
+                    <Unicode>Waren.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l19" custom="readingOrder {index:18;}">
+                <Coords points="390,4268 612,4268 613,4296 391,4296"/>
+                <Baseline points="397,4290 605,4291"/>
+                <TextEquiv>
+                    <Unicode>Deshalb ist jeder</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l20" custom="readingOrder {index:19;}">
+                <Coords points="389,4294 610,4294 610,4321 389,4321"/>
+                <Baseline points="395,4317 605,4318"/>
+                <TextEquiv>
+                    <Unicode>Kauf ein Gewinn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l21" custom="readingOrder {index:20;}">
+                <Coords points="394,4324 451,4323 494,4323 558,4324 576,4325 608,4332 609,4349 534,4354 394,4353"/>
+                <Baseline points="394,4345 429,4345 451,4345 494,4345 518,4345 608,4346"/>
+                <TextEquiv>
+                    <Unicode>für den Käufer.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r16l22" custom="readingOrder {index:21;}">
+                <Coords points="393,4421 483,4417 483,4417 788,4417 788,4455 483,4455 393,4451"/>
+                <Baseline points="393,4444 483,4444 513,4445 525,4445 567,4445 578,4445 614,4445 621,4445 629,4445 671,4445 680,4445 788,4446"/>
+                <TextEquiv>
+                    <Unicode>Verkauf nur geg. bar. Kein Umtausch.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mein&#13;
+nventur-Ausverkauf&#13;
+bringt ganz gewaltige Preiskürzungen in&#13;
+Herren- und Knabenkleidung&#13;
+Damenmänteln, Kleiderstoffen&#13;
+Manufaktur- u. Wollwaren, Trikotagen.&#13;
+Fritz&#13;
+Janzer&#13;
+WEINHEIM&#13;
+Zum Verkauf&#13;
+kommen n. meine&#13;
+bekannt guten&#13;
+Qualitäten und&#13;
+keine fũr diese&#13;
+Veranstaltung&#13;
+geramschten&#13;
+minderwertigen&#13;
+Waren.&#13;
+Deshalb ist jeder&#13;
+Kauf ein Gewinn&#13;
+für den Käufer.&#13;
+Verkauf nur geg. bar. Kein Umtausch.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r17" custom="readingOrder {index:18;} structure {type:paragraph;}">
+            <Coords points="1674,3815 2491,3815 2491,4077 2490,4301 1674,4301 1674,4115"/>
+            <TextLine id="r17l1" custom="readingOrder {index:0;}">
+                <Coords points="1683,3823 1708,3823 1967,3824 2218,3825 2234,3827 2243,3866 2203,3867 2015,3864 1803,3864 1678,3861"/>
+                <Baseline points="1683,3858 1751,3858 1774,3858 2015,3859 2039,3859 2119,3859 2144,3859 2234,3858"/>
+                <TextEquiv>
+                    <Unicode>Zur Gesundheit, zum Licht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l2" custom="readingOrder {index:1;}">
+                <Coords points="1682,3877 1812,3877 2071,3879 2126,3880 2246,3873 2248,3826 2281,3821 2279,3888 2284,3928 2167,3928 2134,3925 1866,3924 1711,3924 1678,3923"/>
+                <Baseline points="1684,3917 1812,3919 1838,3919 2271,3920"/>
+                <TextEquiv>
+                    <Unicode>durch Lebens-Reform!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l3" custom="readingOrder {index:2;}">
+                <Coords points="1879,3959 2275,3957 2423,3958 2486,3962 2486,3992 2070,3992 1879,3991"/>
+                <Baseline points="1879,3986 2023,3986 2043,3986 2086,3986 2107,3986 2173,3986 2189,3986 2243,3986 2263,3987 2288,3987 2303,3987 2483,3987"/>
+                <TextEquiv>
+                    <Unicode>Beuchen Sie bitte das Ⅰ. Weinheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l4" custom="readingOrder {index:3;}">
+                <Coords points="1880,4016 2226,4003 2480,4003 2487,4076 1974,4080 1877,4075"/>
+                <Baseline points="1880,4071 2204,4072 2226,4072 2480,4072"/>
+                <TextEquiv>
+                    <Unicode>Reformhaus Biebach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l5" custom="readingOrder {index:4;}">
+                <Coords points="1871,4111 2166,4111 2166,4159 1871,4159"/>
+                <Baseline points="1877,4147 2151,4147"/>
+                <TextEquiv>
+                    <Unicode>Hauptstraße 129</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l6" custom="readingOrder {index:5;}">
+                <Coords points="1681,4180 1910,4180 2272,4181 2480,4183 2484,4213 2470,4214 2272,4214 1994,4214 1679,4215"/>
+                <Baseline points="1681,4209 1920,4209 1937,4209 1977,4209 1994,4209 2124,4210 2140,4210 2275,4210 2301,4210 2382,4210 2402,4210 2480,4211"/>
+                <TextEquiv>
+                    <Unicode>Spezialgeschäft für gesunde Nahrung. Ohne Kauf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l7" custom="readingOrder {index:6;}">
+                <Coords points="1678,4222 1812,4221 2210,4220 2438,4219 2478,4225 2483,4244 2484,4254 2369,4255 1779,4253 1740,4253 1680,4252"/>
+                <Baseline points="1683,4249 1787,4249 1812,4249 1907,4249 1920,4249 1966,4249 1981,4249 2146,4250 2160,4250 2278,4250 2289,4250 2314,4250 2331,4250 2375,4249 2399,4250 2479,4250"/>
+                <TextEquiv>
+                    <Unicode>zwang. Artikel zur natürlichen Lebens- u. Hellweise.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l8" custom="readingOrder {index:7;}">
+                <Coords points="1683,4261 2033,4261 2425,4262 2472,4263 2479,4283 2480,4294 2304,4298 2285,4294 1717,4293 1681,4291"/>
+                <Baseline points="1683,4288 1892,4289 1903,4289 2057,4289 2074,4289 2158,4289 2166,4289 2303,4289 2312,4289 2336,4289 2344,4289 2479,4290"/>
+                <TextEquiv>
+                    <Unicode>Körperpflege, Schrifttum. Kostl. Beratung u. Auskunft.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r17l9" custom="readingOrder {index:8;} structure {type:reference;}">
+                <Coords points="2446,4123 2490,4123 2490,4158 2446,4158"/>
+                <Baseline points="2458,4151 2480,4151"/>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Zur Gesundheit, zum Licht&#13;
+durch Lebens-Reform!&#13;
+Beuchen Sie bitte das Ⅰ. Weinheimer&#13;
+Reformhaus Biebach&#13;
+Hauptstraße 129&#13;
+Spezialgeschäft für gesunde Nahrung. Ohne Kauf-&#13;
+zwang. Artikel zur natürlichen Lebens- u. Hellweise.&#13;
+Körperpflege, Schrifttum. Kostl. Beratung u. Auskunft.&#13;
+23</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r18" custom="readingOrder {index:19;} structure {type:paragraph;}">
+            <Coords points="1674,4327 2490,4327 2490,4469 1674,4469"/>
+            <TextLine id="r18l1" custom="readingOrder {index:0;}">
+                <Coords points="1681,4336 1733,4329 1735,4329 2388,4337 2424,4339 2479,4351 2486,4390 2388,4393 2191,4394 1805,4394 1679,4392"/>
+                <Baseline points="1681,4385 1780,4385 1805,4385 2191,4385 2219,4385 2341,4385 2369,4385 2479,4386"/>
+                <TextEquiv>
+                    <Unicode>Der Nationalſozialiſt tätigt ſeine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r18l2" custom="readingOrder {index:1;}">
+                <Coords points="1681,4408 1793,4407 1862,4407 2400,4408 2477,4410 2477,4456 2400,4463 1839,4463 1677,4462"/>
+                <Baseline points="1681,4456 1895,4456 1913,4456 1958,4456 1977,4456 2189,4456 2201,4456 2477,4456"/>
+                <TextEquiv>
+                    <Unicode>Einkäufe in deuiſchen Geſchäften!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Nationalſozialiſt tätigt ſeine
+Einkäufe in deuiſchen Geſchäften!</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r19" custom="readingOrder {index:20;} structure {type:paragraph;}">
+            <Coords points="2558,3853 2895,3853 2895,4417 2558,4417"/>
+            <TextLine id="r19l1" custom="readingOrder {index:0;}">
+                <Coords points="2566,3862 2726,3862 2766,3864 2789,3877 2797,3904 2766,3906 2586,3906 2561,3900"/>
+                <Baseline points="2566,3897 2790,3897"/>
+                <TextEquiv>
+                    <Unicode>Strickwolle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l2" custom="readingOrder {index:1;}">
+                <Coords points="2566,3915 2590,3915 2730,3916 2751,3930 2751,3951 2712,3961 2688,3961 2564,3956"/>
+                <Baseline points="2566,3951 2751,3951"/>
+                <TextEquiv>
+                    <Unicode>Strümpfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l3" custom="readingOrder {index:2;}">
+                <Coords points="2565,3968 2689,3968 2773,3975 2820,3983 2821,4010 2587,4010 2561,4008"/>
+                <Baseline points="2565,4004 2820,4005"/>
+                <TextEquiv>
+                    <Unicode>Strickwesten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l4" custom="readingOrder {index:3;}">
+                <Coords points="2564,4031 2584,4027 2605,4027 2760,4034 2762,4074 2605,4076 2584,4076 2564,4066"/>
+                <Baseline points="2564,4066 2628,4065 2674,4065 2753,4067"/>
+                <TextEquiv>
+                    <Unicode>Pullovers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l5" custom="readingOrder {index:4;}">
+                <Coords points="2563,4093 2765,4093 2832,4095 2853,4108 2853,4130 2814,4140 2629,4140 2590,4139 2563,4128"/>
+                <Baseline points="2563,4128 2853,4130"/>
+                <TextEquiv>
+                    <Unicode>Sportstrümpfe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l6" custom="readingOrder {index:5;}">
+                <Coords points="2561,4156 2767,4156 2793,4157 2817,4170 2817,4199 2561,4199"/>
+                <Baseline points="2561,4191 2817,4192"/>
+                <TextEquiv>
+                    <Unicode>Unterwäsche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l7" custom="readingOrder {index:6;}">
+                <Coords points="2562,4220 2770,4220 2787,4221 2798,4254 2630,4254 2562,4253"/>
+                <Baseline points="2562,4247 2642,4247 2660,4247 2722,4248 2742,4248 2787,4248"/>
+                <TextEquiv>
+                    <Unicode>kauft man bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l8" custom="readingOrder {index:7;}">
+                <Coords points="2565,4273 2599,4273 2772,4274 2843,4278 2881,4297 2884,4372 2848,4376 2821,4373 2672,4373 2564,4372"/>
+                <Baseline points="2565,4368 2706,4369 2738,4369 2881,4369"/>
+                <TextEquiv>
+                    <Unicode>Lina Lutz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l9" custom="readingOrder {index:8;}">
+                <Coords points="2560,4379 2648,4379 2785,4380 2857,4382 2882,4390 2882,4409 2826,4415 2799,4415 2626,4414 2560,4407"/>
+                <Baseline points="2560,4407 2744,4408 2760,4408 2785,4408 2799,4408 2826,4409 2841,4409 2882,4409"/>
+                <TextEquiv>
+                    <Unicode>Mannheim, R 3, 5 a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r19l10" custom="readingOrder {index:9;} structure {type:reference;}">
+                <Coords points="2853,4043 2889,4043 2889,4080 2853,4080"/>
+                <Baseline points="2861,4071 2883,4073"/>
+                <TextEquiv>
+                    <Unicode>79</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Strickwolle&#13;
+Strümpfe&#13;
+Strickwesten&#13;
+Pullovers&#13;
+Sportstrümpfe&#13;
+Unterwäsche&#13;
+kauft man bei&#13;
+Lina Lutz&#13;
+Mannheim, R 3, 5 a&#13;
+79</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r20" custom="readingOrder {index:21;} structure {type:paragraph;}">
+            <Coords points="3003,3862 3319,3862 3317,4137 3001,4137"/>
+            <TextLine id="r20l1" custom="readingOrder {index:0;}">
+                <Coords points="3010,3864 3226,3864 3309,3866 3312,3891 3236,3891 3036,3891 3008,3889"/>
+                <Baseline points="3011,3886 3237,3887 3250,3886 3304,3886"/>
+                <TextEquiv>
+                    <Unicode>Tapezier-Arbeiten, Auf-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l2" custom="readingOrder {index:1;}">
+                <Coords points="3009,3900 3019,3896 3107,3896 3280,3897 3308,3902 3312,3922 3123,3923 3005,3922"/>
+                <Baseline points="3009,3917 3107,3917 3127,3917 3168,3917 3183,3917 3304,3918"/>
+                <TextEquiv>
+                    <Unicode>arbeiten und Neuanfer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l3" custom="readingOrder {index:2;}">
+                <Coords points="3006,3927 3276,3927 3306,3927 3309,3953 3082,3953 3018,3953 3007,3952"/>
+                <Baseline points="3008,3948 3082,3948 3097,3949 3138,3949 3148,3949 3303,3949"/>
+                <TextEquiv>
+                    <Unicode>tigung von Polstermöbel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l4" custom="readingOrder {index:3;}">
+                <Coords points="3006,3969 3022,3959 3290,3959 3307,3966 3308,3973 3307,3983 3190,3984 3105,3984 3006,3984"/>
+                <Baseline points="3010,3979 3051,3979 3062,3979 3190,3980 3200,3980 3301,3979"/>
+                <TextEquiv>
+                    <Unicode>und Matratzen, Zimmer-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683304483414_109" custom="readingOrder {index:4;}">
+                <Coords points="3008,3989 3238,3989 3241,3989 3241,4015 3238,4016 3148,4016 3008,4015"/>
+                <Baseline points="3008,4010 3134,4010 3148,4011 3197,4010 3238,4011"/>
+                <TextEquiv>
+                    <Unicode>tapezieren billigst.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1683304483413_108" custom="readingOrder {index:5;} structure {type:reference;}">
+                <Coords points="3257,3989 3289,3990 3303,3991 3305,4014 3257,4015"/>
+                <Baseline points="3275,4012 3286,4012 3303,4011"/>
+                <TextEquiv>
+                    <Unicode>69</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l6" custom="readingOrder {index:6;}">
+                <Coords points="3008,4020 3147,4020 3267,4021 3302,4026 3308,4048 3147,4046 3074,4046 3006,4045"/>
+                <Baseline points="3008,4040 3166,4042 3172,4042 3193,4042 3199,4042 3234,4042 3240,4042 3267,4042 3274,4042 3302,4042"/>
+                <TextEquiv>
+                    <Unicode>Chaiselongue v. RM 30 an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l7" custom="readingOrder {index:7;}">
+                <Coords points="3007,4060 3279,4060 3302,4061 3306,4099 3206,4102 3007,4101"/>
+                <Baseline points="3007,4095 3080,4095 3100,4095 3302,4096"/>
+                <TextEquiv>
+                    <Unicode>W. FREY</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r20l8" custom="readingOrder {index:8;}">
+                <Coords points="3007,4104 3131,4104 3301,4106 3301,4131 3007,4131"/>
+                <Baseline points="3007,4126 3131,4126 3141,4126 3168,4127 3193,4127 3301,4127"/>
+                <TextEquiv>
+                    <Unicode>Luisenring 62 (Zollhof).</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Tapezier-Arbeiten, Auf-&#13;
+arbeiten und Neuanfer-&#13;
+tigung von Polstermöbel&#13;
+und Matratzen, Zimmer-&#13;
+tapezieren billigst.&#13;
+69&#13;
+Chaiselongue v. RM 30 an&#13;
+W. FREY&#13;
+Luisenring 62 (Zollhof).</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r21" custom="readingOrder {index:22;} structure {type:paragraph;}">
+            <Coords points="2958,4202 3350,4202 3350,4475 2958,4475"/>
+            <TextLine id="r21l1" custom="readingOrder {index:0;}">
+                <Coords points="3067,4203 3103,4203 3243,4205 3248,4235 3141,4237 3059,4234"/>
+                <Baseline points="3067,4231 3236,4232"/>
+                <TextEquiv>
+                    <Unicode>Soyez</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l2" custom="readingOrder {index:1;}">
+                <Coords points="2984,4238 3022,4238 3228,4240 3286,4241 3322,4247 3323,4272 3059,4270 3026,4273 2983,4269"/>
+                <Baseline points="2984,4266 3137,4267 3155,4267 3322,4268"/>
+                <TextEquiv>
+                    <Unicode>Optik Photo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l3" custom="readingOrder {index:2;}">
+                <Coords points="3031,4279 3164,4279 3274,4285 3280,4307 3154,4311 3033,4308"/>
+                <Baseline points="3033,4304 3274,4306"/>
+                <TextEquiv>
+                    <Unicode>MANNHEIM</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l4" custom="readingOrder {index:3;}">
+                <Coords points="2983,4319 3069,4319 3252,4320 3323,4321 3326,4354 3049,4357 3039,4352 2977,4350"/>
+                <Baseline points="2983,4346 3006,4346 3020,4347 3069,4347 3137,4347 3276,4349 3286,4349 3323,4349"/>
+                <TextEquiv>
+                    <Unicode>R 3,1 Mittelstr. 36</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l5" custom="readingOrder {index:4;}">
+                <Coords points="2965,4363 3080,4363 3323,4364 3341,4372 3346,4396 3233,4396 2986,4395 2962,4394"/>
+                <Baseline points="2965,4391 3096,4391 3108,4392 3198,4392 3208,4392 3341,4393"/>
+                <TextEquiv>
+                    <Unicode>Lieferant sämtl. Kranken-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l6" custom="readingOrder {index:5;}">
+                <Coords points="2964,4399 3179,4399 3341,4400 3347,4432 3116,4432 2979,4432 2962,4431"/>
+                <Baseline points="2964,4426 3073,4427 3097,4427 3179,4428 3198,4428 3341,4428"/>
+                <TextEquiv>
+                    <Unicode>kassen. Jedes Armband-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r21l7" custom="readingOrder {index:6;}">
+                <Coords points="3029,4435 3161,4434 3197,4434 3242,4435 3258,4442 3267,4456 3267,4463 3258,4470 3212,4470 3029,4469"/>
+                <Baseline points="3036,4462 3143,4463 3161,4463 3197,4463 3212,4463 3267,4463"/>
+                <TextEquiv>
+                    <Unicode>uhrglas 50 Pfg.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Soyez&#13;
+Optik Photo&#13;
+MANNHEIM&#13;
+R 3,1 Mittelstr. 36&#13;
+Lieferant sämtl. Kranken-&#13;
+kassen. Jedes Armband-&#13;
+uhrglas 50 Pfg.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r22" custom="readingOrder {index:23;} structure {type:paragraph;}">
+            <Coords points="3391,3823 3791,3823 3788,4013 3388,4013"/>
+            <TextLine id="r22l1" custom="readingOrder {index:0;}">
+                <Coords points="3401,3832 3715,3831 3745,3831 3777,3841 3781,3873 3749,3874 3468,3876 3437,3876 3394,3873"/>
+                <Baseline points="3401,3866 3483,3867 3504,3867 3555,3867 3576,3867 3774,3866"/>
+                <TextEquiv>
+                    <Unicode>Pg. H. Reiher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l2" custom="readingOrder {index:1;}">
+                <Coords points="3457,3886 3527,3885 3667,3885 3695,3892 3695,3922 3644,3922 3454,3919"/>
+                <Baseline points="3457,3914 3695,3914"/>
+                <TextEquiv>
+                    <Unicode>Heidelberg</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l3" custom="readingOrder {index:2;}">
+                <Coords points="3506,3922 3519,3921 3610,3921 3666,3922 3666,3948 3506,3948"/>
+                <Baseline points="3506,3943 3642,3943 3652,3943 3666,3943"/>
+                <TextEquiv>
+                    <Unicode>Brückenstr. 8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l4" custom="readingOrder {index:3;}">
+                <Coords points="3397,3957 3772,3957 3781,3983 3458,3983 3397,3983"/>
+                <Baseline points="3397,3978 3478,3978 3489,3978 3568,3978 3582,3978 3603,3978 3619,3978 3772,3979"/>
+                <TextEquiv>
+                    <Unicode>Flügel, Pianos u. Harmoniums</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r22l5" custom="readingOrder {index:4;}">
+                <Coords points="3397,3984 3772,3984 3779,4008 3601,4011 3587,4011 3394,4010"/>
+                <Baseline points="3397,4005 3463,4005 3484,4005 3552,4005 3575,4005 3651,4005 3672,4005 3772,4005"/>
+                <TextEquiv>
+                    <Unicode>durch Miete später käuflich.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Pg. H. Reiher&#13;
+Heidelberg&#13;
+Brückenstr. 8&#13;
+Flügel, Pianos u. Harmoniums&#13;
+durch Miete später käuflich.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r23" custom="readingOrder {index:24;}">
+            <Coords points="3427,4050 3738,4050 3738,4491 3427,4491"/>
+            <TextLine id="r23l1" custom="readingOrder {index:0;}">
+                <Coords points="3438,4070 3727,4070 3727,4132 3438,4130"/>
+                <Baseline points="3443,4122 3721,4126"/>
+                <TextEquiv>
+                    <Unicode>Musikalien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l2" custom="readingOrder {index:1;}">
+                <Coords points="3434,4134 3642,4134 3642,4189 3434,4189"/>
+                <Baseline points="3440,4179 3631,4181"/>
+                <TextEquiv>
+                    <Unicode>MUSIK-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l3" custom="readingOrder {index:2;}">
+                <Coords points="3437,4189 3733,4189 3736,4245 3440,4245"/>
+                <Baseline points="3444,4236 3728,4240"/>
+                <TextEquiv>
+                    <Unicode>INSTRUMENTE</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l4" custom="readingOrder {index:3;}">
+                <Coords points="3434,4406 3479,4413 3503,4405 3519,4378 3562,4359 3584,4368 3600,4365 3610,4338 3682,4303 3736,4271 3732,4248 3692,4259 3684,4246 3528,4301 3430,4337"/>
+                <Baseline points="3447,4402 3729,4267"/>
+                <TextEquiv>
+                    <Unicode>Schallplatten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l5" custom="readingOrder {index:4;}">
+                <Coords points="3539,4378 3574,4368 3597,4366 3616,4349 3663,4326 3725,4304 3725,4357 3658,4392 3566,4431 3536,4414"/>
+                <Baseline points="3563,4426 3713,4359"/>
+                <TextEquiv>
+                    <Unicode>Radio</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r23l6" custom="readingOrder {index:5;}">
+                <Coords points="3432,4429 3625,4429 3625,4484 3432,4484"/>
+                <Baseline points="3437,4470 3619,4471"/>
+                <TextEquiv>
+                    <Unicode>billig im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Musikalien&#13;
+MUSIK-&#13;
+INSTRUMENTE&#13;
+Schallplatten&#13;
+Radio&#13;
+billig im</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r24" custom="readingOrder {index:25;} structure {type:paragraph;}">
+            <Coords points="3440,4493 3716,4493 3716,4598 3440,4598"/>
+            <TextLine id="r24l1" custom="readingOrder {index:0;}">
+                <Coords points="3450,4501 3663,4501 3708,4517 3709,4543 3634,4543 3450,4541"/>
+                <Baseline points="3450,4536 3708,4538"/>
+                <TextEquiv>
+                    <Unicode>Neuenheimer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r24l2" custom="readingOrder {index:1;}">
+                <Coords points="3481,4550 3620,4550 3680,4565 3688,4592 3578,4592 3517,4592 3477,4591"/>
+                <Baseline points="3481,4585 3680,4587"/>
+                <TextEquiv>
+                    <Unicode>Musikhaus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Neuenheimer&#13;
+Musikhaus</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r25" custom="readingOrder {index:26;} structure {type:heading;}">
+            <Coords points="1305,4542 2853,4542 2853,4605 1305,4605"/>
+            <TextLine id="r25l1" custom="readingOrder {index:0;}">
+                <Coords points="1321,4548 1485,4547 1781,4547 2577,4549 2811,4551 2835,4565 2840,4601 2606,4603 1318,4600"/>
+                <Baseline points="1321,4595 2157,4596 2185,4596 2499,4597 2536,4597 2704,4599 2747,4599 2835,4599"/>
+                <TextEquiv>
+                    <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r26" custom="readingOrder {index:27;} structure {type:paragraph;}">
+            <Coords points="460,4677 1018,4677 1018,4872 460,4872"/>
+            <TextLine id="r26l1" custom="readingOrder {index:0;}">
+                <Coords points="616,4694 655,4691 816,4692 813,4732 613,4731"/>
+                <Baseline points="627,4723 805,4724"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l2" custom="readingOrder {index:1;}">
+                <Coords points="508,4796 530,4770 857,4770 916,4773 916,4788 915,4816 634,4817 508,4811"/>
+                <Baseline points="508,4805 610,4805 634,4805 913,4805"/>
+                <TextEquiv>
+                    <Unicode>„Zum Friedrichsring“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l3" custom="readingOrder {index:2;}">
+                <Coords points="572,4818 844,4818 844,4853 572,4853"/>
+                <Baseline points="579,4845 834,4845"/>
+                <TextEquiv>
+                    <Unicode>Fr. Hertlein, R 7, 34</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r26l4" custom="readingOrder {index:3;} structure {type:reference;}">
+                <Coords points="975,4819 1016,4819 1016,4859 975,4859"/>
+                <Baseline points="984,4847 1006,4846"/>
+                <TextEquiv>
+                    <Unicode>78</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+„Zum Friedrichsring“&#13;
+Fr. Hertlein, R 7, 34&#13;
+78</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r27" custom="readingOrder {index:28;} structure {type:paragraph;}">
+            <Coords points="471,4938 1015,4938 1015,5138 471,5138"/>
+            <TextLine id="r27l1" custom="readingOrder {index:0;}">
+                <Coords points="621,4948 775,4948 798,4949 798,4983 649,4983 609,4980"/>
+                <Baseline points="621,4976 798,4977"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l2" custom="readingOrder {index:1;}">
+                <Coords points="506,5002 882,5002 905,5016 908,5041 831,5041 525,5044 501,5043"/>
+                <Baseline points="504,5035 710,5037 734,5037 765,5037 785,5037 905,5038"/>
+                <TextEquiv>
+                    <Unicode>Restaurant u. Kaffee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l3" custom="readingOrder {index:2;}">
+                <Coords points="523,5081 544,5068 645,5055 892,5055 899,5073 899,5094 541,5096 523,5096"/>
+                <Baseline points="523,5089 618,5090 645,5090 691,5090 757,5090 889,5090"/>
+                <TextEquiv>
+                    <Unicode>„zum Felsenkeller“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l4" custom="readingOrder {index:3;}">
+                <Coords points="653,5098 755,5099 766,5128 725,5131 703,5129 654,5126"/>
+                <Baseline points="660,5121 680,5121 696,5121 714,5121 728,5121 755,5121"/>
+                <TextEquiv>
+                    <Unicode>K 1, 22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r27l5" custom="readingOrder {index:4;} structure {type:reference;}">
+                <Coords points="965,5065 1006,5065 1006,5106 965,5106"/>
+                <Baseline points="973,5094 999,5095"/>
+                <TextEquiv>
+                    <Unicode>95</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+Restaurant u. Kaffee&#13;
+„zum Felsenkeller“&#13;
+K 1, 22&#13;
+95</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r28" custom="readingOrder {index:29;} structure {type:paragraph;}">
+            <Coords points="1326,4682 1921,4682 1921,4881 1326,4881"/>
+            <TextLine id="r28l1" custom="readingOrder {index:0;}">
+                <Coords points="1531,4694 1709,4694 1713,4728 1685,4731 1531,4731"/>
+                <Baseline points="1531,4723 1709,4722"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l2" custom="readingOrder {index:1;}">
+                <Coords points="1340,4769 1395,4769 1787,4770 1897,4772 1897,4787 1898,4811 1698,4812 1624,4812 1335,4810"/>
+                <Baseline points="1340,4805 1462,4805 1484,4805 1605,4805 1624,4805 1718,4805 1738,4805 1894,4805"/>
+                <TextEquiv>
+                    <Unicode>Gasth. Müller „zum Ochsen“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l3" custom="readingOrder {index:2;}">
+                <Coords points="1543,4818 1693,4818 1693,4858 1543,4858"/>
+                <Baseline points="1557,4845 1675,4845"/>
+                <TextEquiv>
+                    <Unicode>T 2 Nr. 7</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r28l4" custom="readingOrder {index:3;} structure {type:reference;}">
+                <Coords points="1876,4819 1917,4819 1917,4854 1876,4854"/>
+                <Baseline points="1886,4846 1909,4847"/>
+                <TextEquiv>
+                    <Unicode>77</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+Gasth. Müller „zum Ochsen“&#13;
+T 2 Nr. 7&#13;
+77</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r29" custom="readingOrder {index:30;} structure {type:paragraph;}">
+            <Coords points="1377,4945 1923,4945 1923,5123 1377,5123"/>
+            <TextLine id="r29l1" custom="readingOrder {index:0;}">
+                <Coords points="1532,4950 1690,4950 1710,4952 1710,4986 1532,4986"/>
+                <Baseline points="1532,4979 1710,4979"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r29l2" custom="readingOrder {index:1;}">
+                <Coords points="1480,5039 1501,5013 1656,5013 1761,5015 1763,5030 1764,5056 1714,5055 1497,5055 1480,5055"/>
+                <Baseline points="1480,5048 1606,5048 1629,5048 1758,5047"/>
+                <TextEquiv>
+                    <Unicode>„Hotel Braun“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r29l3" custom="readingOrder {index:2;}">
+                <Coords points="1504,5065 1569,5065 1741,5066 1741,5094 1515,5094 1504,5087"/>
+                <Baseline points="1504,5087 1577,5087 1591,5087 1625,5087 1640,5087 1741,5087"/>
+                <TextEquiv>
+                    <Unicode>direkt am Bahnhof</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r29l4" custom="readingOrder {index:3;} structure {type:reference;}">
+                <Coords points="1883,5061 1916,5061 1916,5095 1883,5095"/>
+                <Baseline points="1887,5088 1914,5088"/>
+                <TextEquiv>
+                    <Unicode>82</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+„Hotel Braun“&#13;
+direkt am Bahnhof&#13;
+82</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r30" custom="readingOrder {index:31;} structure {type:paragraph;}">
+            <Coords points="2250,4683 2827,4683 2827,4872 2250,4872"/>
+            <TextLine id="r30l1" custom="readingOrder {index:0;}">
+                <Coords points="2436,4696 2590,4696 2613,4706 2614,4735 2489,4735 2429,4730"/>
+                <Baseline points="2436,4724 2613,4725"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r30l2" custom="readingOrder {index:1;}">
+                <Coords points="2348,4749 2389,4749 2655,4750 2675,4751 2696,4764 2706,4791 2421,4797 2371,4794 2348,4784"/>
+                <Baseline points="2348,4784 2558,4785 2582,4785 2696,4785"/>
+                <TextEquiv>
+                    <Unicode>Speiseheim Echtle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r30l3" custom="readingOrder {index:2;}">
+                <Coords points="2444,4802 2467,4802 2589,4803 2593,4827 2540,4828 2481,4828 2444,4824"/>
+                <Baseline points="2450,4824 2467,4824 2479,4824 2493,4824 2507,4824 2545,4824 2559,4824 2585,4824"/>
+                <TextEquiv>
+                    <Unicode>F 2 Nr. 11</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r30l4" custom="readingOrder {index:3;}">
+                <Coords points="2315,4832 2726,4832 2726,4871 2315,4871"/>
+                <Baseline points="2321,4860 2719,4861"/>
+                <TextEquiv>
+                    <Unicode>billiger Mittag- und Abendtisch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r30l5" custom="readingOrder {index:4;} structure {type:reference;}">
+                <Coords points="2783,4834 2823,4834 2823,4870 2783,4870"/>
+                <Baseline points="2791,4861 2815,4861"/>
+                <TextEquiv>
+                    <Unicode>86</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+Speiseheim Echtle&#13;
+F 2 Nr. 11&#13;
+billiger Mittag- und Abendtisch&#13;
+86</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r31" custom="readingOrder {index:32;} structure {type:paragraph;}">
+            <Coords points="2239,4937 2831,4937 2835,5131 2243,5131"/>
+            <TextLine id="r31l1" custom="readingOrder {index:0;}">
+                <Coords points="2377,4950 2442,4950 2662,4952 2680,4965 2682,4984 2414,4991 2367,4981"/>
+                <Baseline points="2377,4979 2543,4980 2558,4980 2587,4980 2596,4980 2626,4980 2635,4980 2669,4980"/>
+                <TextEquiv>
+                    <Unicode>Weinheim a. d. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r31l2" custom="readingOrder {index:1;}">
+                <Coords points="2266,5005 2624,5005 2760,5006 2782,5020 2792,5046 2588,5046 2288,5047 2262,5046"/>
+                <Baseline points="2266,5039 2405,5040 2423,5040 2517,5040 2532,5040 2563,5040 2578,5040 2782,5041"/>
+                <TextEquiv>
+                    <Unicode>Fitzer's Bier- u. Weinstube</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r31l3" custom="readingOrder {index:2;}">
+                <Coords points="2256,5057 2768,5057 2784,5058 2784,5080 2728,5086 2577,5086 2433,5085 2272,5087 2256,5078"/>
+                <Baseline points="2263,5078 2308,5079 2318,5079 2375,5079 2389,5079 2512,5079 2540,5080 2549,5080 2577,5080 2728,5080 2743,5080 2784,5080"/>
+                <TextEquiv>
+                    <Unicode>Inh. Otto Weymann - Hauptstraße 160</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r31l4" custom="readingOrder {index:3;}">
+                <Coords points="2359,5088 2669,5088 2669,5127 2359,5127"/>
+                <Baseline points="2368,5113 2660,5115"/>
+                <TextEquiv>
+                    <Unicode>Lokal der SS Sturm 31</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r31l5" custom="readingOrder {index:4;} structure {type:reference;}">
+                <Coords points="2784,5089 2829,5089 2829,5124 2784,5124"/>
+                <Baseline points="2794,5116 2813,5116"/>
+                <TextEquiv>
+                    <Unicode>75</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weinheim a. d. B.&#13;
+Fitzer's Bier- u. Weinstube&#13;
+Inh. Otto Weymann - Hauptstraße 160&#13;
+Lokal der SS Sturm 31&#13;
+75</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r32" custom="readingOrder {index:33;} structure {type:paragraph;}">
+            <Coords points="3148,4690 3746,4690 3746,4875 3148,4875"/>
+            <TextLine id="r32l1" custom="readingOrder {index:0;}">
+                <Coords points="3353,4701 3450,4701 3504,4703 3531,4712 3533,4738 3429,4738 3382,4737 3348,4736"/>
+                <Baseline points="3353,4729 3531,4731"/>
+                <TextEquiv>
+                    <Unicode>Mannheim</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r32l2" custom="readingOrder {index:1;}">
+                <Coords points="3179,4766 3224,4766 3620,4769 3703,4772 3703,4789 3707,4813 3620,4816 3518,4816 3373,4810 3200,4811 3175,4809"/>
+                <Baseline points="3179,4801 3353,4803 3373,4803 3424,4803 3444,4804 3703,4806"/>
+                <TextEquiv>
+                    <Unicode>Gasthaus „z. Rosengarten“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r32l3" custom="readingOrder {index:2;}">
+                <Coords points="3239,4816 3639,4816 3639,4855 3239,4855"/>
+                <Baseline points="3246,4843 3631,4847"/>
+                <TextEquiv>
+                    <Unicode>Carl Kupfer, U 6, 2 (am Ring)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r32l4" custom="readingOrder {index:3;} structure {type:reference;}">
+                <Coords points="3701,4817 3746,4817 3746,4852 3701,4852"/>
+                <Baseline points="3712,4848 3738,4848"/>
+                <TextEquiv>
+                    <Unicode>74</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Mannheim&#13;
+Gasthaus „z. Rosengarten“&#13;
+Carl Kupfer, U 6, 2 (am Ring)&#13;
+74</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r33" custom="readingOrder {index:34;} structure {type:paragraph;}">
+            <Coords points="3159,4947 3747,4947 3747,5136 3159,5136"/>
+            <TextLine id="r33l1" custom="readingOrder {index:0;}">
+                <Coords points="3294,4955 3397,4955 3581,4958 3590,4979 3590,4987 3536,4994 3315,4992 3294,4983"/>
+                <Baseline points="3294,4983 3461,4985 3475,4986 3504,4986 3515,4986 3544,4986 3554,4986 3590,4987"/>
+                <TextEquiv>
+                    <Unicode>Weinheim a. d. B.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r33l2" custom="readingOrder {index:1;}">
+                <Coords points="3195,5021 3241,5021 3623,5025 3681,5027 3681,5043 3688,5066 3408,5066 3391,5066 3189,5065"/>
+                <Baseline points="3195,5056 3370,5058 3391,5058 3471,5059 3489,5059 3680,5061"/>
+                <TextEquiv>
+                    <Unicode>Gasthaus „zur Eintracht“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r33l3" custom="readingOrder {index:2;}">
+                <Coords points="3319,5071 3565,5071 3565,5110 3319,5110"/>
+                <Baseline points="3327,5099 3544,5101"/>
+                <TextEquiv>
+                    <Unicode>Bes. A. Heckmann</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r33l4" custom="readingOrder {index:3;} structure {type:reference;}">
+                <Coords points="3699,5073 3744,5073 3744,5112 3699,5112"/>
+                <Baseline points="3711,5100 3733,5101"/>
+                <TextEquiv>
+                    <Unicode>73</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Weinheim a. d. B.&#13;
+Gasthaus „zur Eintracht“&#13;
+Bes. A. Heckmann&#13;
+73</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_43" custom="readingOrder {index:35;}">
+            <Coords points="441,242 3811,242 3811,264 441,264"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_44" custom="readingOrder {index:36;}">
+            <Coords points="434,891 1504,891 1504,913 434,913"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_45" custom="readingOrder {index:37;}">
+            <Coords points="1579,1306 2647,1306 2647,1341 1579,1341"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_46" custom="readingOrder {index:38;}">
+            <Coords points="3150,1802 3364,1802 3364,1807 3150,1807"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_47" custom="readingOrder {index:39;}">
+            <Coords points="1997,2081 2209,2081 2209,2086 1997,2086"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_48" custom="readingOrder {index:40;}">
+            <Coords points="1566,2316 2635,2316 2635,2349 1566,2349"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_49" custom="readingOrder {index:41;}">
+            <Coords points="1566,2468 1834,2468 1834,2485 1566,2485"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_50" custom="readingOrder {index:42;}">
+            <Coords points="2044,2470 2578,2470 2578,2485 2044,2485"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_51" custom="readingOrder {index:43;}">
+            <Coords points="837,2789 1053,2789 1053,2793 837,2793"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_52" custom="readingOrder {index:44;}">
+            <Coords points="729,2884 1157,2884 1157,2893 729,2893"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_53" custom="readingOrder {index:45;}">
+            <Coords points="1662,3289 1912,3289 1912,3307 1662,3307"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_54" custom="readingOrder {index:46;}">
+            <Coords points="402,3392 3772,3392 3772,3460 402,3460"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_55" custom="readingOrder {index:47;}">
+            <Coords points="401,3710 3767,3710 3767,3780 401,3780"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_56" custom="readingOrder {index:48;}">
+            <Coords points="401,3788 3773,3788 3773,3810 401,3810"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_57" custom="readingOrder {index:49;}">
+            <Coords points="2539,3825 2915,3825 2915,3838 2539,3838"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_58" custom="readingOrder {index:50;}">
+            <Coords points="2969,3828 3343,3828 3343,3849 2969,3849"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_59" custom="readingOrder {index:51;}">
+            <Coords points="1876,4089 2484,4089 2484,4107 1876,4107"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_60" custom="readingOrder {index:52;}">
+            <Coords points="2964,4146 3342,4146 3342,4169 2964,4169"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_61" custom="readingOrder {index:53;}">
+            <Coords points="2966,4176 3340,4176 3340,4187 2966,4187"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_62" custom="readingOrder {index:54;}">
+            <Coords points="1680,4305 2480,4305 2480,4315 1680,4315"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_63" custom="readingOrder {index:55;}">
+            <Coords points="1000,4395 1384,4395 1384,4406 1000,4406"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_64" custom="readingOrder {index:56;}">
+            <Coords points="1014,4431 1384,4431 1384,4444 1014,4444"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_65" custom="readingOrder {index:57;}">
+            <Coords points="2540,4439 2896,4439 2896,4469 2540,4469"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_66" custom="readingOrder {index:58;}">
+            <Coords points="685,4487 3339,4487 3339,4503 685,4503"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_67" custom="readingOrder {index:59;}">
+            <Coords points="395,4488 655,4488 655,4496 395,4496"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_68" custom="readingOrder {index:60;}">
+            <Coords points="1245,4517 2905,4517 2905,4542 1245,4542"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_69" custom="readingOrder {index:61;}">
+            <Coords points="3391,4597 3767,4597 3767,4610 3391,4610"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_70" custom="readingOrder {index:62;}">
+            <Coords points="1245,4606 2901,4606 2901,4629 1245,4629"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_71" custom="readingOrder {index:63;}">
+            <Coords points="3391,4615 3767,4615 3767,4626 3391,4626"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_72" custom="readingOrder {index:64;}">
+            <Coords points="3015,4620 3229,4620 3229,4632 3015,4632"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_73" custom="readingOrder {index:65;}">
+            <Coords points="499,4616 1137,4616 1137,4629 499,4629"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_74" custom="readingOrder {index:66;}">
+            <Coords points="1303,4888 1943,4888 1943,4899 1303,4899"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_75" custom="readingOrder {index:67;}">
+            <Coords points="2201,4890 2843,4890 2843,4899 2201,4899"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_76" custom="readingOrder {index:68;}">
+            <Coords points="387,4888 1031,4888 1031,4897 387,4897"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_77" custom="readingOrder {index:69;}">
+            <Coords points="3119,4894 3763,4894 3763,4905 3119,4905"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_78" custom="readingOrder {index:70;}">
+            <Coords points="1300,4924 1944,4924 1944,4933 1300,4933"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_79" custom="readingOrder {index:71;}">
+            <Coords points="2202,4926 2844,4926 2844,4935 2202,4935"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_80" custom="readingOrder {index:72;}">
+            <Coords points="388,4924 1030,4924 1030,4931 388,4931"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_81" custom="readingOrder {index:73;}">
+            <Coords points="3118,4930 3760,4930 3760,4941 3118,4941"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_82" custom="readingOrder {index:74;}">
+            <Coords points="248,3681 263,3681 263,4457 248,4457"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_83" custom="readingOrder {index:75;}">
+            <Coords points="246,4481 261,4481 261,5091 246,5091"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_84" custom="readingOrder {index:76;}">
+            <Coords points="253,3279 264,3279 264,3635 253,3635"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_85" custom="readingOrder {index:77;}">
+            <Coords points="1512,1842 1534,1842 1534,3330 1512,3330"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_86" custom="readingOrder {index:78;}">
+            <Coords points="1528,308 1551,308 1551,1842 1528,1842"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_87" custom="readingOrder {index:79;}">
+            <Coords points="1648,3827 1661,3827 1661,4463 1648,4463"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_88" custom="readingOrder {index:80;}">
+            <Coords points="2502,3827 2515,3827 2515,4463 2502,4463"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_89" custom="readingOrder {index:81;}">
+            <Coords points="2532,3825 2549,3825 2549,4447 2532,4447"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_90" custom="readingOrder {index:82;}">
+            <Coords points="2660,3043 2673,3043 2673,3353 2660,3353"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_91" custom="readingOrder {index:83;}">
+            <Coords points="2665,311 2701,311 2701,3025 2665,3025"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_92" custom="readingOrder {index:84;}">
+            <Coords points="2900,3828 2917,3828 2917,4446 2900,4446"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_93" custom="readingOrder {index:85;}">
+            <Coords points="2932,3830 2945,3830 2945,4466 2932,4466"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_94" custom="readingOrder {index:86;}">
+            <Coords points="2964,3828 2989,3828 2989,4166 2964,4166"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_95" custom="readingOrder {index:87;}">
+            <Coords points="3320,3828 3345,3828 3345,4169 3320,4169"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_96" custom="readingOrder {index:88;}">
+            <Coords points="3361,3833 3375,3833 3375,4629 3361,4629"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_97" custom="readingOrder {index:89;}">
+            <Coords points="3743,4027 3767,4027 3767,4491 3743,4491"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_98" custom="readingOrder {index:90;}">
+            <Coords points="3067,1262 3269,1262 3269,1268 3067,1268"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_99" custom="readingOrder {index:91;}">
+            <Coords points="3230,4184 3316,4184 3316,4186 3230,4186"/>
+        </SeparatorRegion>
+        <GraphicRegion id="r_101" custom="readingOrder {index:92;}">
+            <Coords points="387,4512 3341,4512 3341,4637 387,4637"/>
+        </GraphicRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,84 @@
+schema: >-
+  https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
+title: Hakenkreuzbanner
+url: https://github.com/UB-Mannheim/Hakenkreuzbanner
+authors:
+  - name: Jan
+    surname: Kamlah
+    roles:
+      - institution
+      - transcriber
+      - aligner
+      - project-manager
+      - quality-control
+  - name: Thomas
+    surname: Schmidt
+    roles:
+      - institution
+      - project-manager
+      - support
+  - name: Franziska
+    surname: Bartz
+    roles:
+      - transcriber
+      - aligner
+  - name: Dilara
+    surname: Öztürk
+    roles:
+      - transcriber
+      - aligner
+description: >-
+  Das Hakenkreuzbanner war ein Parteiblatt der NSDAP zwischen 1931–1945. Weitere
+  Information ist auf der Seite von Udo Leuschner zu finden.
+
+
+  Das MARCHIVUM digitalisierte das Parteiblatt. Im Rahmen dieser Tätigkeit wurde
+  zur hochqualitativen Texterkennung dieser GT-Datensatz erstellt, um neue
+  Tesseract-Modelle zu trainieren.
+
+
+  Die Sammlung enthält 39 Seiten und 13636 Zeilen basierend auf:
+
+      1931 (Seite 2-15, 18, 20, 23, 26, 41)
+      1937 (Seite 1, 6, 11, 12, 17, 26)
+      1941 (Seite 2, 5, 8, 16, 17, 24)
+      1943 (Seite 2, 8, 18)
+      1945 (Seite 1, 9, 22)
+      Glyphen (Siegrune (15 Zeilen) und Paragraphenzeichen (11 Zeilen))
+project-name: Hakenkreuzbanner (HKB)
+project-website: https://druckschriften-digital.marchivum.de/zd/periodical/titleinfo/74387
+language:
+  - eng
+  - fra
+  - deu
+production-software: Transkribus
+script:
+  - Latn
+  - Antiqua
+  - Latf
+script-type: print
+time:
+  notBefore: '1931'
+  notAfter: '1945'
+hands:
+  count: '3'
+  level: level2
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+gtTyp: data_structure_and_text
+format: Page-XML
+volume:
+  - metric: pages
+    count: 36
+transcription-guidelines: |-
+  The transcription rules are based on the OCR-D transcription guidelines Level
+    2 with some exceptions (see below No. 2):
+      1) Special characters:
+      - Long s (ſ)
+      - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
+      - R rotunda (ꝛ)
+      - Dagger (†)
+      2) Additional characters transcribed true to original (contrary to OCR-D Level 2):
+      - Double oblique hyphen (⸗)
+      - Em dash (—) instead of En dash (–)

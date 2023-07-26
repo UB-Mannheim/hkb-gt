@@ -1,0 +1,2462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2022-08-26T18:23:37.234+02:00</Created>
+        <LastChange>2023-04-29T10:21:12.189+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: Transkribus
+            </Comments>
+        <TranskribusMetadata docId="1126024" pageId="46550138" pageNr="5" tsid="120368899" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=ZVKDGXCHOXKKYHNHVTOZAYTS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FXCCRQZSUNIZUIUPJTFNYRAI" imageId="37937304"/>
+    </Metadata>
+    <Page imageFilename="hkb_1931-01-03_0006.jpg" imageWidth="4014" imageHeight="5494">
+        <PrintSpace>
+            <Coords points="284,177 3837,181 3837,5188 284,5184"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1688452657565" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+                <RegionRefIndexed index="5" regionRef="r6"/>
+                <RegionRefIndexed index="6" regionRef="r9"/>
+                <RegionRefIndexed index="7" regionRef="r7"/>
+                <RegionRefIndexed index="8" regionRef="r8"/>
+                <RegionRefIndexed index="9" regionRef="r10"/>
+                <RegionRefIndexed index="10" regionRef="r11"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="r1" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="361,198 580,198 580,255 361,255"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="371,210 469,208 469,208 484,208 580,209 580,255 399,255 371,246"/>
+                <Baseline points="377,246 433,245 436,244 570,242"/>
+                <TextEquiv>
+                    <Unicode>Nr. 1/1931</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Nr. 1/1931</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r2" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="1727,181 2386,181 2389,232 1730,232"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1738,190 2192,185 2192,185 2345,185 2386,191 2389,232 1842,232 1738,227"/>
+                <Baseline points="1738,226 1832,226 2375,222"/>
+                <TextEquiv>
+                    <Unicode>Das Hakenkreuz⸗Banner</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Das Hakenkreuz⸗Banner</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="header" id="r3" custom="readingOrder {index:2;} structure {type:header;}">
+            <Coords points="3589,172 3747,172 3747,221 3589,221"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="3599,174 3653,174 3738,177 3738,209 3659,221 3599,221"/>
+                <Baseline points="3602,210 3719,209 3738,209"/>
+                <TextEquiv>
+                    <Unicode>Seite 5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Seite 5</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="r4" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="870,331 3252,331 3252,582 870,582"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="883,367 1301,354 2272,346 2272,346 2884,346 3241,347 3241,524 2023,567 1301,567 883,547"/>
+                <Baseline points="883,545 1238,542 1301,541 2023,535 2096,534 3241,523"/>
+                <TextEquiv>
+                    <Unicode>Der politiſche Wetterwinkel.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der politiſche Wetterwinkel.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r5" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="334,616 1478,616 1470,5165 334,5167"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="587,636 629,632 800,630 1128,630 1216,647 1216,700 1009,726 800,726 587,709"/>
+                <Baseline points="587,708 723,706 761,705 1216,699"/>
+                <TextEquiv>
+                    <Unicode>Die Totengräber.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="466,749 673,745 989,741 1327,738 1413,738 1438,747 1441,778 1416,780 1134,787 889,789 546,792 466,785"/>
+                <Baseline points="466,785 528,784 546,784 887,781 905,781 1245,776 1278,775 1317,775 1327,775 1438,773"/>
+                <TextEquiv>
+                    <Unicode>Die ſozialdemokratiſche Reichstagsfraktion für Kran⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l3" custom="readingOrder {index:2;}">
+                <Coords points="377,794 1280,783 1280,783 1339,783 1426,791 1438,810 1438,825 1059,832 800,835 518,837 377,837"/>
+                <Baseline points="377,830 548,828 569,828 800,826 819,826 1059,823 1081,823 1219,820 1280,820 1438,817"/>
+                <TextEquiv>
+                    <Unicode>kenſteuer, Arzneiſteuer, Bürgerſteuer, Gemeindebierſteuer,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l4" custom="readingOrder {index:3;}">
+                <Coords points="378,836 1146,828 1419,827 1438,827 1438,863 1300,872 995,878 820,877 378,880"/>
+                <Baseline points="378,875 818,871 840,871 1003,868 1023,868 1091,867 1111,867 1349,863 1372,863 1438,862"/>
+                <TextEquiv>
+                    <Unicode>Gemeindegetränkeſteuer, Notopfer und Ledigenſteuer und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l5" custom="readingOrder {index:4;}">
+                <Coords points="376,891 492,881 519,880 1226,872 1386,872 1438,880 1441,910 1102,919 413,927 376,927"/>
+                <Baseline points="376,920 474,918 492,918 749,915 767,915 821,915 837,914 887,914 906,914 1125,911 1140,910 1208,910 1226,909 1438,908"/>
+                <TextEquiv>
+                    <Unicode>gegen Winterbeihilfe für die Hungernden und Frierenden.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l6" custom="readingOrder {index:5;}">
+                <Coords points="466,927 504,926 576,925 1184,917 1184,917 1437,917 1437,951 1358,960 574,971 538,971 466,962"/>
+                <Baseline points="466,963 618,961 660,960 723,960 754,959 786,959 798,959 968,956 1001,956 1078,955 1110,954 1152,954 1184,953 1358,951 1390,951 1437,950"/>
+                <TextEquiv>
+                    <Unicode>NSPD. Am 6. Dezember fand im Reichstag die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l7" custom="readingOrder {index:6;}">
+                <Coords points="379,972 1381,957 1381,957 1399,957 1440,961 1440,995 1399,1008 567,1015 431,1015 379,1007"/>
+                <Baseline points="380,1008 601,1005 611,1005 687,1004 699,1004 747,1003 760,1003 1182,997 1203,997 1276,996 1299,996 1351,996 1364,996 1440,995"/>
+                <TextEquiv>
+                    <Unicode>Abſtimmung über die Tributnotverordnungen vom 26. Juli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l8" custom="readingOrder {index:7;}">
+                <Coords points="378,1019 737,1013 1162,1008 1260,1007 1371,1006 1371,1006 1400,1006 1437,1015 1437,1040 1341,1048 803,1055 789,1055 400,1051 378,1050"/>
+                <Baseline points="378,1050 464,1049 494,1050 559,1050 590,1049 663,1048 695,1048 724,1048 737,1048 907,1044 939,1044 1026,1043 1055,1043 1120,1042 1151,1042 1228,1041 1260,1041 1341,1040 1371,1040 1437,1039"/>
+                <TextEquiv>
+                    <Unicode>1930 und vom 1. Dezember 1930 und über dazu ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l9" custom="readingOrder {index:8;}">
+                <Coords points="379,1070 415,1062 475,1060 910,1052 910,1052 1238,1052 1309,1053 1309,1085 1238,1094 1192,1095 833,1100 536,1104 379,1104"/>
+                <Baseline points="379,1096 536,1094 568,1094 833,1090 865,1089 1192,1086 1225,1086 1309,1085"/>
+                <TextEquiv>
+                    <Unicode>gebrachte kommuniſtiſche Änderungsanträge ſtatt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l10" custom="readingOrder {index:9;}">
+                <Coords points="467,1104 1013,1096 1013,1096 1373,1096 1437,1105 1437,1133 1398,1137 832,1144 575,1144 467,1140"/>
+                <Baseline points="467,1140 528,1139 556,1139 872,1134 900,1134 968,1133 995,1133 1437,1128"/>
+                <TextEquiv>
+                    <Unicode>Die Notverordnungen ſind Tributnotverordnungen:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l11" custom="readingOrder {index:10;}">
+                <Coords points="378,1151 392,1150 1362,1134 1380,1134 1422,1138 1438,1141 1438,1172 1422,1181 1379,1181 499,1192 378,1192"/>
+                <Baseline points="378,1185 418,1184 444,1184 512,1183 535,1183 670,1181 695,1181 834,1179 860,1179 914,1177 940,1177 999,1177 1025,1176 1120,1175 1145,1175 1205,1175 1228,1174 1320,1174 1345,1173 1438,1172"/>
+                <TextEquiv>
+                    <Unicode>ſie ſind erlaſſen worden, um das Reich auf weite Sicht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l12" custom="readingOrder {index:11;}">
+                <Coords points="377,1196 393,1190 1387,1182 1387,1182 1416,1182 1438,1192 1438,1216 1416,1225 1309,1227 938,1232 649,1235 393,1235 377,1230"/>
+                <Baseline points="377,1230 722,1225 744,1225 782,1224 804,1224 961,1222 991,1221 1054,1221 1077,1221 1144,1220 1166,1220 1330,1218 1352,1218 1439,1217"/>
+                <TextEquiv>
+                    <Unicode>tributleiſtungsfähig zu geſtalten. Sie ſind beſtimmt, jähr⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l13" custom="readingOrder {index:12;}">
+                <Coords points="378,1240 404,1238 913,1231 1146,1228 1330,1227 1330,1227 1403,1227 1439,1237 1439,1261 1403,1269 664,1279 434,1280 404,1280 378,1273"/>
+                <Baseline points="376,1274 434,1273 455,1273 533,1272 555,1271 691,1270 712,1269 892,1267 913,1266 1124,1264 1146,1264 1233,1263 1256,1263 1308,1263 1330,1262 1439,1261"/>
+                <TextEquiv>
+                    <Unicode>lich viele hundert Millionen Reichsmark mehr als bisher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l14" custom="readingOrder {index:13;}">
+                <Coords points="378,1293 460,1283 549,1280 749,1277 1069,1274 1313,1274 1438,1282 1438,1307 1318,1317 674,1323 549,1323 378,1317"/>
+                <Baseline points="377,1318 440,1317 460,1317 529,1316 549,1316 707,1314 726,1314 1050,1310 1069,1309 1363,1307 1384,1307 1438,1306"/>
+                <TextEquiv>
+                    <Unicode>aus dem deutſchen Wirtſchaftskörper herauszupreſſen, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l15" custom="readingOrder {index:14;}">
+                <Coords points="378,1329 414,1328 824,1319 1305,1317 1305,1317 1414,1317 1437,1321 1437,1357 1414,1360 1169,1364 683,1369 515,1369 378,1362"/>
+                <Baseline points="378,1362 479,1361 515,1361 683,1359 718,1358 766,1358 803,1357 1197,1353 1232,1353 1270,1352 1305,1352 1437,1350"/>
+                <TextEquiv>
+                    <Unicode>damit fortgeſetzt die Reichshaushaltslöcher zu ſtopfen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l16" custom="readingOrder {index:15;}">
+                <Coords points="378,1373 399,1372 915,1365 1304,1362 1304,1362 1417,1362 1437,1363 1437,1395 1417,1397 1065,1407 888,1410 510,1415 446,1415 378,1406"/>
+                <Baseline points="378,1406 426,1406 446,1406 510,1405 535,1405 569,1404 595,1404 706,1403 734,1402 888,1400 915,1400 1106,1398 1134,1398 1196,1397 1223,1397 1278,1397 1304,1396 1437,1395"/>
+                <TextEquiv>
+                    <Unicode>die ſich in immer größeren Ausmaßen aus der Tribut⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l17" custom="readingOrder {index:16;}">
+                <Coords points="377,1426 398,1413 980,1406 1373,1405 1400,1405 1438,1420 1438,1437 1423,1445 1343,1451 683,1458 398,1458 377,1451"/>
+                <Baseline points="377,1451 683,1447 712,1447 776,1446 806,1445 868,1445 898,1444 951,1444 980,1444 1343,1441 1373,1440 1437,1439"/>
+                <TextEquiv>
+                    <Unicode>wahnſinnspolitik und aus der innerwirtſchaftlichen Un⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l18" custom="readingOrder {index:17;}">
+                <Coords points="378,1462 413,1459 825,1454 995,1453 1168,1452 1168,1452 1259,1452 1310,1462 1310,1486 1230,1495 973,1498 532,1503 378,1503"/>
+                <Baseline points="378,1495 532,1493 554,1493 607,1493 630,1492 723,1491 746,1491 802,1490 825,1490 973,1489 995,1488 1144,1487 1168,1487 1310,1485"/>
+                <TextEquiv>
+                    <Unicode>fähigkeit der Leute des heutigen Syſtems ergeben.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l19" custom="readingOrder {index:18;}">
+                <Coords points="465,1504 559,1501 1237,1495 1406,1495 1439,1504 1445,1531 1310,1538 867,1543 559,1543 465,1539"/>
+                <Baseline points="465,1538 541,1538 559,1537 898,1534 917,1533 984,1533 1002,1533 1218,1531 1237,1531 1367,1530 1385,1530 1439,1529"/>
+                <TextEquiv>
+                    <Unicode>Wir Nationalſozialiſten ſind unerbittliche Gegner der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l20" custom="readingOrder {index:19;}">
+                <Coords points="378,1550 562,1545 863,1543 1202,1541 1393,1540 1439,1540 1448,1576 1341,1583 815,1590 552,1590 376,1588"/>
+                <Baseline points="378,1584 815,1579 863,1578 999,1577 1037,1577 1137,1576 1175,1576 1241,1575 1279,1575 1341,1574 1378,1574 1439,1574"/>
+                <TextEquiv>
+                    <Unicode>Tributwahnſinnspolitik. Daraus ergibt ſich, daß wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l21" custom="readingOrder {index:20;}">
+                <Coords points="378,1603 522,1592 724,1589 1286,1585 1286,1585 1341,1585 1438,1593 1438,1618 1407,1627 784,1634 396,1637 378,1637"/>
+                <Baseline points="378,1629 475,1628 499,1627 562,1627 590,1626 817,1624 844,1624 997,1622 1027,1622 1074,1621 1100,1621 1257,1619 1286,1619 1360,1618 1389,1618 1438,1618"/>
+                <TextEquiv>
+                    <Unicode>gegen alle Maßnahmen ſtimmen, die beſtimmt oder ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l22" custom="readingOrder {index:21;}">
+                <Coords points="377,1648 394,1639 518,1637 1399,1627 1417,1627 1437,1628 1437,1667 1410,1669 480,1681 408,1681 377,1672"/>
+                <Baseline points="377,1672 480,1671 518,1671 596,1670 634,1670 731,1669 770,1668 1198,1665 1237,1664 1275,1664 1314,1663 1437,1662"/>
+                <TextEquiv>
+                    <Unicode>eignet ſind, dieſer Tributwahnſinnspolitik zu dienen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l23" custom="readingOrder {index:22;}">
+                <Coords points="376,1681 784,1677 1257,1673 1257,1673 1397,1673 1437,1681 1437,1715 1147,1718 621,1723 443,1723 376,1718"/>
+                <Baseline points="376,1717 502,1716 528,1715 621,1715 650,1714 876,1712 903,1711 946,1711 974,1711 1147,1709 1173,1709 1229,1708 1257,1708 1437,1706"/>
+                <TextEquiv>
+                    <Unicode>Stehen ſolche Maßnahmen im Reichstag zur Beratung,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l24" custom="readingOrder {index:23;}">
+                <Coords points="377,1728 578,1725 985,1719 1308,1718 1308,1718 1439,1718 1439,1752 1284,1759 1178,1762 961,1765 451,1770 433,1770 377,1769"/>
+                <Baseline points="377,1762 409,1761 433,1761 498,1760 518,1760 554,1760 578,1759 630,1759 651,1759 715,1758 736,1758 800,1757 823,1757 961,1756 985,1756 1178,1754 1201,1754 1284,1753 1308,1753 1367,1753 1390,1752 1439,1752"/>
+                <TextEquiv>
+                    <Unicode>ſo gibt es für uns nur ſchärfſte Ablehnung oder, wie bei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l25" custom="readingOrder {index:24;}">
+                <Coords points="377,1772 465,1768 1016,1765 1016,1765 1203,1765 1439,1771 1439,1796 1345,1803 1295,1806 568,1812 465,1812 377,1805"/>
+                <Baseline points="379,1806 437,1805 465,1805 787,1802 818,1801 986,1800 1016,1800 1345,1797 1377,1796 1439,1796"/>
+                <TextEquiv>
+                    <Unicode>den verfaſſungswidrig diktierten Notverordnungen, nur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l26" custom="readingOrder {index:25;}">
+                <Coords points="377,1814 639,1811 1246,1807 1405,1807 1438,1816 1444,1847 970,1855 506,1857 421,1857 377,1850"/>
+                <Baseline points="377,1850 521,1849 552,1849 610,1848 639,1848 970,1846 1010,1845 1085,1844 1115,1844 1216,1843 1246,1842 1363,1841 1395,1841 1438,1840"/>
+                <TextEquiv>
+                    <Unicode>Anträge auf Außerkraftſetzung. Wir haben bereits im</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l27" custom="readingOrder {index:26;}">
+                <Coords points="377,1860 397,1858 925,1854 1190,1852 1340,1852 1367,1853 1438,1860 1444,1888 1346,1892 1089,1897 663,1902 377,1902"/>
+                <Baseline points="377,1895 699,1892 723,1892 773,1891 796,1891 849,1890 872,1890 1089,1888 1113,1888 1167,1888 1190,1888 1438,1885"/>
+                <TextEquiv>
+                    <Unicode>Haushaltausſchuß bei der Behandlung der Tributnotver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l28" custom="readingOrder {index:27;}">
+                <Coords points="379,1915 416,1905 1263,1893 1283,1893 1355,1897 1439,1906 1439,1930 1285,1941 1265,1941 508,1946 379,1938"/>
+                <Baseline points="379,1940 526,1938 546,1938 620,1937 643,1936 695,1937 707,1937 783,1936 806,1936 891,1935 911,1934 1043,1934 1066,1933 1128,1933 1152,1933 1212,1932 1232,1932 1313,1931 1339,1931 1439,1930"/>
+                <TextEquiv>
+                    <Unicode>ordnung vom 26. Juli 1930 erklärt, daß wir nicht daran</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l29" custom="readingOrder {index:28;}">
+                <Coords points="378,1950 525,1947 578,1946 1257,1941 1338,1941 1386,1943 1439,1950 1444,1977 1338,1983 1065,1986 754,1989 507,1990 502,1990 375,1987"/>
+                <Baseline points="378,1983 507,1983 525,1983 858,1980 874,1980 1103,1977 1119,1977 1187,1976 1205,1976 1338,1975 1355,1975 1439,1974"/>
+                <TextEquiv>
+                    <Unicode>denken, Änderungsanträge einzubringen und dadurch etwa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l30" custom="readingOrder {index:29;}">
+                <Coords points="378,1993 450,1991 1359,1985 1359,1985 1421,1985 1438,1994 1438,2019 1421,2027 1268,2030 606,2036 504,2036 378,2027"/>
+                <Baseline points="378,2028 431,2027 450,2027 636,2026 655,2026 773,2025 794,2025 832,2024 852,2024 957,2024 978,2023 1025,2023 1047,2023 1268,2021 1290,2020 1337,2020 1359,2020 1438,2019"/>
+                <TextEquiv>
+                    <Unicode>der Regierung Winke zu geben, die Erbitterung, die dieſe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l31" custom="readingOrder {index:30;}">
+                <Coords points="377,2037 1384,2028 1384,2028 1402,2028 1438,2032 1438,2064 1402,2072 1268,2075 655,2079 397,2079 377,2073"/>
+                <Baseline points="377,2072 655,2071 688,2071 721,2070 755,2070 808,2070 841,2070 1071,2068 1104,2067 1351,2065 1384,2065 1438,2064"/>
+                <TextEquiv>
+                    <Unicode>Notverordnung in der Bevölkerung hervorgerufen hat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l32" custom="readingOrder {index:31;}">
+                <Coords points="375,2091 423,2082 692,2079 1330,2074 1371,2074 1437,2077 1447,2113 1190,2119 1003,2119 374,2122"/>
+                <Baseline points="376,2117 442,2116 467,2116 515,2116 541,2115 665,2115 692,2114 871,2113 896,2113 960,2112 984,2112 1245,2110 1270,2110 1306,2110 1330,2111 1437,2108"/>
+                <TextEquiv>
+                    <Unicode>und die weitere Millionen von Volksgenoſſen in Front</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l33" custom="readingOrder {index:32;}">
+                <Coords points="378,2135 502,2126 631,2124 805,2122 1250,2119 1383,2119 1425,2123 1440,2128 1439,2150 1424,2158 1401,2161 1191,2165 1051,2166 450,2169 378,2169"/>
+                <Baseline points="378,2162 474,2161 502,2161 601,2160 631,2159 1051,2156 1081,2156 1221,2155 1250,2155 1314,2154 1344,2154 1440,2152"/>
+                <TextEquiv>
+                    <Unicode>gegen dieſes Tributwahnſinnsſyſtem gebracht hat, abzu⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l34" custom="readingOrder {index:33;}">
+                <Coords points="377,2171 391,2170 391,2170 535,2170 556,2180 556,2205 535,2213 377,2213"/>
+                <Baseline points="377,2206 556,2205"/>
+                <TextEquiv>
+                    <Unicode>ſchwächen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l35" custom="readingOrder {index:34;}">
+                <Coords points="466,2218 1290,2213 1420,2213 1439,2221 1448,2250 1352,2253 1261,2256 923,2259 765,2260 590,2260 463,2258"/>
+                <Baseline points="466,2254 528,2253 559,2254 804,2252 834,2252 979,2251 1010,2250 1101,2249 1133,2249 1261,2248 1290,2248 1352,2247 1385,2247 1439,2246"/>
+                <TextEquiv>
+                    <Unicode>Die Kommuniſten brachten einen Antrag ein, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l36" custom="readingOrder {index:35;}">
+                <Coords points="377,2273 434,2264 667,2259 1359,2256 1359,2256 1438,2256 1438,2298 1081,2304 510,2306 491,2306 377,2297"/>
+                <Baseline points="377,2298 551,2297 577,2297 625,2297 651,2297 1081,2294 1106,2293 1162,2293 1188,2293 1321,2291 1348,2291 1438,2290"/>
+                <TextEquiv>
+                    <Unicode>verlangte, die Tributleiſtungsfähigkeit des Reiches durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l37" custom="readingOrder {index:36;}">
+                <Coords points="376,2308 782,2304 1023,2304 1097,2315 1101,2342 1087,2344 1023,2346 978,2347 818,2349 621,2350 453,2350 371,2348"/>
+                <Baseline points="376,2341 425,2342 453,2342 621,2341 648,2341 875,2340 903,2340 941,2339 967,2339 1096,2340"/>
+                <TextEquiv>
+                    <Unicode>die folgenden Maßnahmen zu ſichern:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l38" custom="readingOrder {index:37;}">
+                <Coords points="377,2363 429,2359 1290,2354 1309,2354 1438,2362 1442,2390 1418,2391 1101,2398 673,2403 554,2403 375,2398"/>
+                <Baseline points="376,2395 490,2395 554,2395 744,2394 915,2393 1101,2390 1222,2389 1438,2386"/>
+                <TextEquiv>
+                    <Unicode>1. Die Höchſtgrenze für alle Gehälter und Einkommen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l39" custom="readingOrder {index:38;}">
+                <Coords points="431,2415 529,2401 826,2401 1215,2396 1439,2396 1447,2434 1326,2439 1041,2443 826,2443 429,2443"/>
+                <Baseline points="429,2438 495,2439 565,2438 690,2437 722,2437 789,2436 826,2436 1041,2434 1076,2433 1130,2433 1165,2433 1337,2431 1372,2431 1439,2431"/>
+                <TextEquiv>
+                    <Unicode>von Beamten und Angeſtellten der Behörden und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l40" custom="readingOrder {index:39;}">
+                <Coords points="430,2448 1124,2441 1218,2441 1334,2442 1438,2444 1438,2480 1220,2483 1048,2487 631,2491 467,2491 452,2490 430,2483"/>
+                <Baseline points="430,2483 631,2481 658,2481 910,2479 937,2479 1062,2478 1091,2477 1218,2476 1248,2475 1334,2474 1363,2474 1438,2473"/>
+                <TextEquiv>
+                    <Unicode>öffentlichen Einrichtungen beträgt jährlich 8000 ℛℳ,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l41" custom="readingOrder {index:40;}">
+                <Coords points="431,2493 505,2491 923,2488 1223,2488 1324,2489 1327,2521 1110,2530 661,2534 530,2534 505,2533 431,2526"/>
+                <Baseline points="431,2526 479,2526 505,2526 730,2524 757,2524 810,2523 835,2523 897,2523 923,2523 1110,2520 1135,2520 1223,2519 1250,2518 1324,2517"/>
+                <TextEquiv>
+                    <Unicode>die Höchſtgrenze für alle Penſionen 6000 ℛℳ.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l42" custom="readingOrder {index:41;}">
+                <Coords points="378,2540 430,2535 1372,2528 1401,2528 1425,2534 1439,2540 1439,2554 1445,2569 1421,2570 693,2578 562,2578 378,2576"/>
+                <Baseline points="376,2573 407,2571 429,2571 501,2570 529,2570 713,2568 739,2568 817,2567 844,2567 909,2566 919,2566 985,2564 1012,2564 1076,2564 1105,2564 1231,2564 1258,2563 1345,2562 1371,2562 1439,2560"/>
+                <TextEquiv>
+                    <Unicode>2. Alle Vermögen über 500 000 ℛℳ werden einer ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l43" custom="readingOrder {index:42;}">
+                <Coords points="430,2590 450,2579 1035,2574 1035,2574 1218,2574 1243,2582 1253,2601 1253,2607 1218,2616 559,2625 450,2625 430,2616"/>
+                <Baseline points="430,2616 570,2614 597,2614 718,2612 746,2612 811,2611 839,2611 881,2610 908,2610 939,2610 952,2610 994,2609 1022,2609 1253,2607"/>
+                <TextEquiv>
+                    <Unicode>maligen Steuer von 20 v. H. unterworfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l44" custom="readingOrder {index:43;}">
+                <Coords points="377,2628 430,2624 1099,2617 1373,2616 1414,2616 1438,2625 1438,2650 1337,2662 1019,2663 876,2663 374,2666"/>
+                <Baseline points="377,2660 408,2660 430,2660 502,2659 538,2659 740,2657 774,2656 841,2656 876,2655 1032,2654 1066,2654 1337,2651 1373,2651 1438,2650"/>
+                <TextEquiv>
+                    <Unicode>3. Alle Dividenden und ſonſtigen ausgeſchütteten Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l45" custom="readingOrder {index:44;}">
+                <Coords points="431,2679 463,2670 633,2666 1001,2662 1203,2661 1306,2661 1381,2662 1440,2669 1446,2698 1427,2699 1140,2706 852,2710 633,2710 457,2711 425,2710"/>
+                <Baseline points="430,2704 536,2703 559,2703 609,2703 633,2702 852,2700 877,2700 1181,2697 1203,2697 1330,2695 1353,2695 1440,2694"/>
+                <TextEquiv>
+                    <Unicode>winne bei gewerblichen Unternehmungen werden einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l46" custom="readingOrder {index:45;}">
+                <Coords points="429,2713 694,2710 1026,2707 1208,2707 1257,2715 1257,2740 1208,2749 729,2753 638,2753 424,2752"/>
+                <Baseline points="429,2748 552,2747 578,2747 613,2746 638,2746 729,2745 756,2745 820,2744 846,2744 888,2744 914,2743 944,2743 956,2743 1000,2743 1026,2743 1257,2740"/>
+                <TextEquiv>
+                    <Unicode>Steuer in Höhe von 20 v. H. unterworfen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l47" custom="readingOrder {index:46;}">
+                <Coords points="376,2761 429,2756 541,2754 1068,2750 1242,2749 1397,2749 1441,2758 1441,2784 1416,2792 1397,2793 643,2799 541,2799 401,2798 376,2796"/>
+                <Baseline points="376,2792 408,2794 429,2793 502,2792 513,2792 959,2788 979,2787 1046,2787 1057,2787 1195,2786 1206,2786 1441,2783"/>
+                <TextEquiv>
+                    <Unicode>4. Alle Aufſichtsrats⸗Tantiemen und ähnliche Vergütungen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l48" custom="readingOrder {index:47;}">
+                <Coords points="429,2812 444,2801 1134,2794 1394,2793 1394,2793 1432,2793 1438,2821 1438,2827 1432,2835 996,2841 614,2843 444,2843 429,2836"/>
+                <Baseline points="428,2836 627,2835 651,2835 737,2834 760,2834 996,2831 1019,2831 1054,2831 1078,2830 1170,2830 1195,2829 1260,2829 1285,2829 1327,2828 1351,2828 1382,2828 1394,2828 1438,2827"/>
+                <TextEquiv>
+                    <Unicode>unterliegen einer Sonderſteuer in Höhe von 20 v. H.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l49" custom="readingOrder {index:48;}">
+                <Coords points="377,2849 429,2845 1352,2838 1414,2838 1440,2845 1447,2878 1421,2879 653,2881 374,2887"/>
+                <Baseline points="377,2881 408,2881 429,2881 502,2880 529,2880 745,2878 771,2878 848,2877 876,2876 918,2876 929,2875 994,2874 1022,2874 1085,2874 1113,2874 1240,2874 1267,2873 1326,2873 1352,2873 1440,2872"/>
+                <TextEquiv>
+                    <Unicode>5. Alle Einkommen über 50 000 ℛℳ werden mit einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l50" custom="readingOrder {index:49;}">
+                <Coords points="431,2890 833,2880 847,2880 1215,2886 1215,2919 1190,2928 911,2928 897,2928 450,2932 431,2926"/>
+                <Baseline points="431,2926 664,2923 688,2923 752,2922 777,2922 820,2922 833,2922 858,2921 884,2921 922,2921 950,2921 1078,2920 1102,2919 1215,2919"/>
+                <TextEquiv>
+                    <Unicode>Sonderſteuer von 20 v. H. jährlich belegt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l51" custom="readingOrder {index:50;}">
+                <Coords points="468,2943 715,2941 1248,2937 1400,2937 1439,2938 1444,2974 1405,2977 1180,2981 1138,2982 548,2986 487,2986 468,2978"/>
+                <Baseline points="467,2981 583,2978 610,2977 689,2977 715,2977 909,2975 936,2975 1138,2973 1164,2973 1221,2972 1248,2972 1439,2970"/>
+                <TextEquiv>
+                    <Unicode>Unſere oben dargeſtellte Einſtellung zur Tributnot⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l52" custom="readingOrder {index:51;}">
+                <Coords points="377,2998 473,2989 1004,2981 1277,2981 1424,2983 1439,2988 1439,3014 1410,3023 1368,3024 668,3030 491,3030 375,3025"/>
+                <Baseline points="377,3023 582,3022 602,3021 692,3021 710,3021 786,3020 807,3020 886,3019 907,3019 963,3019 983,3019 1368,3015 1390,3015 1439,3013"/>
+                <TextEquiv>
+                    <Unicode>verordnung gebot uns, dieſe zur Tributnotverordnung ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l53" custom="readingOrder {index:52;}">
+                <Coords points="376,3034 526,3031 876,3028 1344,3025 1344,3025 1355,3025 1439,3034 1439,3059 1416,3067 1194,3070 1040,3072 669,3075 498,3076 376,3076"/>
+                <Baseline points="376,3068 498,3067 526,3067 669,3066 698,3066 739,3065 768,3065 848,3064 876,3064 1040,3063 1067,3063 1194,3062 1224,3061 1283,3061 1311,3061 1372,3060 1400,3060 1439,3059"/>
+                <TextEquiv>
+                    <Unicode>ſtellten Anträge — ohne Rüchkſicht darauf, wie wir zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l54" custom="readingOrder {index:53;}">
+                <Coords points="376,3087 395,3078 1337,3068 1399,3068 1441,3079 1449,3113 1399,3112 1361,3113 1107,3116 916,3118 446,3120 430,3120 373,3121"/>
+                <Baseline points="376,3113 539,3112 562,3111 615,3111 638,3111 916,3109 940,3109 1168,3107 1190,3107 1233,3107 1256,3106 1313,3106 1337,3105 1441,3104"/>
+                <TextEquiv>
+                    <Unicode>einzelnen der vorgeſchlagenen Maßnahmen an ſich ſtehen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l55" custom="readingOrder {index:54;}">
+                <Coords points="376,3120 1337,3114 1370,3114 1424,3123 1439,3129 1439,3140 1444,3157 1138,3160 649,3165 376,3165"/>
+                <Baseline points="375,3156 649,3157 682,3156 754,3155 778,3155 857,3154 882,3153 1027,3152 1051,3152 1153,3151 1176,3151 1240,3151 1264,3150 1311,3150 1337,3150 1437,3150"/>
+                <TextEquiv>
+                    <Unicode>— abzulehnen. Für dieſe Anträge haben nur die Kom⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l56" custom="readingOrder {index:55;}">
+                <Coords points="377,3177 397,3166 730,3163 1344,3159 1344,3159 1417,3159 1438,3167 1438,3199 1417,3203 1176,3205 929,3207 493,3209 397,3209 377,3202"/>
+                <Baseline points="377,3202 533,3201 551,3201 617,3200 638,3200 686,3200 705,3200 1034,3197 1054,3197 1218,3196 1231,3195 1279,3195 1292,3195 1438,3194"/>
+                <TextEquiv>
+                    <Unicode>muniſten und die Sozialdemokraten geſtimmt, die glauben,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l57" custom="readingOrder {index:56;}">
+                <Coords points="377,3212 397,3211 943,3206 1267,3204 1399,3204 1439,3212 1445,3243 1399,3246 1360,3248 1026,3251 435,3254 377,3254"/>
+                <Baseline points="377,3246 435,3246 470,3246 604,3245 637,3244 690,3244 726,3244 818,3243 853,3243 1232,3240 1267,3240 1439,3239"/>
+                <TextEquiv>
+                    <Unicode>ſich dadurch ein gutes Propagandamaterial geſchaffen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l58" custom="readingOrder {index:57;}">
+                <Coords points="377,3265 435,3254 1380,3247 1380,3247 1417,3247 1438,3275 1438,3288 1401,3291 1184,3293 496,3298 377,3298"/>
+                <Baseline points="377,3290 417,3290 435,3290 546,3289 575,3289 641,3289 662,3289 891,3287 910,3287 970,3287 990,3287 1227,3285 1247,3285 1301,3284 1311,3284 1438,3283"/>
+                <TextEquiv>
+                    <Unicode>zu haben. Der „Vorwärts“, das Zentralorgan der SPD.,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l59" custom="readingOrder {index:58;}">
+                <Coords points="375,3301 415,3300 1276,3292 1414,3292 1438,3302 1438,3334 1414,3336 470,3343 452,3343 370,3339"/>
+                <Baseline points="375,3335 485,3334 508,3334 542,3334 566,3334 629,3333 641,3333 704,3333 729,3332 803,3332 829,3332 881,3331 893,3331 1066,3330 1092,3330 1178,3329 1203,3329 1251,3329 1276,3329 1438,3327"/>
+                <TextEquiv>
+                    <Unicode>bringt in Nr. 577 vom 10. Dezember 1930 die Tatſache,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l60" custom="readingOrder {index:59;}">
+                <Coords points="378,3345 525,3343 1294,3337 1294,3337 1401,3337 1438,3346 1438,3371 1422,3380 1275,3382 959,3385 439,3387 378,3387"/>
+                <Baseline points="378,3378 439,3378 459,3378 507,3378 525,3378 865,3377 880,3377 979,3376 998,3376 1045,3375 1062,3375 1275,3373 1294,3373 1438,3371"/>
+                <TextEquiv>
+                    <Unicode>daß die Nationalſozialiſten gegen die bezeichneten Anträge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l61" custom="readingOrder {index:60;}">
+                <Coords points="371,3398 457,3388 1093,3382 1245,3382 1296,3383 1423,3386 1438,3391 1454,3426 1423,3425 945,3429 638,3431 476,3431 371,3430"/>
+                <Baseline points="371,3423 434,3423 457,3423 638,3422 662,3421 715,3422 740,3422 945,3420 970,3420 1026,3420 1052,3419 1361,3417 1389,3417 1440,3415"/>
+                <TextEquiv>
+                    <Unicode>zur Sicherung der Fortſetzung des Tributwahnſinns ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l62" custom="readingOrder {index:61;}">
+                <Coords points="376,3434 388,3433 518,3431 968,3428 968,3428 1101,3428 1141,3429 1155,3431 1171,3439 1171,3463 1141,3472 570,3475 376,3475"/>
+                <Baseline points="376,3468 494,3467 518,3467 628,3467 652,3467 745,3466 770,3466 823,3466 847,3466 945,3465 968,3465 1171,3463"/>
+                <TextEquiv>
+                    <Unicode>ſtimmt haben, unter der fetten Überſchrift:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l63" custom="readingOrder {index:62;}">
+                <Coords points="594,3521 617,3497 637,3496 702,3493 1085,3490 1085,3490 1222,3490 1222,3526 1200,3535 962,3537 594,3537"/>
+                <Baseline points="594,3530 680,3529 702,3529 810,3529 831,3529 962,3528 981,3528 1044,3527 1066,3527 1222,3526"/>
+                <TextEquiv>
+                    <Unicode>„107 Nazis ſchützen das Kapital!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l64" custom="readingOrder {index:63;}">
+                <Coords points="510,3547 1375,3541 1375,3541 1439,3541 1439,3584 1314,3586 1143,3588 1001,3589 696,3590 593,3590 510,3583"/>
+                <Baseline points="510,3583 571,3583 593,3583 766,3582 788,3581 879,3581 902,3581 1001,3580 1022,3580 1227,3579 1248,3578 1314,3578 1337,3578 1439,3577"/>
+                <TextEquiv>
+                    <Unicode>Sie verſuchen, durch dieſes Schlagwort ihre Wäh⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l65" custom="readingOrder {index:64;}">
+                <Coords points="423,3594 666,3591 1379,3587 1414,3587 1439,3597 1448,3627 1121,3630 841,3634 671,3634 418,3631"/>
+                <Baseline points="423,3627 466,3627 495,3627 559,3627 586,3627 640,3627 666,3628 887,3626 915,3626 1121,3624 1150,3624 1198,3624 1228,3623 1289,3623 1317,3623 1351,3622 1379,3622 1439,3621"/>
+                <TextEquiv>
+                    <Unicode>ler von der Wirklichkeit abzulenken, die wir in den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l66" custom="readingOrder {index:65;}">
+                <Coords points="422,3636 934,3633 953,3633 995,3635 1051,3645 1058,3673 953,3677 579,3680 471,3680 422,3679"/>
+                <Baseline points="422,3671 590,3671 616,3671 691,3670 719,3670 757,3670 785,3670 908,3669 934,3669 1051,3669"/>
+                <TextEquiv>
+                    <Unicode>folgenden Satz zu kleiden haben:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l67" custom="readingOrder {index:66;}">
+                <Coords points="467,3708 488,3680 1390,3675 1438,3675 1446,3715 1315,3720 814,3724 467,3724"/>
+                <Baseline points="467,3716 814,3715 847,3715 914,3714 947,3714 1193,3713 1225,3713 1356,3712 1390,3712 1438,3711"/>
+                <TextEquiv>
+                    <Unicode>„Sozialdemokraten und Kommuniſten ſchützen die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l68" custom="readingOrder {index:67;}">
+                <Coords points="466,3725 778,3722 1249,3721 1424,3721 1445,3735 1445,3752 1439,3760 1381,3762 1010,3765 650,3768 484,3768 466,3764"/>
+                <Baseline points="466,3763 650,3759 676,3759 731,3758 757,3759 1045,3758 1071,3758 1139,3757 1167,3757 1221,3757 1249,3757 1441,3754"/>
+                <TextEquiv>
+                    <Unicode>Intereſſen der Tributgläubiger und der internatio⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l69" custom="readingOrder {index:68;}">
+                <Coords points="466,3778 489,3769 624,3766 1096,3765 1421,3765 1440,3773 1449,3804 1389,3809 951,3811 624,3811 461,3806"/>
+                <Baseline points="466,3805 561,3804 603,3804 951,3802 990,3802 1058,3802 1096,3802 1440,3800"/>
+                <TextEquiv>
+                    <Unicode>nalen Großfinanzhyänen, und Nationalſozialiſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l70" custom="readingOrder {index:69;}">
+                <Coords points="465,3814 720,3811 892,3810 1342,3809 1413,3809 1437,3817 1443,3852 1419,3853 1106,3853 856,3855 595,3857 465,3857"/>
+                <Baseline points="466,3850 596,3849 634,3849 682,3848 721,3848 857,3848 893,3846 1107,3845 1145,3845 1210,3845 1247,3845 1296,3845 1343,3844 1438,3844"/>
+                <TextEquiv>
+                    <Unicode>ſchützen die deutſche Produktion und die darin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l71" custom="readingOrder {index:70;}">
+                <Coords points="465,3858 667,3856 873,3854 1148,3854 1159,3870 1151,3894 1057,3898 1039,3899 837,3900 613,3901 465,3901"/>
+                <Baseline points="465,3894 628,3893 653,3893 849,3892 873,3891 1148,3889"/>
+                <TextEquiv>
+                    <Unicode>ſtehenden ſchaffenden Belegſchaften!“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l72" custom="readingOrder {index:71;}">
+                <Coords points="468,3911 552,3910 1113,3906 1415,3906 1439,3915 1445,3949 1379,3948 1364,3949 1068,3951 618,3952 552,3952 462,3950"/>
+                <Baseline points="467,3946 528,3946 552,3945 653,3945 676,3945 810,3943 835,3943 886,3943 909,3943 964,3943 989,3943 1089,3942 1113,3942 1241,3941 1263,3941 1299,3941 1324,3940 1379,3940 1405,3940 1439,3940"/>
+                <TextEquiv>
+                    <Unicode>Um nichts anderes als um dieſes handelt es ſich in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l73" custom="readingOrder {index:72;}">
+                <Coords points="378,3957 453,3955 580,3953 1336,3950 1369,3950 1422,3954 1438,3959 1451,3983 1435,3991 993,3995 610,3997 580,3997 375,3998"/>
+                <Baseline points="378,3991 431,3991 453,3990 724,3988 748,3988 801,3987 823,3987 1150,3986 1171,3986 1237,3985 1260,3985 1313,3985 1336,3985 1439,3985"/>
+                <TextEquiv>
+                    <Unicode>der Stellungnahme der Sozialdemokraten und der Kom⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l74" custom="readingOrder {index:73;}">
+                <Coords points="377,4011 396,4001 922,3996 1329,3995 1381,3995 1423,4001 1438,4006 1449,4024 1434,4032 1264,4039 494,4043 396,4043 377,4035"/>
+                <Baseline points="377,4035 534,4034 561,4034 723,4033 749,4032 815,4032 843,4032 896,4032 922,4031 1264,4030 1289,4029 1438,4028"/>
+                <TextEquiv>
+                    <Unicode>muniſten einerſeits und der Nationalſozialiſten anderer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l75" custom="readingOrder {index:74;}">
+                <Coords points="378,4046 410,4045 556,4043 808,4040 1295,4039 1404,4039 1438,4048 1448,4079 1360,4079 1293,4082 1228,4083 454,4087 378,4087"/>
+                <Baseline points="378,4079 454,4079 477,4078 533,4078 556,4078 662,4078 686,4077 750,4077 772,4077 1008,4076 1033,4075 1080,4075 1105,4075 1259,4074 1282,4074 1360,4074 1385,4073 1438,4073"/>
+                <TextEquiv>
+                    <Unicode>ſeits zur Frage von Maßnahmen, die beſtimmt ſind, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l76" custom="readingOrder {index:75;}">
+                <Coords points="377,4089 439,4088 503,4087 1175,4083 1402,4083 1447,4095 1447,4110 1450,4126 1402,4126 1381,4127 805,4131 503,4131 374,4130"/>
+                <Baseline points="377,4126 805,4121 837,4121 875,4121 906,4121 1028,4120 1068,4120 1145,4120 1175,4120 1440,4117"/>
+                <TextEquiv>
+                    <Unicode>Tributwahnſinnspolitik zu dienen. Wir Nationalſozia⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l77" custom="readingOrder {index:76;}">
+                <Coords points="376,4133 528,4132 871,4130 1386,4128 1419,4128 1438,4138 1447,4168 1352,4169 1298,4171 1175,4172 904,4174 610,4176 403,4176 376,4169"/>
+                <Baseline points="376,4169 467,4169 499,4168 610,4168 640,4168 703,4167 736,4167 973,4165 1006,4165 1053,4165 1085,4165 1241,4163 1273,4163 1352,4163 1386,4162 1438,4162"/>
+                <TextEquiv>
+                    <Unicode>liſten lehnen alle Maßnahmen, die beſtimmt ſind, der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l78" custom="readingOrder {index:77;}">
+                <Coords points="375,4216 379,4178 542,4176 1061,4173 1278,4172 1388,4172 1416,4174 1443,4181 1451,4211 1388,4215 699,4221 566,4218"/>
+                <Baseline points="378,4213 805,4210 830,4210 869,4210 893,4210 1015,4209 1039,4209 1095,4209 1120,4209 1168,4209 1192,4209 1439,4207"/>
+                <TextEquiv>
+                    <Unicode>Tributwahnſinnspolitik zu dienen, ab; die Kommuniſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l79" custom="readingOrder {index:78;}">
+                <Coords points="376,4232 424,4223 461,4221 1064,4218 1285,4217 1376,4217 1439,4219 1451,4257 1376,4260 944,4263 744,4264 482,4264 372,4261"/>
+                <Baseline points="378,4256 442,4257 461,4257 787,4255 806,4255 944,4255 963,4254 1199,4253 1219,4253 1266,4252 1285,4252 1439,4252"/>
+                <TextEquiv>
+                    <Unicode>und Sozialdemokraten ſchlagen Maßnahmen, die beſtimmt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l80" custom="readingOrder {index:79;}">
+                <Coords points="378,4268 427,4267 692,4263 1022,4263 1223,4264 1385,4270 1393,4302 1288,4302 1189,4306 1022,4307 389,4309 378,4309"/>
+                <Baseline points="378,4301 456,4301 484,4301 543,4301 570,4301 665,4300 692,4300 1038,4298 1065,4298 1103,4298 1130,4298 1288,4297 1315,4297 1385,4296"/>
+                <TextEquiv>
+                    <Unicode>ſind, das Reich tributleiſtungsfähig zu geſtalten, vor.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l81" custom="readingOrder {index:80;}">
+                <Coords points="466,4310 916,4308 1268,4307 1416,4307 1438,4316 1438,4346 1416,4349 1137,4351 758,4353 633,4353 457,4351"/>
+                <Baseline points="466,4346 528,4346 555,4346 799,4344 825,4344 890,4343 916,4343 1243,4341 1268,4341 1438,4341"/>
+                <TextEquiv>
+                    <Unicode>Die Kommuniſten und Sozialdemokraten vergeſſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l82" custom="readingOrder {index:81;}">
+                <Coords points="378,4357 398,4356 460,4355 706,4353 1306,4350 1356,4350 1415,4351 1439,4360 1447,4389 1415,4393 1286,4395 552,4398 398,4398 374,4393"/>
+                <Baseline points="376,4391 439,4391 460,4390 552,4390 572,4390 672,4389 693,4389 777,4389 796,4389 985,4387 1007,4387 1054,4387 1077,4387 1286,4386 1306,4385 1439,4385"/>
+                <TextEquiv>
+                    <Unicode>daß durch einige ihrer Vorſchläge die werktätigen Maſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l83" custom="readingOrder {index:82;}">
+                <Coords points="375,4408 393,4399 1397,4395 1438,4395 1448,4434 1346,4436 1178,4440 853,4441 720,4441 393,4436 366,4441"/>
+                <Baseline points="375,4435 539,4435 570,4434 604,4434 634,4434 688,4434 720,4434 853,4433 883,4433 987,4432 1021,4432 1178,4431 1210,4431 1346,4430 1378,4429 1438,4429"/>
+                <TextEquiv>
+                    <Unicode>mittelbar in der gleichen Weiſe getroffen werden, wie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l84" custom="readingOrder {index:83;}">
+                <Coords points="378,4445 452,4439 1214,4439 1439,4440 1451,4483 1214,4482 1163,4483 775,4486 543,4486 398,4484 366,4480"/>
+                <Baseline points="378,4478 425,4478 452,4478 775,4477 800,4477 866,4477 892,4477 1249,4475 1274,4475 1439,4473"/>
+                <TextEquiv>
+                    <Unicode>die Vermögensbeſitzer und Einkommenbezieher unmittel⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l85" custom="readingOrder {index:84;}">
+                <Coords points="375,4489 479,4488 722,4486 1370,4483 1418,4483 1439,4493 1446,4523 1425,4524 1144,4528 741,4530 722,4530 372,4528"/>
+                <Baseline points="375,4523 444,4523 479,4522 554,4522 578,4522 698,4522 722,4522 790,4522 814,4522 856,4521 881,4521 929,4521 955,4521 1144,4520 1182,4519 1189,4519 1214,4519 1280,4519 1305,4519 1336,4519 1370,4518 1439,4518"/>
+                <TextEquiv>
+                    <Unicode>bar. Wir denken hier an die Vorſchläge 2 und 3. Der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l86" custom="readingOrder {index:85;}">
+                <Coords points="376,4531 1359,4529 1419,4529 1439,4538 1450,4569 1327,4572 1184,4573 763,4575 399,4575 369,4573"/>
+                <Baseline points="376,4568 551,4567 581,4567 602,4567 632,4567 778,4566 808,4566 877,4566 908,4566 1077,4565 1110,4565 1327,4563 1359,4563 1439,4562"/>
+                <TextEquiv>
+                    <Unicode>Vorſchlag 2 verlangt eine einmalige Beſteuerung aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l87" custom="readingOrder {index:86;}">
+                <Coords points="377,4577 1367,4569 1439,4583 1445,4615 1364,4616 422,4619 372,4614"/>
+                <Baseline points="377,4612 561,4611 586,4611 662,4611 688,4610 752,4610 763,4610 827,4609 854,4608 918,4609 946,4609 980,4609 1006,4609 1097,4609 1125,4609 1189,4608 1216,4608 1257,4608 1284,4608 1314,4608 1345,4608 1441,4609"/>
+                <TextEquiv>
+                    <Unicode>Vermögen über 500 000 ℛℳ in Höhe von 20 v. H. —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l88" custom="readingOrder {index:87;}">
+                <Coords points="373,4616 467,4616 1351,4617 1439,4626 1439,4660 1351,4662 452,4665 369,4664"/>
+                <Baseline points="373,4657 534,4655 563,4655 629,4655 658,4655 871,4655 897,4655 985,4655 1014,4655 1439,4652"/>
+                <TextEquiv>
+                    <Unicode>Beiſpiel: Der Geſamtwert einer Induſtrieunternehmung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l89" custom="readingOrder {index:88;}">
+                <Coords points="375,4666 447,4665 607,4664 1215,4662 1268,4662 1424,4663 1446,4666 1446,4698 1424,4703 1385,4705 492,4710 474,4710 370,4707"/>
+                <Baseline points="375,4701 502,4700 521,4700 588,4700 607,4700 746,4700 765,4700 985,4699 1015,4699 1106,4699 1125,4699 1193,4698 1215,4698 1355,4697 1374,4697 1439,4696"/>
+                <TextEquiv>
+                    <Unicode>beträgt eine Million Reichsmark. Dieſe eine Million ſetzt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l90" custom="readingOrder {index:89;}">
+                <Coords points="371,4711 404,4710 1285,4707 1415,4707 1438,4709 1450,4747 1415,4751 1186,4752 576,4753 371,4753"/>
+                <Baseline points="378,4745 434,4745 459,4745 640,4744 663,4744 725,4744 750,4744 815,4743 826,4743 890,4743 915,4742 979,4742 1005,4743 1258,4743 1285,4743 1438,4741"/>
+                <TextEquiv>
+                    <Unicode>ſich zuſammen aus 900 000 ℛℳ Anlagekapital (Fabrik⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l91" custom="readingOrder {index:90;}">
+                <Coords points="378,4764 422,4755 544,4754 1066,4751 1360,4751 1438,4752 1446,4789 1360,4795 1323,4797 830,4798 457,4798 372,4795"/>
+                <Baseline points="377,4789 525,4789 544,4789 741,4789 759,4789 890,4789 908,4789 1360,4786 1373,4786 1437,4784"/>
+                <TextEquiv>
+                    <Unicode>anlagen, Maſchinen, ſonſtige Einrichtungsgegenſtände) und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l92" custom="readingOrder {index:91;}">
+                <Coords points="378,4799 399,4798 647,4798 1289,4795 1348,4795 1438,4796 1438,4838 1411,4839 534,4840 517,4840 378,4838"/>
+                <Baseline points="378,4834 442,4832 456,4832 518,4832 550,4832 615,4833 647,4833 925,4833 960,4833 1238,4832 1272,4832 1438,4830"/>
+                <TextEquiv>
+                    <Unicode>100 000 ℛℳ Betriebskapital (Warenvorräte, Rohſtoff⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l93" custom="readingOrder {index:92;}">
+                <Coords points="377,4854 455,4844 549,4843 1128,4837 1186,4837 1350,4841 1439,4850 1451,4880 1350,4885 1185,4884 1127,4884 605,4886 510,4885 370,4884"/>
+                <Baseline points="377,4878 516,4878 549,4878 771,4878 802,4878 891,4878 924,4878 1128,4877 1169,4877 1186,4877 1200,4877 1364,4876 1396,4876 1439,4875"/>
+                <TextEquiv>
+                    <Unicode>vorräte, Außenſtände uſw., abzüglich der Schulden an</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l94" custom="readingOrder {index:93;}">
+                <Coords points="376,4887 1373,4884 1413,4884 1438,4885 1450,4925 1214,4930 729,4931 394,4931 369,4925"/>
+                <Baseline points="376,4922 729,4922 763,4922 1078,4922 1108,4921 1214,4921 1256,4921 1339,4920 1373,4920 1438,4920"/>
+                <TextEquiv>
+                    <Unicode>Rohſtofflieferanten, Warenlieferanten uſw.). Eine Ab⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l95" custom="readingOrder {index:94;}">
+                <Coords points="374,4941 419,4933 702,4931 1302,4929 1441,4929 1441,4971 747,4974 711,4974 374,4976"/>
+                <Baseline points="374,4967 454,4967 488,4967 554,4966 586,4966 628,4966 661,4967 692,4967 702,4967 748,4967 781,4967 879,4966 913,4966 1053,4966 1086,4966 1171,4966 1206,4965 1269,4965 1302,4965 1436,4964"/>
+                <TextEquiv>
+                    <Unicode>gabe von 20 v. H. dieſer Million wäre nur dadurch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l96" custom="readingOrder {index:95;}">
+                <Coords points="369,4979 397,4976 732,4974 863,4974 1381,4975 1439,4983 1440,5015 525,5019 428,5019 366,5017"/>
+                <Baseline points="374,5012 519,5011 543,5011 604,5011 628,5011 676,5011 731,5011 930,5012 954,5012 1002,5012 1027,5011 1091,5010 1102,5010 1166,5009 1191,5008 1256,5009 1279,5009 1329,5009 1352,5009 1438,5009"/>
+                <TextEquiv>
+                    <Unicode>möglich, daß die Unternehmer die 200 000 ℛℳ bei einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l97" custom="readingOrder {index:96;}">
+                <Coords points="370,5021 1218,5019 1327,5019 1354,5020 1438,5028 1445,5059 1354,5062 1253,5063 587,5064 517,5064 383,5062 370,5055"/>
+                <Baseline points="378,5055 587,5056 612,5056 685,5056 708,5056 950,5055 973,5055 1073,5055 1098,5055 1195,5054 1218,5054 1438,5053"/>
+                <TextEquiv>
+                    <Unicode>inländiſchen oder ausländiſchen Bank gegen Proviſionen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l98" custom="readingOrder {index:97;}">
+                <Coords points="375,5074 424,5065 465,5064 641,5062 1420,5062 1447,5072 1447,5097 1420,5107 541,5108 530,5108 368,5104"/>
+                <Baseline points="375,5099 444,5100 465,5100 582,5100 603,5100 716,5100 746,5100 820,5100 843,5099 959,5099 973,5099 1011,5099 1032,5099 1120,5099 1163,5099 1441,5097"/>
+                <TextEquiv>
+                    <Unicode>und Zinſen leihen. Das würde zu einer hypothekariſchen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l99" custom="readingOrder {index:98;}">
+                <Coords points="375,5108 1351,5106 1351,5106 1382,5106 1439,5115 1439,5143 1306,5151 553,5153 394,5153 375,5144"/>
+                <Baseline points="375,5144 553,5144 577,5145 629,5145 653,5144 919,5144 942,5144 1002,5143 1025,5143 1089,5142 1100,5142 1165,5142 1189,5142 1264,5141 1284,5143 1329,5143 1351,5143 1439,5143"/>
+                <TextEquiv>
+                    <Unicode>Belaſtung der Fabrikanlagen mit 200 000 ℛℳ, zu einer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Die Totengräber.&#13;
+Die ſozialdemokratiſche Reichstagsfraktion für Kran⸗&#13;
+kenſteuer, Arzneiſteuer, Bürgerſteuer, Gemeindebierſteuer,&#13;
+Gemeindegetränkeſteuer, Notopfer und Ledigenſteuer und&#13;
+gegen Winterbeihilfe für die Hungernden und Frierenden.&#13;
+NSPD. Am 6. Dezember fand im Reichstag die&#13;
+Abſtimmung über die Tributnotverordnungen vom 26. Juli&#13;
+1930 und vom 1. Dezember 1930 und über dazu ein⸗&#13;
+gebrachte kommuniſtiſche Änderungsanträge ſtatt.&#13;
+Die Notverordnungen ſind Tributnotverordnungen:&#13;
+ſie ſind erlaſſen worden, um das Reich auf weite Sicht&#13;
+tributleiſtungsfähig zu geſtalten. Sie ſind beſtimmt, jähr⸗&#13;
+lich viele hundert Millionen Reichsmark mehr als bisher&#13;
+aus dem deutſchen Wirtſchaftskörper herauszupreſſen, um&#13;
+damit fortgeſetzt die Reichshaushaltslöcher zu ſtopfen,&#13;
+die ſich in immer größeren Ausmaßen aus der Tribut⸗&#13;
+wahnſinnspolitik und aus der innerwirtſchaftlichen Un⸗&#13;
+fähigkeit der Leute des heutigen Syſtems ergeben.&#13;
+Wir Nationalſozialiſten ſind unerbittliche Gegner der&#13;
+Tributwahnſinnspolitik. Daraus ergibt ſich, daß wir&#13;
+gegen alle Maßnahmen ſtimmen, die beſtimmt oder ge⸗&#13;
+eignet ſind, dieſer Tributwahnſinnspolitik zu dienen.&#13;
+Stehen ſolche Maßnahmen im Reichstag zur Beratung,&#13;
+ſo gibt es für uns nur ſchärfſte Ablehnung oder, wie bei&#13;
+den verfaſſungswidrig diktierten Notverordnungen, nur&#13;
+Anträge auf Außerkraftſetzung. Wir haben bereits im&#13;
+Haushaltausſchuß bei der Behandlung der Tributnotver⸗&#13;
+ordnung vom 26. Juli 1930 erklärt, daß wir nicht daran&#13;
+denken, Änderungsanträge einzubringen und dadurch etwa&#13;
+der Regierung Winke zu geben, die Erbitterung, die dieſe&#13;
+Notverordnung in der Bevölkerung hervorgerufen hat&#13;
+und die weitere Millionen von Volksgenoſſen in Front&#13;
+gegen dieſes Tributwahnſinnsſyſtem gebracht hat, abzu⸗&#13;
+ſchwächen.&#13;
+Die Kommuniſten brachten einen Antrag ein, der&#13;
+verlangte, die Tributleiſtungsfähigkeit des Reiches durch&#13;
+die folgenden Maßnahmen zu ſichern:&#13;
+1. Die Höchſtgrenze für alle Gehälter und Einkommen&#13;
+von Beamten und Angeſtellten der Behörden und&#13;
+öffentlichen Einrichtungen beträgt jährlich 8000 ℛℳ,&#13;
+die Höchſtgrenze für alle Penſionen 6000 ℛℳ.&#13;
+2. Alle Vermögen über 500 000 ℛℳ werden einer ein⸗&#13;
+maligen Steuer von 20 v. H. unterworfen.&#13;
+3. Alle Dividenden und ſonſtigen ausgeſchütteten Ge⸗&#13;
+winne bei gewerblichen Unternehmungen werden einer&#13;
+Steuer in Höhe von 20 v. H. unterworfen.&#13;
+4. Alle Aufſichtsrats⸗Tantiemen und ähnliche Vergütungen&#13;
+unterliegen einer Sonderſteuer in Höhe von 20 v. H.&#13;
+5. Alle Einkommen über 50 000 ℛℳ werden mit einer&#13;
+Sonderſteuer von 20 v. H. jährlich belegt.&#13;
+Unſere oben dargeſtellte Einſtellung zur Tributnot⸗&#13;
+verordnung gebot uns, dieſe zur Tributnotverordnung ge⸗&#13;
+ſtellten Anträge — ohne Rüchkſicht darauf, wie wir zu&#13;
+einzelnen der vorgeſchlagenen Maßnahmen an ſich ſtehen&#13;
+— abzulehnen. Für dieſe Anträge haben nur die Kom⸗&#13;
+muniſten und die Sozialdemokraten geſtimmt, die glauben,&#13;
+ſich dadurch ein gutes Propagandamaterial geſchaffen&#13;
+zu haben. Der „Vorwärts“, das Zentralorgan der SPD.,&#13;
+bringt in Nr. 577 vom 10. Dezember 1930 die Tatſache,&#13;
+daß die Nationalſozialiſten gegen die bezeichneten Anträge&#13;
+zur Sicherung der Fortſetzung des Tributwahnſinns ge⸗&#13;
+ſtimmt haben, unter der fetten Überſchrift:&#13;
+„107 Nazis ſchützen das Kapital!&#13;
+Sie verſuchen, durch dieſes Schlagwort ihre Wäh⸗&#13;
+ler von der Wirklichkeit abzulenken, die wir in den&#13;
+folgenden Satz zu kleiden haben:&#13;
+„Sozialdemokraten und Kommuniſten ſchützen die&#13;
+Intereſſen der Tributgläubiger und der internatio⸗&#13;
+nalen Großfinanzhyänen, und Nationalſozialiſten&#13;
+ſchützen die deutſche Produktion und die darin&#13;
+ſtehenden ſchaffenden Belegſchaften!“&#13;
+Um nichts anderes als um dieſes handelt es ſich in&#13;
+der Stellungnahme der Sozialdemokraten und der Kom⸗&#13;
+muniſten einerſeits und der Nationalſozialiſten anderer⸗&#13;
+ſeits zur Frage von Maßnahmen, die beſtimmt ſind, der&#13;
+Tributwahnſinnspolitik zu dienen. Wir Nationalſozia⸗&#13;
+liſten lehnen alle Maßnahmen, die beſtimmt ſind, der&#13;
+Tributwahnſinnspolitik zu dienen, ab; die Kommuniſten&#13;
+und Sozialdemokraten ſchlagen Maßnahmen, die beſtimmt&#13;
+ſind, das Reich tributleiſtungsfähig zu geſtalten, vor.&#13;
+Die Kommuniſten und Sozialdemokraten vergeſſen,&#13;
+daß durch einige ihrer Vorſchläge die werktätigen Maſſen&#13;
+mittelbar in der gleichen Weiſe getroffen werden, wie&#13;
+die Vermögensbeſitzer und Einkommenbezieher unmittel⸗&#13;
+bar. Wir denken hier an die Vorſchläge 2 und 3. Der&#13;
+Vorſchlag 2 verlangt eine einmalige Beſteuerung aller&#13;
+Vermögen über 500 000 ℛℳ in Höhe von 20 v. H. —&#13;
+Beiſpiel: Der Geſamtwert einer Induſtrieunternehmung&#13;
+beträgt eine Million Reichsmark. Dieſe eine Million ſetzt&#13;
+ſich zuſammen aus 900 000 ℛℳ Anlagekapital (Fabrik⸗&#13;
+anlagen, Maſchinen, ſonſtige Einrichtungsgegenſtände) und&#13;
+100 000 ℛℳ Betriebskapital (Warenvorräte, Rohſtoff⸗&#13;
+vorräte, Außenſtände uſw., abzüglich der Schulden an&#13;
+Rohſtofflieferanten, Warenlieferanten uſw.). Eine Ab⸗&#13;
+gabe von 20 v. H. dieſer Million wäre nur dadurch&#13;
+möglich, daß die Unternehmer die 200 000 ℛℳ bei einer&#13;
+inländiſchen oder ausländiſchen Bank gegen Proviſionen&#13;
+und Zinſen leihen. Das würde zu einer hypothekariſchen&#13;
+Belaſtung der Fabrikanlagen mit 200 000 ℛℳ, zu einer</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r6" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1502,600 2616,600 2616,2951 1502,2951"/>
+            <TextLine id="r6l1" custom="readingOrder {index:0;}">
+                <Coords points="1525,620 1549,617 1717,610 1773,610 2503,614 2590,615 2598,652 2578,653 2503,654 2068,662 1777,662 1721,662 1549,662 1525,657"/>
+                <Baseline points="1525,656 1717,654 1773,654 1796,654 2068,651 2089,651 2145,652 2167,651 2262,649 2283,649 2368,648 2390,647 2503,645 2526,645 2593,646"/>
+                <TextEquiv>
+                    <Unicode>Erhöhung des Unkoſtenkontos um jährl. etwa 20 000 ℛℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l2" custom="readingOrder {index:1;}">
+                <Coords points="1525,674 1575,665 1791,662 2456,655 2591,655 2597,698 2353,701 1921,706 1633,707 1617,707 1517,706"/>
+                <Baseline points="1525,701 1594,701 1617,700 1656,700 1678,700 1766,699 1791,699 2025,697 2049,696 2105,696 2128,695 2266,694 2291,694 2388,693 2412,693 2591,691"/>
+                <TextEquiv>
+                    <Unicode>und zu einer Schmälerung des Kredits dieſer Unterneh⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l3" custom="readingOrder {index:2;}">
+                <Coords points="1524,709 2546,700 2590,700 2596,740 2574,741 2284,746 1776,753 1650,753 1550,752 1524,746"/>
+                <Baseline points="1524,746 1628,745 1650,745 1776,744 1808,743 1870,743 1893,743 2072,741 2095,740 2152,740 2174,740 2458,737 2482,737 2590,736"/>
+                <TextEquiv>
+                    <Unicode>mung führen. Die Erhöhung des Unkoſtenkontos würde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l4" custom="readingOrder {index:3;}">
+                <Coords points="1525,763 1550,753 1853,750 2382,745 2517,745 2576,753 2591,759 2602,777 2587,785 2517,789 1799,795 1757,795 1550,794 1522,794"/>
+                <Baseline points="1525,791 1586,790 1625,790 1674,789 1709,789 1815,788 1853,787 2007,786 2043,785 2165,784 2200,784 2265,784 2301,783 2347,783 2382,783 2589,779"/>
+                <TextEquiv>
+                    <Unicode>auf die Löhne drückend wirken und im Zuſammen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l5" custom="readingOrder {index:4;}">
+                <Coords points="1526,799 1557,799 1674,799 1839,796 2200,792 2482,789 2564,789 2591,798 2597,830 2564,833 2041,839 1619,842 1542,842 1524,837"/>
+                <Baseline points="1530,833 1619,835 1654,834 1713,834 1749,833 1802,833 1839,833 2073,831 2109,830 2165,830 2200,829 2337,828 2374,827 2446,827 2482,826 2591,825"/>
+                <TextEquiv>
+                    <Unicode>hang mit der Schmälerung des Kredits zum finan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l6" custom="readingOrder {index:5;}">
+                <Coords points="1527,846 1546,844 1763,840 2264,837 2478,836 2478,836 2497,836 2590,843 2590,877 1976,886 1640,887 1527,887"/>
+                <Baseline points="1527,880 1640,880 1687,879 1976,876 2020,876 2074,875 2120,875 2385,872 2431,871 2497,871 2552,870 2590,870"/>
+                <TextEquiv>
+                    <Unicode>ziellen Zuſammenbruch der Unternehmung und zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l7" custom="readingOrder {index:6;}">
+                <Coords points="1529,888 1549,887 1830,886 2508,879 2541,879 2591,888 2599,918 2431,923 2151,925 1829,929 1543,929 1523,928"/>
+                <Baseline points="1527,923 1691,923 1727,923 1794,922 1829,922 2268,918 2304,917 2380,916 2415,916 2473,915 2508,915 2591,914"/>
+                <TextEquiv>
+                    <Unicode>Arbeiter⸗ und Angeſtelltenentlaſſungen oder zur Ver⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l8" custom="readingOrder {index:7;}">
+                <Coords points="1527,934 1540,933 1581,932 2280,925 2573,919 2591,923 2591,966 2447,968 1654,977 1527,977"/>
+                <Baseline points="1527,969 1690,968 1712,967 1809,967 1832,966 2096,964 2119,963 2154,963 2177,963 2236,962 2257,962 2591,958"/>
+                <TextEquiv>
+                    <Unicode>ſchiebung dieſer Unternehmung in den Verfügungsbereich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l9" custom="readingOrder {index:8;}">
+                <Coords points="1527,978 1599,976 2530,967 2561,967 2591,969 2603,1007 2426,1012 2384,1013 2093,1017 1734,1020 1599,1020 1523,1019"/>
+                <Baseline points="1527,1014 1734,1012 1758,1012 1834,1011 1855,1011 2093,1008 2117,1008 2345,1005 2370,1005 2499,1003 2530,1003 2591,1002"/>
+                <TextEquiv>
+                    <Unicode>inländiſcher oder ausländiſcher Bankhyänen führen. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l10" custom="readingOrder {index:9;}">
+                <Coords points="1528,1024 1542,1023 1564,1022 1723,1020 2249,1015 2494,1013 2554,1013 2597,1022 2597,1046 2575,1055 1918,1063 1700,1065 1528,1065"/>
+                <Baseline points="1528,1057 1700,1056 1723,1055 1918,1054 1941,1053 2049,1052 2073,1052 2106,1052 2128,1051 2227,1051 2249,1051 2328,1049 2351,1049 2399,1049 2422,1048 2591,1046"/>
+                <TextEquiv>
+                    <Unicode>ſchaffende Belegſchaft würde in jedem Fall die einmalige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l11" custom="readingOrder {index:10;}">
+                <Coords points="1528,1067 2148,1060 2442,1059 2507,1059 2557,1058 2597,1059 2597,1094 2268,1103 1984,1106 1866,1107 1723,1108 1547,1108 1528,1103"/>
+                <Baseline points="1528,1102 1866,1099 1887,1098 1984,1097 2006,1097 2268,1094 2288,1094 2346,1093 2366,1092 2431,1091 2442,1091 2507,1090 2528,1090 2591,1089"/>
+                <TextEquiv>
+                    <Unicode>Sonderbeſteuerung dieſer Unternehmung mit 200 000 ℛℳ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l12" custom="readingOrder {index:11;}">
+                <Coords points="1529,1113 1542,1112 2134,1105 2472,1100 2538,1100 2567,1103 2593,1111 2602,1143 2396,1146 1850,1152 1638,1154 1529,1154"/>
+                <Baseline points="1529,1146 1638,1145 1673,1145 1711,1144 1745,1144 1861,1143 1893,1143 2089,1141 2134,1141 2183,1140 2217,1140 2277,1139 2311,1138 2438,1137 2472,1136 2593,1135"/>
+                <TextEquiv>
+                    <Unicode>ſchwer zu ſpüren bekommen. In den meiſten Fällen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l13" custom="readingOrder {index:12;}">
+                <Coords points="1529,1166 1550,1156 2461,1145 2480,1145 2592,1151 2602,1183 2480,1188 2313,1193 1944,1196 1722,1197 1667,1197 1520,1196"/>
+                <Baseline points="1529,1190 1637,1189 1667,1189 1722,1189 1751,1188 1820,1188 1850,1188 1944,1187 1974,1186 2313,1183 2341,1182 2375,1182 2405,1182 2497,1180 2527,1180 2592,1179"/>
+                <TextEquiv>
+                    <Unicode>würde ſich eine ſolche Sonderbeſteuerung in Höhe von</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l14" custom="readingOrder {index:13;}">
+                <Coords points="1528,1198 1549,1197 1634,1200 2056,1194 2343,1191 2454,1190 2511,1190 2576,1193 2591,1198 2602,1225 2587,1232 2396,1234 2209,1237 1920,1240 1667,1241 1634,1241 1521,1240"/>
+                <Baseline points="1529,1234 1570,1234 1592,1234 1621,1234 1634,1234 1677,1233 1699,1233 1755,1233 1776,1233 1979,1231 2002,1231 2035,1231 2056,1231 2246,1229 2269,1228 2322,1228 2343,1227 2591,1225"/>
+                <TextEquiv>
+                    <Unicode>20 v. H. des Vermögens in Stillegung der Produktions⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l15" custom="readingOrder {index:14;}">
+                <Coords points="1528,1245 2019,1238 2354,1235 2535,1235 2576,1243 2601,1245 2601,1258 2598,1278 2535,1278 2179,1283 1618,1287 1528,1287"/>
+                <Baseline points="1528,1280 1618,1279 1644,1279 1708,1278 1735,1278 1828,1277 1854,1277 1888,1277 1914,1276 1967,1276 1992,1276 2244,1273 2272,1273 2328,1272 2354,1272 2593,1268"/>
+                <TextEquiv>
+                    <Unicode>ſtätte und ſomit in der Vergrößerung des Arbeitsloſen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l16" custom="readingOrder {index:15;}">
+                <Coords points="1529,1289 2380,1279 2530,1279 2591,1287 2599,1320 2551,1322 1637,1332 1529,1332"/>
+                <Baseline points="1529,1325 1637,1324 1668,1324 1734,1323 1766,1323 1819,1322 1850,1322 1922,1321 1951,1321 2019,1321 2050,1320 2106,1319 2137,1319 2263,1317 2295,1317 2348,1317 2380,1316 2591,1314"/>
+                <TextEquiv>
+                    <Unicode>heeres und der Not und des Elends der werktätigen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l17" custom="readingOrder {index:16;}">
+                <Coords points="1528,1334 1744,1332 1849,1332 1872,1340 1884,1358 1889,1369 1873,1371 1638,1377 1607,1378 1551,1378 1528,1370"/>
+                <Baseline points="1528,1370 1662,1369 1682,1369 1884,1367"/>
+                <TextEquiv>
+                    <Unicode>Maſſen auswirken.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l18" custom="readingOrder {index:17;}">
+                <Coords points="1618,1378 2099,1373 2522,1370 2574,1370 2590,1378 2598,1407 2479,1413 2054,1419 1852,1419 1613,1417"/>
+                <Baseline points="1618,1413 1684,1412 1729,1412 1809,1411 1852,1411 2054,1409 2099,1408 2227,1407 2270,1406 2289,1406 2333,1406 2479,1404 2522,1403 2590,1403"/>
+                <TextEquiv>
+                    <Unicode>Der oben abgedruckte Antrag 3 verlangt eine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l19" custom="readingOrder {index:18;}">
+                <Coords points="1530,1424 1551,1422 1639,1423 1860,1419 2357,1415 2573,1415 2592,1422 2598,1456 2400,1458 2190,1462 1671,1466 1653,1466 1578,1462 1530,1462"/>
+                <Baseline points="1530,1458 1615,1458 1639,1457 1687,1457 1726,1456 2282,1451 2320,1450 2400,1449 2438,1449 2500,1448 2538,1448 2592,1447"/>
+                <TextEquiv>
+                    <Unicode>20 % ige Einkommensſonderbeſteuerung nicht nur der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l20" custom="readingOrder {index:19;}">
+                <Coords points="1529,1467 2080,1462 2533,1459 2551,1459 2593,1467 2599,1497 2434,1501 2309,1503 2160,1505 1934,1508 1743,1509 1549,1509 1523,1508"/>
+                <Baseline points="1529,1504 1743,1502 1762,1502 1802,1501 1822,1501 1972,1499 1990,1499 2051,1498 2071,1497 2225,1496 2244,1496 2345,1494 2364,1494 2593,1492"/>
+                <TextEquiv>
+                    <Unicode>Dividenden, — wogegen wir durchaus nichts einzuwenden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l21" custom="readingOrder {index:20;}">
+                <Coords points="1526,1512 2330,1504 2558,1503 2568,1503 2599,1512 2603,1543 2525,1546 1932,1554 1548,1555 1526,1555"/>
+                <Baseline points="1526,1548 1640,1547 1675,1547 1718,1546 1753,1546 1932,1544 1967,1544 2026,1543 2058,1543 2185,1541 2217,1541 2295,1541 2330,1540 2525,1537 2558,1537 2592,1537"/>
+                <TextEquiv>
+                    <Unicode>haben, im Gegenteil, wir werden dieſe Forderung in</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l22" custom="readingOrder {index:21;}">
+                <Coords points="1529,1558 2230,1549 2527,1548 2568,1548 2592,1557 2599,1588 2554,1589 2434,1591 2298,1593 2069,1596 1830,1598 1813,1598 1523,1600"/>
+                <Baseline points="1529,1593 1632,1592 1664,1591 1751,1590 1780,1590 1910,1588 1941,1588 2117,1586 2148,1586 2202,1585 2230,1585 2312,1584 2342,1584 2496,1582 2527,1582 2592,1581"/>
+                <TextEquiv>
+                    <Unicode>Form eines eigenen Antrages, der nicht beſtimmt ſein</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l23" custom="readingOrder {index:22;}">
+                <Coords points="1529,1613 1545,1603 1712,1600 2395,1592 2520,1592 2581,1602 2591,1620 2591,1632 2520,1635 2095,1640 1621,1644 1545,1644 1529,1637"/>
+                <Baseline points="1529,1637 1621,1636 1640,1636 1693,1636 1712,1635 2095,1632 2112,1631 2151,1631 2169,1631 2291,1630 2309,1630 2520,1628 2540,1627 2591,1627"/>
+                <TextEquiv>
+                    <Unicode>wird, der Tributnotverordnung zu dienen, wiederholen —,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l24" custom="readingOrder {index:23;}">
+                <Coords points="1527,1645 2147,1638 2536,1632 2593,1645 2603,1676 2547,1678 1540,1689 1529,1689"/>
+                <Baseline points="1529,1681 1664,1680 1693,1680 1767,1679 1797,1679 1876,1678 1904,1678 2060,1677 2090,1677 2248,1674 2278,1673 2340,1673 2371,1672 2593,1669"/>
+                <TextEquiv>
+                    <Unicode>ſondern auch aller ſonſtigen Gewinne aus gewerblichen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l25" custom="readingOrder {index:24;}">
+                <Coords points="1531,1691 1673,1689 2432,1681 2529,1681 2602,1681 2606,1721 2340,1725 1793,1732 1691,1733 1673,1733 1522,1731"/>
+                <Baseline points="1531,1726 1842,1723 1874,1723 2040,1721 2061,1720 2160,1719 2179,1719 2245,1718 2266,1718 2340,1717 2361,1716 2409,1716 2432,1716 2591,1714"/>
+                <TextEquiv>
+                    <Unicode>Unternehmungen. Darunter fallen alſo auch die Gewinne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l26" custom="readingOrder {index:25;}">
+                <Coords points="1528,1747 1621,1734 1864,1732 2442,1724 2564,1724 2592,1726 2601,1764 2241,1773 1822,1779 1621,1779 1522,1777"/>
+                <Baseline points="1528,1771 1591,1771 1621,1771 1822,1769 1852,1769 2242,1764 2269,1764 2334,1763 2362,1763 2592,1760"/>
+                <TextEquiv>
+                    <Unicode>aus öffentlichen Handelsgeſellſchaften, aus Kommandit⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l27" custom="readingOrder {index:26;}">
+                <Coords points="1527,1789 1566,1781 1597,1780 1636,1779 2008,1773 2527,1770 2559,1770 2592,1779 2606,1809 2237,1819 1757,1824 1527,1824"/>
+                <Baseline points="1527,1816 1757,1814 1779,1814 1844,1812 1866,1812 1928,1812 1949,1812 2374,1807 2405,1806 2505,1805 2527,1805 2592,1804"/>
+                <TextEquiv>
+                    <Unicode>geſellſchaften und aus Einzelunternehmungen. Jeder Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l28" custom="readingOrder {index:27;}">
+                <Coords points="1530,1835 1545,1824 2455,1814 2474,1814 2593,1823 2603,1852 2474,1857 2437,1858 1930,1863 1802,1864 1542,1867 1527,1863"/>
+                <Baseline points="1530,1860 1802,1857 1830,1857 1884,1856 1910,1856 2000,1855 2027,1855 2144,1853 2170,1853 2263,1852 2291,1851 2344,1851 2370,1850 2593,1848"/>
+                <TextEquiv>
+                    <Unicode>werbetreibende, der heute bereits unter der ungeheueren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l29" custom="readingOrder {index:28;}">
+                <Coords points="1530,1870 1550,1869 2365,1859 2389,1859 2551,1858 2593,1868 2602,1897 2551,1901 2391,1905 1628,1913 1550,1913 1530,1906"/>
+                <Baseline points="1530,1906 1823,1902 1846,1902 2123,1899 2146,1898 2220,1897 2243,1897 2593,1893"/>
+                <TextEquiv>
+                    <Unicode>Geſamtſteuerlaſt zuſammenbricht oder zuſammenzubrechen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l30" custom="readingOrder {index:29;}">
+                <Coords points="1530,1916 1589,1913 2170,1907 2550,1905 2592,1905 2602,1942 2356,1949 1632,1956 1589,1956 1522,1954"/>
+                <Baseline points="1530,1950 1632,1949 1662,1948 1769,1947 1795,1947 1855,1946 1880,1946 1968,1945 1994,1945 2431,1939 2458,1939 2522,1938 2550,1937 2591,1936"/>
+                <TextEquiv>
+                    <Unicode>droht, würde mit einer Sondereinkommenſteuer von 20</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l31" custom="readingOrder {index:30;}">
+                <Coords points="1529,1970 1571,1959 1974,1954 2303,1950 2512,1948 2572,1948 2593,1956 2603,1987 2483,1991 1769,2000 1604,2001 1571,2001 1520,1998"/>
+                <Baseline points="1529,1994 1558,1994 1571,1994 1614,1993 1642,1993 1769,1992 1799,1991 1935,1990 1974,1989 2047,1988 2076,1988 2184,1987 2214,1986 2274,1985 2303,1986 2394,1984 2424,1984 2483,1983 2512,1982 2593,1984"/>
+                <TextEquiv>
+                    <Unicode>v. H. belaſtet werden. Das würde das Ende faſt aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l32" custom="readingOrder {index:31;}">
+                <Coords points="1530,2014 1566,2003 2546,1990 2569,1990 2592,1992 2601,2033 2439,2035 1751,2048 1530,2048"/>
+                <Baseline points="1530,2040 1751,2037 1784,2037 2086,2033 2116,2033 2296,2030 2327,2030 2488,2028 2530,2027 2592,2027"/>
+                <TextEquiv>
+                    <Unicode>gewerblichen Unternehmungen überhaupt bedeuten. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l33" custom="readingOrder {index:32;}">
+                <Coords points="1530,2050 1551,2047 2495,2033 2517,2033 2592,2046 2601,2077 2423,2082 1806,2091 1551,2091 1530,2085"/>
+                <Baseline points="1530,2084 1833,2081 1846,2080 1894,2080 1915,2080 1973,2079 1991,2079 2045,2078 2061,2078 2224,2076 2245,2075 2465,2073 2478,2072 2592,2071"/>
+                <TextEquiv>
+                    <Unicode>Geſamtſteuerlaſt, die auf der einzelnen gewerblichen Unter⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l34" custom="readingOrder {index:33;}">
+                <Coords points="1530,2104 1570,2093 2271,2082 2517,2082 2592,2083 2601,2122 2516,2124 1588,2136 1570,2136 1530,2129"/>
+                <Baseline points="1530,2129 1689,2127 1720,2126 1804,2125 1833,2125 1959,2123 1989,2123 2079,2122 2109,2122 2227,2120 2258,2120 2517,2116 2550,2116 2594,2115"/>
+                <TextEquiv>
+                    <Unicode>nehmung ruht, beträgt heute bereits durchſchnittlich 50</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l35" custom="readingOrder {index:34;}">
+                <Coords points="1529,2139 1726,2136 2097,2131 2253,2129 2363,2128 2508,2127 2592,2127 2599,2164 2521,2169 2058,2176 1760,2178 1726,2178 1524,2178"/>
+                <Baseline points="1529,2173 1801,2170 2058,2167 2221,2165 2363,2163 2595,2159"/>
+                <TextEquiv>
+                    <Unicode>bis 70 v. H. des Ertrages. Würde dieſe Laſt auf 70</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l36" custom="readingOrder {index:35;}">
+                <Coords points="1527,2184 1820,2179 2526,2170 2568,2170 2592,2180 2600,2208 2576,2210 2448,2215 1881,2222 1716,2222 1521,2223"/>
+                <Baseline points="1527,2218 1580,2217 1607,2217 1649,2216 1674,2216 1703,2216 1716,2216 1759,2215 1784,2215 1896,2214 1921,2213 2058,2212 2083,2211 2115,2211 2141,2211 2274,2209 2300,2208 2347,2208 2373,2207 2500,2206 2526,2205 2592,2204"/>
+                <TextEquiv>
+                    <Unicode>bis 90 v. H. erhöht werden, ſo würden die meiſten Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l37" custom="readingOrder {index:36;}">
+                <Coords points="1529,2238 1548,2226 2351,2217 2566,2217 2592,2225 2602,2255 2566,2259 2199,2264 1876,2266 1861,2266 1524,2268"/>
+                <Baseline points="1529,2262 1816,2259 1861,2258 1918,2257 1961,2257 2199,2254 2242,2253 2307,2252 2351,2252 2592,2248"/>
+                <TextEquiv>
+                    <Unicode>werbetreibenden zur Veräußerung von Anlagegegen⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l38" custom="readingOrder {index:37;}">
+                <Coords points="1528,2273 1540,2271 1797,2267 2033,2264 2449,2260 2511,2260 2592,2268 2601,2300 2511,2303 2354,2306 1955,2312 1582,2315 1528,2315"/>
+                <Baseline points="1528,2306 1658,2305 1684,2305 1740,2304 1766,2304 1987,2301 2012,2301 2182,2298 2208,2298 2354,2296 2378,2296 2511,2294 2537,2294 2592,2293"/>
+                <TextEquiv>
+                    <Unicode>ſtänden des gewerblichen Betriebes ſchreiten müſſen, um</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l39" custom="readingOrder {index:38;}">
+                <Coords points="1529,2326 1595,2315 2520,2302 2539,2302 2592,2313 2603,2343 2539,2345 2483,2347 2341,2349 1774,2355 1545,2357 1529,2357"/>
+                <Baseline points="1529,2350 1568,2349 1595,2349 1733,2348 1758,2348 1797,2347 1824,2347 1981,2346 2008,2345 2102,2345 2127,2344 2167,2343 2195,2343 2253,2342 2277,2341 2483,2338 2508,2338 2592,2337"/>
+                <TextEquiv>
+                    <Unicode>zu Mitteln zu kommen, deren ſie zur Beſtreitung ihrer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l40" custom="readingOrder {index:39;}">
+                <Coords points="1529,2359 1762,2357 2484,2348 2567,2348 2593,2355 2603,2389 2565,2388 1846,2400 1593,2400 1524,2397"/>
+                <Baseline points="1529,2393 1883,2390 2098,2388 2169,2387 2190,2386 2283,2385 2303,2385 2377,2384 2396,2384 2463,2383 2484,2383 2593,2382"/>
+                <TextEquiv>
+                    <Unicode>Lebensunterhaltung bedürfen. Und ſomit auch hier finan⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l41" custom="readingOrder {index:40;}">
+                <Coords points="1529,2412 1547,2403 1674,2400 2312,2392 2312,2392 2512,2392 2541,2393 2583,2395 2595,2418 2595,2433 2177,2441 1846,2444 1617,2446 1529,2446"/>
+                <Baseline points="1529,2439 1617,2438 1648,2438 1846,2436 1897,2435 1964,2435 2031,2433 2186,2431 2215,2431 2281,2430 2312,2430 2595,2426"/>
+                <TextEquiv>
+                    <Unicode>zielle Vernichtung und Stillegung von Betriebsſtätten,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l42" custom="readingOrder {index:41;}">
+                <Coords points="1527,2447 1548,2446 2098,2439 2339,2437 2339,2437 2488,2437 2594,2443 2594,2478 2488,2480 2298,2483 1657,2489 1548,2489 1527,2484"/>
+                <Baseline points="1527,2484 1726,2481 1741,2481 1807,2480 1857,2480 1996,2478 2012,2478 2081,2477 2097,2477 2325,2474 2339,2474 2594,2471"/>
+                <TextEquiv>
+                    <Unicode>Entlaſſung von Arbeitern und Angeſtellten, Vergrößerung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l43" custom="readingOrder {index:42;}">
+                <Coords points="1526,2491 1612,2488 2410,2481 2516,2481 2548,2488 2556,2521 1946,2532 1612,2532 1520,2532"/>
+                <Baseline points="1526,2526 1586,2526 1612,2525 1946,2522 1970,2522 2037,2521 2063,2521 2115,2520 2177,2520 2212,2519 2236,2519 2303,2518 2329,2518 2386,2517 2410,2517 2548,2516"/>
+                <TextEquiv>
+                    <Unicode>des Arbeitsloſenheeres und der Not und des Elends.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l44" custom="readingOrder {index:43;}">
+                <Coords points="1619,2543 1844,2540 2509,2533 2593,2533 2593,2574 2402,2578 2220,2581 1706,2585 1665,2585 1612,2585"/>
+                <Baseline points="1619,2578 1731,2577 1758,2576 1817,2575 1844,2575 1973,2574 1999,2573 2020,2573 2047,2573 2402,2569 2429,2568 2483,2568 2509,2567 2593,2566"/>
+                <TextEquiv>
+                    <Unicode>Gegen den Antrag 4 (Sonderbeſteuerung der Auf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l45" custom="readingOrder {index:44;}">
+                <Coords points="1530,2588 1554,2587 1612,2586 2524,2577 2563,2577 2592,2586 2598,2617 2367,2622 2346,2623 1872,2630 1530,2630"/>
+                <Baseline points="1530,2622 1906,2619 1933,2619 1992,2618 2019,2618 2062,2617 2088,2616 2118,2616 2130,2616 2188,2615 2216,2615 2283,2614 2311,2614 2408,2613 2436,2612 2495,2612 2524,2611 2592,2611"/>
+                <TextEquiv>
+                    <Unicode>ſichtsrats⸗Tantiemen mit 20 v. H.) und gegen den An⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l46" custom="readingOrder {index:45;}">
+                <Coords points="1528,2635 1745,2629 2123,2625 2511,2622 2567,2622 2592,2631 2597,2661 2572,2663 2333,2669 1875,2673 1602,2675 1583,2675 1524,2673"/>
+                <Baseline points="1528,2667 1602,2667 1631,2666 1650,2666 1682,2666 1875,2664 1905,2663 1961,2663 1991,2663 2402,2658 2432,2658 2482,2657 2511,2657 2592,2656"/>
+                <TextEquiv>
+                    <Unicode>trag 5 (Erhöhung des Einkommenſteuerſatzes bei Ein⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l47" custom="readingOrder {index:46;}">
+                <Coords points="1530,2678 1796,2673 2115,2669 2361,2667 2491,2666 2551,2666 2568,2667 2592,2675 2598,2705 2551,2709 2459,2711 2256,2713 1867,2716 1796,2716 1525,2718"/>
+                <Baseline points="1530,2712 1677,2710 1697,2710 1761,2709 1780,2709 1867,2708 1888,2708 1939,2707 1960,2707 2002,2707 2012,2706 2078,2705 2096,2705 2306,2703 2327,2703 2470,2702 2491,2701 2592,2700"/>
+                <TextEquiv>
+                    <Unicode>kommen von mehr als 50 000 Reichsmark jährlich) haben</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l48" custom="readingOrder {index:47;}">
+                <Coords points="1529,2731 1562,2722 1694,2720 1969,2716 2464,2711 2483,2711 2504,2712 2592,2717 2601,2751 2310,2757 1719,2763 1694,2763 1525,2759"/>
+                <Baseline points="1529,2755 1589,2755 1620,2755 1663,2754 1694,2754 1719,2754 1782,2753 1939,2751 1969,2751 2070,2750 2102,2749 2338,2749 2370,2747 2432,2746 2464,2746 2592,2745"/>
+                <TextEquiv>
+                    <Unicode>wir an ſich durchaus nichts einzuwenden, nur können</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l49" custom="readingOrder {index:48;}">
+                <Coords points="1530,2765 2244,2754 2366,2754 2545,2758 2593,2761 2602,2793 2462,2799 2015,2805 1981,2805 1523,2807"/>
+                <Baseline points="1530,2800 1590,2800 1615,2800 1710,2799 1846,2797 1880,2797 1906,2797 1988,2796 2012,2796 2119,2794 2145,2794 2219,2793 2244,2793 2471,2790 2497,2790 2593,2789"/>
+                <TextEquiv>
+                    <Unicode>wir ſolche Anträge nicht ſtellen oder befürworten, wenn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l50" custom="readingOrder {index:49;}">
+                <Coords points="1530,2811 1616,2808 2154,2802 2513,2797 2528,2798 2592,2808 2602,2839 2568,2841 2427,2846 1713,2852 1540,2853 1530,2853"/>
+                <Baseline points="1530,2845 1570,2845 1595,2844 1713,2843 1735,2843 1894,2841 1918,2841 1997,2840 2023,2840 2076,2840 2098,2840 2528,2836 2553,2835 2594,2834"/>
+                <TextEquiv>
+                    <Unicode>ſie darauf abgeſtellt ſind, der Tributwahnſinnspolitik zu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l51" custom="readingOrder {index:50;}">
+                <Coords points="1529,2855 1551,2854 2149,2847 2487,2841 2550,2841 2593,2850 2604,2885 2550,2887 2313,2890 1783,2896 1679,2896 1645,2895 1524,2896"/>
+                <Baseline points="1530,2889 1652,2889 1679,2888 1816,2887 1840,2887 1916,2886 1942,2886 2036,2885 2063,2883 2123,2883 2151,2882 2370,2880 2397,2880 2459,2879 2487,2879 2593,2880"/>
+                <TextEquiv>
+                    <Unicode>dienen, ſondern nur, wenn das Aufkommen aus dieſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r6l52" custom="readingOrder {index:51;}">
+                <Coords points="1529,2899 2441,2888 2549,2884 2575,2887 2591,2892 2605,2931 2410,2932 1903,2939 1787,2940 1698,2940 1526,2939"/>
+                <Baseline points="1529,2935 1674,2933 1698,2933 1853,2931 1877,2931 1924,2931 1949,2931 2104,2928 2131,2927 2178,2927 2203,2927 2262,2926 2286,2926 2410,2925 2435,2925 2591,2924"/>
+                <TextEquiv>
+                    <Unicode>Steuern beſtimmt iſt, Steuern, die auf Arbeit, Gewerbe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Erhöhung des Unkoſtenkontos um jährl. etwa 20 000 ℛℳ&#13;
+und zu einer Schmälerung des Kredits dieſer Unterneh⸗&#13;
+mung führen. Die Erhöhung des Unkoſtenkontos würde&#13;
+auf die Löhne drückend wirken und im Zuſammen⸗&#13;
+hang mit der Schmälerung des Kredits zum finan⸗&#13;
+ziellen Zuſammenbruch der Unternehmung und zu&#13;
+Arbeiter⸗ und Angeſtelltenentlaſſungen oder zur Ver⸗&#13;
+ſchiebung dieſer Unternehmung in den Verfügungsbereich&#13;
+inländiſcher oder ausländiſcher Bankhyänen führen. Die&#13;
+ſchaffende Belegſchaft würde in jedem Fall die einmalige&#13;
+Sonderbeſteuerung dieſer Unternehmung mit 200 000 ℛℳ&#13;
+ſchwer zu ſpüren bekommen. In den meiſten Fällen&#13;
+würde ſich eine ſolche Sonderbeſteuerung in Höhe von&#13;
+20 v. H. des Vermögens in Stillegung der Produktions⸗&#13;
+ſtätte und ſomit in der Vergrößerung des Arbeitsloſen⸗&#13;
+heeres und der Not und des Elends der werktätigen&#13;
+Maſſen auswirken.&#13;
+Der oben abgedruckte Antrag 3 verlangt eine&#13;
+20 % ige Einkommensſonderbeſteuerung nicht nur der&#13;
+Dividenden, — wogegen wir durchaus nichts einzuwenden&#13;
+haben, im Gegenteil, wir werden dieſe Forderung in&#13;
+Form eines eigenen Antrages, der nicht beſtimmt ſein&#13;
+wird, der Tributnotverordnung zu dienen, wiederholen —,&#13;
+ſondern auch aller ſonſtigen Gewinne aus gewerblichen&#13;
+Unternehmungen. Darunter fallen alſo auch die Gewinne&#13;
+aus öffentlichen Handelsgeſellſchaften, aus Kommandit⸗&#13;
+geſellſchaften und aus Einzelunternehmungen. Jeder Ge⸗&#13;
+werbetreibende, der heute bereits unter der ungeheueren&#13;
+Geſamtſteuerlaſt zuſammenbricht oder zuſammenzubrechen&#13;
+droht, würde mit einer Sondereinkommenſteuer von 20&#13;
+v. H. belaſtet werden. Das würde das Ende faſt aller&#13;
+gewerblichen Unternehmungen überhaupt bedeuten. Die&#13;
+Geſamtſteuerlaſt, die auf der einzelnen gewerblichen Unter⸗&#13;
+nehmung ruht, beträgt heute bereits durchſchnittlich 50&#13;
+bis 70 v. H. des Ertrages. Würde dieſe Laſt auf 70&#13;
+bis 90 v. H. erhöht werden, ſo würden die meiſten Ge⸗&#13;
+werbetreibenden zur Veräußerung von Anlagegegen⸗&#13;
+ſtänden des gewerblichen Betriebes ſchreiten müſſen, um&#13;
+zu Mitteln zu kommen, deren ſie zur Beſtreitung ihrer&#13;
+Lebensunterhaltung bedürfen. Und ſomit auch hier finan⸗&#13;
+zielle Vernichtung und Stillegung von Betriebsſtätten,&#13;
+Entlaſſung von Arbeitern und Angeſtellten, Vergrößerung&#13;
+des Arbeitsloſenheeres und der Not und des Elends.&#13;
+Gegen den Antrag 4 (Sonderbeſteuerung der Auf⸗&#13;
+ſichtsrats⸗Tantiemen mit 20 v. H.) und gegen den An⸗&#13;
+trag 5 (Erhöhung des Einkommenſteuerſatzes bei Ein⸗&#13;
+kommen von mehr als 50 000 Reichsmark jährlich) haben&#13;
+wir an ſich durchaus nichts einzuwenden, nur können&#13;
+wir ſolche Anträge nicht ſtellen oder befürworten, wenn&#13;
+ſie darauf abgeſtellt ſind, der Tributwahnſinnspolitik zu&#13;
+dienen, ſondern nur, wenn das Aufkommen aus dieſen&#13;
+Steuern beſtimmt iſt, Steuern, die auf Arbeit, Gewerbe</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r9" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="2656,592 3770,592 3770,2939 2656,2939"/>
+            <TextLine id="r9l1" custom="readingOrder {index:0;}">
+                <Coords points="2681,621 2702,612 2802,607 3562,602 3593,602 3744,603 3749,643 3691,645 3420,649 3037,652 2802,652 2675,652"/>
+                <Baseline points="2681,645 2754,646 2787,646 3050,643 3084,643 3189,642 3224,642 3262,642 3294,642 3420,640 3461,639 3529,639 3562,638 3691,637 3722,636 3744,636"/>
+                <TextEquiv>
+                    <Unicode>oder Landwirtſchaft laſten, zu ſenken. Der Antrag 4</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l2" custom="readingOrder {index:1;}">
+                <Coords points="2680,657 2724,656 2779,655 3423,646 3423,646 3744,646 3744,691 2761,699 2680,699"/>
+                <Baseline points="2680,690 2761,690 2779,690 2932,688 2948,688 3018,687 3035,687 3099,688 3118,687 3312,685 3330,685 3384,685 3402,684 3744,682"/>
+                <TextEquiv>
+                    <Unicode>ſtellt übrigens eine alte Forderung der Rationalſozialiſten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l3" custom="readingOrder {index:2;}">
+                <Coords points="2681,701 2878,697 3234,694 3508,692 3671,691 3683,691 3744,699 3751,727 3573,736 3063,740 2897,741 2878,741 2675,739"/>
+                <Baseline points="2681,735 2749,734 2781,734 2857,734 2878,733 2979,733 3001,732 3080,732 3102,732 3212,731 3234,731 3429,728 3451,728 3486,728 3508,728 3634,726 3653,726 3744,725"/>
+                <TextEquiv>
+                    <Unicode>dar. Wir haben dieſe unſere Forderung in Geſtalt eines</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l4" custom="readingOrder {index:3;}">
+                <Coords points="2679,755 2721,747 2736,745 2807,744 2972,742 3398,737 3671,734 3704,734 3727,735 3746,744 3756,775 3630,781 2939,787 2736,787 2673,784"/>
+                <Baseline points="2679,780 2939,778 2972,777 3137,775 3169,775 3364,773 3398,773 3630,771 3671,772 3746,770"/>
+                <TextEquiv>
+                    <Unicode>entſprechenden Antrages neuerdings unterſtrichen. Für</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l5" custom="readingOrder {index:4;}">
+                <Coords points="2681,791 2834,787 3481,781 3673,780 3720,780 3744,789 3751,821 3547,824 3056,831 2834,831 2702,825 2675,829"/>
+                <Baseline points="2681,826 2741,824 2765,824 3056,821 3080,821 3209,820 3233,820 3374,818 3398,818 3458,817 3481,817 3562,816 3586,816 3649,815 3673,815 3744,814"/>
+                <TextEquiv>
+                    <Unicode>den kommuniſtiſchen Antrag konnten wir nicht nur des⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l6" custom="readingOrder {index:5;}">
+                <Coords points="2681,834 3339,827 3509,827 3595,828 3746,833 3755,862 3704,867 3656,869 2982,876 2701,877 2681,877"/>
+                <Baseline points="2681,870 2755,869 2787,869 2868,868 2900,867 3053,866 3087,866 3159,865 3190,865 3224,864 3254,864 3307,864 3339,863 3656,860 3688,859 3746,859"/>
+                <TextEquiv>
+                    <Unicode>halb nicht ſtimmen, weil er ein Änderungsantrag zur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l7" custom="readingOrder {index:6;}">
+                <Coords points="2681,879 2701,877 3651,868 3725,868 3744,871 3744,911 3725,912 3327,917 3068,919 2701,919 2676,919"/>
+                <Baseline points="2681,915 3068,911 3099,911 3178,910 3212,909 3347,908 3380,907 3453,907 3487,906 3619,905 3651,905 3744,904"/>
+                <TextEquiv>
+                    <Unicode>Tributnotverordnung war, ſondern auch deshalb nicht,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l8" custom="readingOrder {index:7;}">
+                <Coords points="2682,924 2942,921 3674,914 3686,914 3729,918 3745,923 3755,947 3739,954 3616,958 3072,964 3054,964 2676,965"/>
+                <Baseline points="2682,959 2755,958 2775,958 2851,957 2872,957 2920,957 2942,957 3087,955 3109,955 3125,955 3149,955 3200,954 3222,954 3243,953 3263,953 3344,952 3364,952 3497,951 3518,950 3656,949 3674,949 3745,947"/>
+                <TextEquiv>
+                    <Unicode>weil über die Anträge 1 bis 4 nicht einzeln, ſondern ins⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l9" custom="readingOrder {index:8;}">
+                <Coords points="2683,978 2720,969 3231,963 3675,958 3718,958 3744,967 3754,1002 3543,1004 3418,1006 3026,1010 2701,1012 2683,1012"/>
+                <Baseline points="2683,1004 2800,1003 2835,1002 3032,1001 3066,1000 3186,999 3231,999 3304,998 3340,997 3449,996 3486,996 3543,995 3577,995 3641,994 3675,994 3744,993"/>
+                <TextEquiv>
+                    <Unicode>geſamt abgeſtimmt wurde. Das gleiche gilt von dem</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l10" custom="readingOrder {index:9;}">
+                <Coords points="2682,1013 2722,1013 2868,1015 2878,1048 2811,1056 2696,1059 2679,1051"/>
+                <Baseline points="2682,1048 2811,1047 2838,1047 2868,1047"/>
+                <TextEquiv>
+                    <Unicode>Antrag 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l11" custom="readingOrder {index:10;}">
+                <Coords points="2773,1066 3526,1060 3726,1057 3745,1057 3754,1100 3685,1101 3469,1103 2957,1108 2768,1105"/>
+                <Baseline points="2776,1101 2843,1100 2866,1100 2934,1100 2957,1099 3086,1099 3109,1098 3169,1098 3191,1098 3251,1098 3274,1097 3514,1095 3531,1095 3590,1094 3609,1094 3745,1093"/>
+                <TextEquiv>
+                    <Unicode>Und nun fordern wir das Zentralorgan der Sozial⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l12" custom="readingOrder {index:11;}">
+                <Coords points="2683,1112 2766,1110 3269,1106 3670,1103 3682,1103 3746,1111 3754,1145 3651,1146 3086,1152 2946,1153 2766,1153 2680,1150"/>
+                <Baseline points="2683,1146 2946,1144 2967,1144 3086,1143 3106,1143 3146,1142 3168,1142 3227,1142 3250,1142 3467,1140 3489,1140 3530,1139 3552,1139 3619,1139 3640,1138 3746,1138"/>
+                <TextEquiv>
+                    <Unicode>demokratiſchen Partei — den „Vorwärts“ — auf, ſeinen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l13" custom="readingOrder {index:12;}">
+                <Coords points="2682,1158 2852,1156 3445,1150 3621,1150 3677,1160 3681,1187 3667,1188 3397,1195 3302,1197 2735,1200 2724,1200 2682,1193"/>
+                <Baseline points="2683,1191 2794,1190 2819,1190 2892,1189 2917,1189 2966,1189 2991,1188 3160,1187 3185,1187 3359,1185 3383,1185 3422,1185 3446,1184 3678,1182"/>
+                <TextEquiv>
+                    <Unicode>Leſern auch die folgenden Tatſachen zu unterbreiten:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l14" custom="readingOrder {index:13;}">
+                <Coords points="2683,1221 2734,1217 3153,1213 3387,1211 3632,1209 3666,1209 3730,1215 3746,1219 3759,1241 3743,1248 3666,1252 3520,1254 2880,1259 2864,1259 2681,1257"/>
+                <Baseline points="2683,1253 2712,1253 2734,1253 2795,1252 2807,1252 3135,1249 3153,1249 3254,1248 3273,1248 3325,1248 3344,1248 3374,1247 3387,1247 3560,1245 3577,1245 3621,1245 3632,1245 3747,1243"/>
+                <TextEquiv>
+                    <Unicode>1. Die Sozialdemokraten haben am 2. Dezember im Haus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l15" custom="readingOrder {index:14;}">
+                <Coords points="2733,1262 3555,1255 3665,1255 3717,1252 3746,1255 3746,1288 3717,1296 3606,1297 2980,1305 2733,1305"/>
+                <Baseline points="2733,1297 2980,1295 3006,1295 3105,1294 3129,1294 3264,1293 3292,1293 3420,1292 3446,1291 3505,1291 3530,1290 3746,1288"/>
+                <TextEquiv>
+                    <Unicode>haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l16" custom="readingOrder {index:15;}">
+                <Coords points="2736,1308 2970,1304 3442,1299 3613,1299 3730,1307 3745,1313 3753,1339 3714,1342 3228,1347 2855,1350 2736,1350"/>
+                <Baseline points="2736,1341 2855,1341 2886,1340 2939,1341 2970,1341 3228,1338 3259,1338 3325,1337 3358,1337 3412,1336 3442,1336 3663,1335 3695,1334 3745,1331"/>
+                <TextEquiv>
+                    <Unicode>ſetzung der Krankenſteuer und der Arzneiſteuer ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l17" custom="readingOrder {index:16;}">
+                <Coords points="2735,1353 2747,1352 3080,1348 3572,1343 3727,1343 3747,1352 3754,1386 3701,1386 3396,1390 2811,1395 2735,1395"/>
+                <Baseline points="2735,1387 2853,1386 2875,1385 2941,1385 2965,1385 3043,1384 3067,1384 3133,1383 3157,1383 3429,1381 3454,1381 3504,1380 3529,1380 3560,1380 3572,1380 3748,1377"/>
+                <TextEquiv>
+                    <Unicode>ſtimmt und dieſe ihre Stellungnahme am 6. Dezember</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l18" custom="readingOrder {index:17;}">
+                <Coords points="2736,1397 2803,1396 2968,1394 3080,1394 3115,1395 3130,1404 3130,1429 3101,1437 3020,1438 2837,1439 2803,1439 2726,1437"/>
+                <Baseline points="2736,1432 2779,1432 2803,1432 2946,1430 2968,1430 3130,1429"/>
+                <TextEquiv>
+                    <Unicode>im Plenum beſtätigt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l19" custom="readingOrder {index:18;}">
+                <Coords points="2683,1454 2734,1450 3078,1446 3670,1440 3707,1440 3747,1441 3754,1482 3714,1484 3097,1490 2847,1491 2832,1491 2704,1491 2681,1490"/>
+                <Baseline points="2682,1484 2712,1486 2734,1486 2801,1485 2832,1485 3048,1483 3078,1482 3133,1482 3162,1481 3195,1481 3223,1481 3383,1479 3410,1479 3474,1478 3503,1478 3576,1477 3606,1477 3658,1477 3670,1477 3747,1475"/>
+                <TextEquiv>
+                    <Unicode>2. Der „Vorwärts“ hat in Nummer 333 vom 19. Juli</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l20" custom="readingOrder {index:19;}">
+                <Coords points="2733,1497 2860,1495 3044,1492 3144,1491 3692,1486 3727,1486 3747,1495 3752,1524 3431,1533 3039,1534 3025,1534 2733,1534"/>
+                <Baseline points="2737,1530 2823,1529 2860,1529 2984,1528 3025,1528 3106,1527 3144,1527 3431,1524 3468,1523 3549,1523 3586,1522 3645,1522 3692,1521 3747,1521"/>
+                <TextEquiv>
+                    <Unicode>1930 betont: „Die Reichsregierung wird mit der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l21" custom="readingOrder {index:20;}">
+                <Coords points="2737,1540 3158,1533 3713,1531 3725,1531 3746,1540 3752,1569 3644,1574 3403,1578 2938,1583 2758,1583 2737,1574"/>
+                <Baseline points="2735,1574 2938,1573 2979,1572 3027,1572 3065,1571 3120,1571 3158,1571 3530,1567 3568,1567 3655,1566 3692,1567 3746,1565"/>
+                <TextEquiv>
+                    <Unicode>Kopfſteuer, die der Reichsfinanzminiſter ſelbſt als</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l22" custom="readingOrder {index:21;}">
+                <Coords points="2737,1595 2758,1586 2787,1583 3663,1574 3727,1574 3746,1575 3746,1618 3112,1624 2962,1625 2787,1625 2730,1624"/>
+                <Baseline points="2737,1621 2962,1618 2986,1617 3157,1616 3180,1615 3245,1615 3269,1614 3317,1614 3340,1614 3519,1612 3541,1611 3639,1610 3663,1610 3746,1609"/>
+                <TextEquiv>
+                    <Unicode>abenteuerlich bezeichnet hat, die Erfüllung dieſer Auf⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l23" custom="readingOrder {index:22;}">
+                <Coords points="2738,1639 2779,1630 2866,1628 3318,1622 3510,1622 3513,1657 3492,1661 3383,1667 3073,1671 2755,1672 2738,1672"/>
+                <Baseline points="2738,1664 2837,1664 2866,1663 2948,1663 2978,1663 3121,1661 3152,1661 3287,1660 3318,1659 3507,1657"/>
+                <TextEquiv>
+                    <Unicode>gaben nicht fördern, ſondern zerſtören!“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l24" custom="readingOrder {index:23;}">
+                <Coords points="2826,1682 2908,1679 3628,1673 3748,1673 3748,1708 3726,1716 3596,1720 2995,1723 2908,1723 2816,1724"/>
+                <Baseline points="2826,1718 2885,1717 2908,1717 3123,1713 3144,1713 3199,1713 3220,1713 3606,1709 3628,1709 3748,1707"/>
+                <TextEquiv>
+                    <Unicode>Im Wahlaufruf der Sozialdemokratiſchen Partei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l25" custom="readingOrder {index:24;}">
+                <Coords points="2736,1738 2836,1729 2901,1726 3221,1723 3264,1723 3297,1732 3307,1761 3155,1767 3144,1767 2738,1768"/>
+                <Baseline points="2736,1763 2809,1762 2836,1761 2888,1762 2901,1762 2977,1761 3003,1760 3089,1759 3115,1759 3196,1758 3221,1758 3297,1757"/>
+                <TextEquiv>
+                    <Unicode>vom 19. Juli 1930 leſen wir:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l26" custom="readingOrder {index:25;}">
+                <Coords points="2829,1808 2847,1780 3419,1773 3660,1771 3746,1771 3754,1811 3616,1816 2995,1823 2933,1823 2829,1821"/>
+                <Baseline points="2829,1815 2909,1815 2933,1814 2995,1814 3017,1814 3204,1812 3225,1811 3389,1810 3419,1810 3616,1808 3639,1807 3746,1806"/>
+                <TextEquiv>
+                    <Unicode>„Sie (die Regierung Brüning. Schriftltg.) wollte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l27" custom="readingOrder {index:26;}">
+                <Coords points="2826,1828 3106,1821 3599,1815 3672,1815 3747,1824 3747,1852 3672,1860 3173,1865 3106,1865 2824,1865"/>
+                <Baseline points="2826,1860 2925,1859 2946,1859 3085,1857 3106,1857 3312,1855 3333,1855 3442,1854 3464,1854 3531,1853 3554,1853 3747,1852"/>
+                <TextEquiv>
+                    <Unicode>neben anderen ungerechten Laſten eine Kopfſteuer</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l28" custom="readingOrder {index:27;}">
+                <Coords points="2737,1869 3394,1862 3637,1860 3731,1860 3746,1875 3756,1900 3732,1902 2878,1914 2737,1914"/>
+                <Baseline points="2737,1906 2928,1904 2958,1904 3006,1904 3034,1903 3120,1902 3149,1902 3366,1899 3394,1899 3586,1897 3613,1897 3745,1894"/>
+                <TextEquiv>
+                    <Unicode>verhängen, die allen Grundſätzen ſteuerlicher Gerech⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l29" custom="readingOrder {index:28;}">
+                <Coords points="2736,1919 2752,1917 2786,1916 2943,1912 3470,1905 3725,1905 3748,1913 3753,1945 3730,1948 3092,1958 2848,1959 2765,1959 2736,1950"/>
+                <Baseline points="2736,1950 2848,1950 2880,1950 3092,1949 3123,1947 3189,1947 3219,1946 3328,1945 3359,1945 3422,1944 3452,1945 3748,1942"/>
+                <TextEquiv>
+                    <Unicode>tigkeit widerſpricht und bisher nur Kolonialvölkern</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l30" custom="readingOrder {index:29;}">
+                <Coords points="2737,1970 2782,1961 3018,1956 3158,1956 3162,1999 2949,2002 2815,2003 2774,2006 2729,1998"/>
+                <Baseline points="2737,1995 2989,1993 3018,1993 3158,1992"/>
+                <TextEquiv>
+                    <Unicode>aufgezwungen wurde.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l31" custom="readingOrder {index:30;}">
+                <Coords points="2825,2013 2911,2012 3189,2009 3381,2007 3574,2005 3729,2005 3748,2014 3753,2046 3702,2049 3358,2053 3019,2056 2911,2056 2819,2054"/>
+                <Baseline points="2825,2049 2887,2048 2911,2048 3019,2047 3042,2047 3358,2044 3381,2043 3436,2043 3457,2043 3509,2043 3532,2042 3562,2042 3574,2042 3748,2041"/>
+                <TextEquiv>
+                    <Unicode>Die gleiche Sozialdemokratie hat am 2. Dezember</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l32" custom="readingOrder {index:31;}">
+                <Coords points="2738,2061 2819,2056 3515,2051 3699,2050 3748,2050 3751,2091 3644,2092 3163,2102 2819,2102 2738,2094"/>
+                <Baseline points="2738,2094 2781,2094 2819,2093 3163,2090 3231,2089 3307,2089 3344,2088 3478,2087 3515,2087 3643,2086 3689,2085 3748,2085"/>
+                <TextEquiv>
+                    <Unicode>im Haushaltsausſchuß gegen unſeren Antrag auf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l33" custom="readingOrder {index:32;}">
+                <Coords points="2737,2101 3688,2092 3711,2092 3747,2109 3759,2135 3717,2139 3435,2140 3295,2143 2737,2146"/>
+                <Baseline points="2737,2139 3058,2136 3080,2136 3177,2136 3235,2135 3392,2133 3414,2133 3675,2130 3688,2130 3748,2128"/>
+                <TextEquiv>
+                    <Unicode>Außerkraftſetzung dieſer Kopfſteuer (Bürgerſteuer) ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l34" custom="readingOrder {index:33;}">
+                <Coords points="2735,2150 2748,2149 3081,2143 3263,2141 3573,2138 3720,2138 3750,2149 3757,2182 3720,2183 3048,2190 2734,2195"/>
+                <Baseline points="2735,2183 2854,2182 2876,2182 2942,2181 2966,2181 3045,2180 3068,2180 3134,2180 3158,2179 3430,2177 3454,2176 3506,2176 3530,2176 3561,2175 3573,2175 3749,2175"/>
+                <TextEquiv>
+                    <Unicode>ſtimmt und dieſe ihre Stellungnahme am 6. Dezember</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l35" custom="readingOrder {index:34;}">
+                <Coords points="2734,2194 2807,2192 2977,2189 3062,2189 3134,2191 3134,2226 3110,2233 2908,2236 2807,2236 2734,2233"/>
+                <Baseline points="2738,2229 2781,2228 2807,2228 2952,2226 2977,2226 3134,2226"/>
+                <TextEquiv>
+                    <Unicode>im Plenum beſtätigt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l36" custom="readingOrder {index:35;}">
+                <Coords points="2683,2249 2735,2246 2809,2245 3154,2241 3387,2239 3633,2237 3722,2237 3751,2246 3751,2277 3722,2280 2979,2288 2865,2288 2707,2289 2683,2288"/>
+                <Baseline points="2683,2281 2714,2282 2735,2281 2797,2281 2809,2281 3136,2278 3154,2277 3256,2277 3274,2276 3326,2276 3345,2276 3376,2275 3387,2275 3560,2273 3578,2273 3622,2273 3633,2273 3746,2272"/>
+                <TextEquiv>
+                    <Unicode>3. Die Sozialdemokraten haben am 2. Dezember im Haus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l37" custom="readingOrder {index:36;}">
+                <Coords points="2735,2289 3546,2282 3731,2282 3746,2296 3758,2322 3731,2324 3424,2326 2966,2334 2735,2334"/>
+                <Baseline points="2735,2326 2982,2324 3007,2323 3106,2322 3131,2322 3266,2321 3293,2321 3421,2319 3446,2319 3506,2318 3530,2318 3748,2316"/>
+                <TextEquiv>
+                    <Unicode>haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l38" custom="readingOrder {index:37;}">
+                <Coords points="2737,2336 2983,2332 3434,2325 3732,2325 3751,2339 3756,2365 3734,2365 3594,2372 2856,2378 2737,2378"/>
+                <Baseline points="2737,2370 2856,2369 2876,2369 2929,2369 2950,2369 3306,2366 3327,2366 3381,2365 3401,2365 3748,2362"/>
+                <TextEquiv>
+                    <Unicode>ſetzung der Gemeindebierſteuer, der Gemeindegetränke⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l39" custom="readingOrder {index:38;}">
+                <Coords points="2736,2380 2985,2376 3273,2372 3689,2369 3731,2369 3746,2384 3755,2404 3740,2414 3485,2417 3076,2421 2848,2423 2736,2423"/>
+                <Baseline points="2736,2417 2848,2414 2876,2414 2932,2413 2961,2413 3146,2412 3177,2411 3245,2411 3273,2411 3485,2408 3512,2408 3578,2407 3608,2407 3663,2406 3689,2407 3745,2407"/>
+                <TextEquiv>
+                    <Unicode>ſteuer, des Notopfers (der Reichshilfe) und der Le⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l40" custom="readingOrder {index:39;}">
+                <Coords points="2735,2424 2788,2423 3015,2422 3098,2422 3117,2423 3117,2456 3098,2465 2877,2467 2766,2469 2732,2462"/>
+                <Baseline points="2735,2460 2930,2458 2953,2458 3117,2456"/>
+                <TextEquiv>
+                    <Unicode>digenſteuer geſtimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l41" custom="readingOrder {index:40;}">
+                <Coords points="2683,2480 2736,2476 3154,2472 3387,2470 3633,2468 3722,2468 3746,2478 3758,2507 3722,2511 3520,2514 2975,2519 2865,2519 2707,2519 2683,2518"/>
+                <Baseline points="2683,2512 2714,2512 2736,2512 2797,2512 2808,2512 3137,2509 3154,2509 3255,2508 3273,2508 3326,2508 3345,2507 3375,2507 3387,2507 3560,2505 3578,2505 3621,2505 3633,2505 3746,2504"/>
+                <TextEquiv>
+                    <Unicode>4. Die Sozialdemokraten haben am 2. Dezember im Haus⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l42" custom="readingOrder {index:41;}">
+                <Coords points="2735,2520 3553,2513 3731,2510 3746,2527 3758,2556 3731,2553 3702,2554 3605,2556 2949,2564 2735,2564"/>
+                <Baseline points="2735,2556 2981,2554 3007,2554 3106,2553 3131,2553 3266,2552 3292,2552 3421,2551 3446,2551 3505,2550 3529,2550 3747,2548"/>
+                <TextEquiv>
+                    <Unicode>haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l43" custom="readingOrder {index:42;}">
+                <Coords points="2737,2567 2887,2565 2972,2564 3453,2559 3705,2559 3750,2565 3750,2602 3705,2603 3188,2607 2856,2609 2737,2609"/>
+                <Baseline points="2737,2601 2856,2600 2887,2600 2940,2600 2972,2599 3235,2597 3265,2597 3343,2596 3373,2596 3421,2596 3453,2595 3747,2592"/>
+                <TextEquiv>
+                    <Unicode>ſetzung der Beſtimmungen über die Verſchlechterung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l44" custom="readingOrder {index:43;}">
+                <Coords points="2737,2611 2834,2608 3643,2602 3748,2602 3748,2645 3492,2649 3091,2652 2834,2652 2726,2650"/>
+                <Baseline points="2734,2645 2790,2646 2812,2646 3127,2643 3148,2643 3214,2641 3236,2641 3329,2641 3352,2640 3406,2640 3427,2640 3508,2639 3532,2639 3586,2639 3643,2638 3746,2637"/>
+                <TextEquiv>
+                    <Unicode>der Reichsverſorgung und ſomit der Lage der Kriegs⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l45" custom="readingOrder {index:44;}">
+                <Coords points="2734,2654 3037,2653 3099,2653 3140,2655 3144,2689 3099,2697 2948,2699 2734,2699"/>
+                <Baseline points="2734,2693 2948,2690 2975,2689 3139,2687"/>
+                <TextEquiv>
+                    <Unicode>beſchädigten geſtimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l46" custom="readingOrder {index:45;}">
+                <Coords points="2678,2752 2682,2712 2733,2706 3504,2699 3614,2699 3746,2700 3754,2740 3279,2747 2992,2751"/>
+                <Baseline points="2683,2744 2713,2744 2734,2744 2796,2743 2823,2743 3151,2741 3177,2741 3279,2739 3305,2739 3357,2739 3384,2738 3437,2738 3448,2738 3633,2737 3659,2737 3746,2736"/>
+                <TextEquiv>
+                    <Unicode>5. Die Sozialdemokraten haben am 28. November 1930</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l47" custom="readingOrder {index:46;}">
+                <Coords points="2736,2752 2923,2748 3590,2745 3693,2743 3730,2742 3745,2758 3756,2784 3730,2788 3501,2792 3111,2795 2803,2795 2730,2792"/>
+                <Baseline points="2736,2789 2780,2789 2803,2789 3149,2785 3209,2785 3269,2784 3291,2784 3350,2784 3373,2784 3501,2782 3522,2782 3582,2782 3604,2782 3745,2779"/>
+                <TextEquiv>
+                    <Unicode>im Haushaltsausſchuß gegen den Antrag auf Gewäh⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l48" custom="readingOrder {index:47;}">
+                <Coords points="2735,2803 2753,2800 2871,2795 2970,2793 3429,2790 3634,2786 3745,2788 3754,2833 3522,2834 3231,2838 2820,2841 2801,2841 2729,2838"/>
+                <Baseline points="2735,2832 2820,2833 2852,2833 2939,2832 2972,2833 3231,2829 3266,2829 3309,2828 3342,2828 3390,2828 3424,2827 3645,2825 3677,2825 3747,2824"/>
+                <TextEquiv>
+                    <Unicode>rung einer Winterbeihilfe an die Hungernden und</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l49" custom="readingOrder {index:48;}">
+                <Coords points="2736,2842 2755,2840 2960,2838 3106,2838 3127,2841 3135,2880 3106,2885 2960,2885 2733,2884"/>
+                <Baseline points="2736,2878 2934,2876 2960,2876 3127,2875"/>
+                <TextEquiv>
+                    <Unicode>Frierenden geſtimmt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r9l50" custom="readingOrder {index:49;}">
+                <Coords points="3211,2881 3546,2874 3593,2874 3688,2876 3699,2905 3705,2917 3694,2918 3517,2924 3226,2928 3206,2924"/>
+                <Baseline points="3211,2919 3295,2917 3325,2916 3517,2915 3546,2915 3601,2914 3613,2914 3643,2914 3654,2914 3699,2911"/>
+                <TextEquiv>
+                    <Unicode>Fritz Reinhardt, M. d. R.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>oder Landwirtſchaft laſten, zu ſenken. Der Antrag 4&#13;
+ſtellt übrigens eine alte Forderung der Rationalſozialiſten&#13;
+dar. Wir haben dieſe unſere Forderung in Geſtalt eines&#13;
+entſprechenden Antrages neuerdings unterſtrichen. Für&#13;
+den kommuniſtiſchen Antrag konnten wir nicht nur des⸗&#13;
+halb nicht ſtimmen, weil er ein Änderungsantrag zur&#13;
+Tributnotverordnung war, ſondern auch deshalb nicht,&#13;
+weil über die Anträge 1 bis 4 nicht einzeln, ſondern ins⸗&#13;
+geſamt abgeſtimmt wurde. Das gleiche gilt von dem&#13;
+Antrag 5.&#13;
+Und nun fordern wir das Zentralorgan der Sozial⸗&#13;
+demokratiſchen Partei — den „Vorwärts“ — auf, ſeinen&#13;
+Leſern auch die folgenden Tatſachen zu unterbreiten:&#13;
+1. Die Sozialdemokraten haben am 2. Dezember im Haus⸗&#13;
+haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗&#13;
+ſetzung der Krankenſteuer und der Arzneiſteuer ge⸗&#13;
+ſtimmt und dieſe ihre Stellungnahme am 6. Dezember&#13;
+im Plenum beſtätigt:&#13;
+2. Der „Vorwärts“ hat in Nummer 333 vom 19. Juli&#13;
+1930 betont: „Die Reichsregierung wird mit der&#13;
+Kopfſteuer, die der Reichsfinanzminiſter ſelbſt als&#13;
+abenteuerlich bezeichnet hat, die Erfüllung dieſer Auf⸗&#13;
+gaben nicht fördern, ſondern zerſtören!“&#13;
+Im Wahlaufruf der Sozialdemokratiſchen Partei&#13;
+vom 19. Juli 1930 leſen wir:&#13;
+„Sie (die Regierung Brüning. Schriftltg.) wollte&#13;
+neben anderen ungerechten Laſten eine Kopfſteuer&#13;
+verhängen, die allen Grundſätzen ſteuerlicher Gerech⸗&#13;
+tigkeit widerſpricht und bisher nur Kolonialvölkern&#13;
+aufgezwungen wurde.“&#13;
+Die gleiche Sozialdemokratie hat am 2. Dezember&#13;
+im Haushaltsausſchuß gegen unſeren Antrag auf&#13;
+Außerkraftſetzung dieſer Kopfſteuer (Bürgerſteuer) ge⸗&#13;
+ſtimmt und dieſe ihre Stellungnahme am 6. Dezember&#13;
+im Plenum beſtätigt.&#13;
+3. Die Sozialdemokraten haben am 2. Dezember im Haus⸗&#13;
+haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗&#13;
+ſetzung der Gemeindebierſteuer, der Gemeindegetränke⸗&#13;
+ſteuer, des Notopfers (der Reichshilfe) und der Le⸗&#13;
+digenſteuer geſtimmt.&#13;
+4. Die Sozialdemokraten haben am 2. Dezember im Haus⸗&#13;
+haltsausſchuß gegen unſeren Antrag auf Außerkraft⸗&#13;
+ſetzung der Beſtimmungen über die Verſchlechterung&#13;
+der Reichsverſorgung und ſomit der Lage der Kriegs⸗&#13;
+beſchädigten geſtimmt.&#13;
+5. Die Sozialdemokraten haben am 28. November 1930&#13;
+im Haushaltsausſchuß gegen den Antrag auf Gewäh⸗&#13;
+rung einer Winterbeihilfe an die Hungernden und&#13;
+Frierenden geſtimmt.&#13;
+Fritz Reinhardt, M. d. R.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r7" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1509,3006 2609,3006 2609,3913 1509,3913"/>
+            <TextLine id="r7l1" custom="readingOrder {index:0;}">
+                <Coords points="1878,3023 2029,3018 2212,3018 2245,3030 2257,3079 2212,3084 2029,3084 1871,3087"/>
+                <Baseline points="1878,3079 1994,3077 2029,3077 2245,3074"/>
+                <TextEquiv>
+                    <Unicode>Der Kröſus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l2" custom="readingOrder {index:1;}">
+                <Coords points="1619,3130 1898,3126 2248,3122 2530,3121 2546,3121 2595,3122 2602,3158 2578,3159 2322,3165 2292,3166 1933,3171 1898,3171 1614,3172"/>
+                <Baseline points="1619,3166 1686,3166 1717,3165 1869,3164 1898,3163 2192,3158 2223,3159 2414,3156 2466,3155 2499,3155 2530,3155 2595,3154"/>
+                <TextEquiv>
+                    <Unicode>Der Berliner Polizeipräſident Grzeſinski hat 150</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l3" custom="readingOrder {index:2;}">
+                <Coords points="1530,3176 1780,3172 2477,3166 2571,3166 2594,3173 2602,3204 2411,3211 1971,3216 1780,3216 1527,3218"/>
+                <Baseline points="1530,3212 1689,3210 1709,3210 1763,3209 1780,3209 2017,3206 2037,3206 2086,3205 2105,3205 2160,3204 2179,3204 2214,3203 2230,3203 2289,3202 2307,3202 2411,3201 2477,3200 2594,3198"/>
+                <TextEquiv>
+                    <Unicode>Beamten der Schutzpolizei, die ſich in den letzten Monaten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l4" custom="readingOrder {index:3;}">
+                <Coords points="1532,3248 1551,3221 1672,3219 2292,3210 2536,3209 2594,3209 2601,3253 2448,3256 1932,3262 1705,3263 1626,3263 1532,3262"/>
+                <Baseline points="1532,3256 1705,3254 1741,3254 1995,3251 2033,3251 2150,3249 2186,3248 2237,3248 2271,3248 2501,3244 2536,3244 2594,3243"/>
+                <TextEquiv>
+                    <Unicode>„dienſtlich ausgezeichnet“ hatten, ein Geldgeſchenk mit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l5" custom="readingOrder {index:4;}">
+                <Coords points="1527,3275 1544,3266 1747,3262 1891,3260 2336,3255 2479,3255 2504,3257 2512,3294 2444,3298 2144,3304 1704,3308 1687,3308 1524,3307"/>
+                <Baseline points="1527,3301 1628,3300 1655,3300 1865,3297 1891,3297 2178,3293 2203,3293 2298,3291 2323,3291 2504,3289"/>
+                <TextEquiv>
+                    <Unicode>einem eigenhändig unterſchriebenen Brief überſandt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l6" custom="readingOrder {index:5;}">
+                <Coords points="1621,3354 1640,3326 1657,3325 2003,3321 2535,3316 2554,3316 2594,3325 2599,3356 2576,3357 2108,3363 1807,3369 1657,3369 1621,3368"/>
+                <Baseline points="1621,3362 1807,3360 1833,3359 2118,3356 2154,3355 2222,3354 2245,3354 2306,3353 2329,3353 2432,3352 2455,3351 2514,3351 2535,3350 2594,3350"/>
+                <TextEquiv>
+                    <Unicode>„Dienſtlich ausgezeichnet!!“ Hat das etwas mit den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l7" custom="readingOrder {index:6;}">
+                <Coords points="1527,3372 2391,3360 2487,3360 2560,3360 2592,3370 2602,3404 2465,3406 1615,3414 1548,3414 1521,3412"/>
+                <Baseline points="1527,3408 1635,3406 1660,3406 1700,3405 1722,3405 1807,3404 1840,3404 1894,3403 1917,3403 1993,3401 2018,3401 2066,3401 2089,3400 2352,3397 2376,3397 2592,3395"/>
+                <TextEquiv>
+                    <Unicode>Nazis zu tun? Da muß die republikaniſche Beſchwerde⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l8" custom="readingOrder {index:7;}">
+                <Coords points="1528,3418 1571,3417 1790,3413 2338,3405 2563,3404 2596,3404 2596,3446 2156,3454 1541,3460 1528,3460"/>
+                <Baseline points="1528,3452 1610,3451 1630,3451 1688,3450 1706,3450 1773,3449 1790,3449 1985,3446 2005,3446 2156,3444 2184,3444 2260,3443 2276,3443 2468,3440 2488,3440 2592,3438"/>
+                <TextEquiv>
+                    <Unicode>ſtelle erſt mal Richtlinien angeben. Wir empfehlen: Durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l9" custom="readingOrder {index:8;}">
+                <Coords points="1529,3461 1549,3460 1897,3454 2527,3449 2560,3449 2592,3459 2597,3489 2361,3494 2328,3495 2140,3499 1897,3499 1526,3502"/>
+                <Baseline points="1529,3496 1728,3494 1767,3493 1859,3492 1897,3492 2140,3489 2177,3488 2361,3486 2399,3486 2486,3485 2527,3484 2592,3483"/>
+                <TextEquiv>
+                    <Unicode>Geldurteile vorm Schnellrichter Schaffung eines Ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l10" custom="readingOrder {index:9;}">
+                <Coords points="1530,3507 1544,3506 2102,3498 2502,3493 2576,3493 2592,3508 2602,3534 2576,3535 1909,3544 1530,3550"/>
+                <Baseline points="1530,3542 1748,3539 1791,3539 1864,3537 1897,3537 1986,3536 2020,3535 2382,3530 2417,3530 2470,3529 2502,3529 2589,3529"/>
+                <TextEquiv>
+                    <Unicode>ſchenkfonds. Für jeden Gummiknüppelhieb, der nach⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l11" custom="readingOrder {index:10;}">
+                <Coords points="1528,3560 1548,3549 2513,3535 2536,3538 2592,3539 2599,3579 2291,3584 1768,3591 1548,3591 1528,3586"/>
+                <Baseline points="1529,3587 1666,3584 1693,3584 1801,3582 1827,3581 1894,3580 1919,3580 1983,3579 2010,3579 2117,3577 2153,3577 2216,3576 2242,3576 2426,3574 2452,3574 2592,3572"/>
+                <TextEquiv>
+                    <Unicode>weislich Nazis traf ℛℳ 10. —. Bei beſonderer Bewäh⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l12" custom="readingOrder {index:11;}">
+                <Coords points="1523,3599 1649,3594 1701,3593 2180,3586 2464,3582 2563,3581 2578,3581 2592,3591 2601,3624 2501,3626 2158,3631 1613,3638 1595,3638 1522,3632"/>
+                <Baseline points="1528,3630 1613,3629 1631,3629 1683,3628 1701,3628 1780,3627 1800,3627 1854,3626 1873,3626 2036,3624 2056,3624 2158,3622 2180,3622 2242,3621 2261,3621 2414,3619 2434,3619 2525,3617 2543,3617 2592,3617"/>
+                <TextEquiv>
+                    <Unicode>rung ein Bild der Tänzerin Daiſy (die Schupos ſehen die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l13" custom="readingOrder {index:12;}">
+                <Coords points="1527,3641 1560,3639 1751,3636 2365,3628 2495,3628 2592,3636 2599,3665 2561,3670 1693,3682 1527,3683"/>
+                <Baseline points="1530,3678 1693,3673 1718,3672 1968,3669 1994,3669 2096,3667 2121,3667 2153,3666 2179,3666 2256,3665 2279,3665 2338,3664 2365,3663 2458,3662 2483,3662 2517,3661 2543,3661 2592,3660"/>
+                <TextEquiv>
+                    <Unicode>ſchlanken Mädchenbeine genau ſo gern wie Leute in ge⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l14" custom="readingOrder {index:13;}">
+                <Coords points="1525,3682 1571,3684 1704,3679 2442,3671 2493,3671 2594,3681 2602,3711 2532,3714 1914,3723 1740,3725 1704,3725 1578,3723 1527,3726"/>
+                <Baseline points="1529,3720 1671,3717 1704,3717 1924,3714 1960,3713 2011,3713 2045,3712 2190,3710 2224,3710 2303,3709 2337,3709 2410,3708 2442,3707 2594,3705"/>
+                <TextEquiv>
+                    <Unicode>hobenen Poſitionen), ein weiteres Bild vom Ehepaar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l15" custom="readingOrder {index:14;}">
+                <Coords points="1527,3728 1548,3727 2233,3719 2514,3716 2592,3716 2596,3755 2530,3758 2110,3766 1628,3770 1548,3770 1527,3764"/>
+                <Baseline points="1527,3764 1718,3761 1752,3760 1811,3760 1844,3759 1903,3758 1937,3759 2110,3756 2144,3755 2200,3754 2233,3754 2384,3752 2415,3752 2480,3751 2514,3750 2592,3749"/>
+                <TextEquiv>
+                    <Unicode>Grzeſinski mit den Inſignien des Syſtems und zwei</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l16" custom="readingOrder {index:15;}">
+                <Coords points="1527,3781 1569,3771 1837,3767 2203,3762 2503,3759 2594,3759 2594,3801 1718,3815 1527,3815"/>
+                <Baseline points="1529,3807 1715,3805 1746,3805 2058,3801 2097,3800 2170,3799 2200,3799 2316,3798 2345,3797 2470,3796 2500,3795 2591,3794"/>
+                <TextEquiv>
+                    <Unicode>gekreuzten Gummiknüppeln. Alle Mittel werden durch</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l17" custom="readingOrder {index:16;}">
+                <Coords points="1525,3826 1639,3815 1922,3809 2197,3805 2589,3805 2595,3845 2573,3846 2461,3849 2140,3855 1838,3855 1520,3855"/>
+                <Baseline points="1525,3852 1604,3850 1639,3850 1801,3849 1838,3848 2140,3845 2175,3844 2589,3838"/>
+                <TextEquiv>
+                    <Unicode>neue Steuern: „Republikaniſche Konſolidationsſteuern“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r7l18" custom="readingOrder {index:17;}">
+                <Coords points="1527,3870 1572,3862 1623,3860 2507,3845 2507,3845 2525,3845 2547,3859 2547,3884 2525,3896 1761,3903 1572,3903 1527,3895"/>
+                <Baseline points="1527,3895 1767,3893 1790,3893 1827,3893 1854,3893 1933,3892 1959,3891 2041,3890 2448,3885 2547,3883"/>
+                <TextEquiv>
+                    <Unicode>aufgebracht. Frei heul. hewo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Der Kröſus.&#13;
+Der Berliner Polizeipräſident Grzeſinski hat 150&#13;
+Beamten der Schutzpolizei, die ſich in den letzten Monaten&#13;
+„dienſtlich ausgezeichnet“ hatten, ein Geldgeſchenk mit&#13;
+einem eigenhändig unterſchriebenen Brief überſandt.&#13;
+„Dienſtlich ausgezeichnet!!“ Hat das etwas mit den&#13;
+Nazis zu tun? Da muß die republikaniſche Beſchwerde⸗&#13;
+ſtelle erſt mal Richtlinien angeben. Wir empfehlen: Durch&#13;
+Geldurteile vorm Schnellrichter Schaffung eines Ge⸗&#13;
+ſchenkfonds. Für jeden Gummiknüppelhieb, der nach⸗&#13;
+weislich Nazis traf ℛℳ 10. —. Bei beſonderer Bewäh⸗&#13;
+rung ein Bild der Tänzerin Daiſy (die Schupos ſehen die&#13;
+ſchlanken Mädchenbeine genau ſo gern wie Leute in ge⸗&#13;
+hobenen Poſitionen), ein weiteres Bild vom Ehepaar&#13;
+Grzeſinski mit den Inſignien des Syſtems und zwei&#13;
+gekreuzten Gummiknüppeln. Alle Mittel werden durch&#13;
+neue Steuern: „Republikaniſche Konſolidationsſteuern“&#13;
+aufgebracht. Frei heul. hewo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r8" custom="readingOrder {index:8;} structure {type:paragraph;}">
+            <Coords points="1668,4014 2556,4014 2556,5156 1668,5156"/>
+            <TextLine id="r8l1" custom="readingOrder {index:0;}">
+                <Coords points="1679,4035 1713,4033 2137,4026 2407,4026 2445,4041 2445,4081 2407,4095 2043,4099 1679,4094"/>
+                <Baseline points="1679,4090 1903,4087 1931,4087 2017,4086 2043,4085 2445,4080"/>
+                <TextEquiv>
+                    <Unicode>Cabinet der Frontſoldaten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l2" custom="readingOrder {index:1;}">
+                <Coords points="1687,4147 2149,4141 2263,4140 2263,4140 2431,4140 2431,4182 2331,4184 2015,4188 1728,4188 1687,4184"/>
+                <Baseline points="1687,4183 1800,4181 1828,4181 2015,4179 2044,4178 2103,4178 2125,4178 2235,4176 2263,4176 2431,4174"/>
+                <TextEquiv>
+                    <Unicode>Letztes Auftreten: Dr. Wirth perſönlich</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l3" custom="readingOrder {index:2;}">
+                <Coords points="1723,4200 1809,4198 2336,4194 2373,4194 2396,4203 2406,4232 2272,4238 2053,4241 1822,4242 1809,4242 1718,4242"/>
+                <Baseline points="1723,4235 1787,4234 1809,4234 1944,4233 1965,4233 2098,4231 2118,4231 2272,4229 2293,4229 2318,4228 2336,4228 2396,4227"/>
+                <TextEquiv>
+                    <Unicode>Am (linken) Flügel: Brüning &amp; Co.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l4" custom="readingOrder {index:3;}">
+                <Coords points="1945,4269 2085,4269 2182,4275 2182,4309 2036,4313 2018,4313 1935,4309"/>
+                <Baseline points="1945,4304 2177,4301"/>
+                <TextEquiv>
+                    <Unicode>Abgeſang</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l5" custom="readingOrder {index:4;}">
+                <Coords points="1681,4324 2268,4318 2439,4318 2455,4357 1922,4365 1883,4365 1679,4367"/>
+                <Baseline points="1681,4360 1826,4358 1847,4358 1922,4358 1944,4358 2045,4357 2067,4356 2245,4354 2268,4354 2439,4352"/>
+                <TextEquiv>
+                    <Unicode>Melodie nach einem bekannten Volkslied</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l6" custom="readingOrder {index:5;}">
+                <Coords points="1794,4394 1960,4392 2237,4389 2237,4389 2331,4389 2331,4432 2192,4434 1898,4437 1818,4437 1794,4430"/>
+                <Baseline points="1794,4430 1938,4428 1960,4428 2063,4427 2085,4427 2216,4425 2237,4425 2331,4423"/>
+                <TextEquiv>
+                    <Unicode>Morgen droht, morgen droht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l7" custom="readingOrder {index:6;}">
+                <Coords points="1705,4440 1785,4438 2260,4434 2281,4434 2289,4473 2278,4475 2122,4478 1936,4481 1785,4481 1699,4477"/>
+                <Baseline points="1705,4474 1768,4474 1785,4474 1936,4472 1953,4472 2010,4472 2027,4471 2163,4470 2181,4470 2281,4468"/>
+                <TextEquiv>
+                    <Unicode>mir vielleicht des Bonzen Tod?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l8" custom="readingOrder {index:7;}">
+                <Coords points="1705,4484 1917,4481 2144,4481 2185,4489 2198,4518 2144,4523 2086,4525 1917,4525 1720,4522 1702,4521"/>
+                <Baseline points="1704,4518 1806,4518 1833,4518 1891,4518 1917,4518 2185,4513"/>
+                <TextEquiv>
+                    <Unicode>Unter den Parteigenoſſen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l9" custom="readingOrder {index:8;}">
+                <Coords points="1705,4528 2134,4523 2134,4523 2174,4523 2216,4524 2265,4533 2265,4564 2216,4566 1974,4570 1705,4570"/>
+                <Baseline points="1705,4564 1796,4563 1819,4562 1894,4562 1918,4561 1974,4561 1996,4561 2111,4559 2134,4559 2265,4557"/>
+                <TextEquiv>
+                    <Unicode>heute noch auf ſtolzen Roſſen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l10" custom="readingOrder {index:9;}">
+                <Coords points="1703,4578 1721,4576 1857,4571 2031,4569 2208,4569 2234,4571 2242,4606 2208,4613 1795,4616 1715,4619 1697,4611"/>
+                <Baseline points="1703,4608 1836,4607 1857,4606 1944,4606 1963,4605 2013,4605 2031,4605 2231,4603"/>
+                <TextEquiv>
+                    <Unicode>morgen ſchon ein Penſionär!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l11" custom="readingOrder {index:10;}">
+                <Coords points="1793,4634 1811,4633 2072,4631 2205,4630 2278,4630 2292,4668 2107,4673 1856,4676 1805,4677 1787,4670"/>
+                <Baseline points="1793,4669 1856,4669 1877,4668 1935,4668 1954,4668 2037,4666 2057,4666 2107,4666 2127,4666 2186,4665 2205,4665 2278,4664"/>
+                <TextEquiv>
+                    <Unicode>Ach wie bald, ach wie bald</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l12" custom="readingOrder {index:11;}">
+                <Coords points="1705,4680 1743,4679 2167,4674 2239,4674 2274,4675 2307,4676 2314,4712 2239,4717 2051,4721 1763,4723 1705,4723"/>
+                <Baseline points="1705,4715 1869,4713 1893,4713 2051,4711 2076,4711 2140,4711 2167,4711 2302,4709"/>
+                <TextEquiv>
+                    <Unicode>ſchwindet Stellung und Gehalt!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l13" custom="readingOrder {index:12;}">
+                <Coords points="1704,4725 2137,4719 2246,4718 2314,4718 2364,4728 2369,4763 2314,4761 2053,4765 1899,4766 1841,4766 1699,4763"/>
+                <Baseline points="1704,4759 1813,4758 1841,4758 1899,4758 1926,4757 2053,4756 2081,4757 2218,4754 2246,4754 2364,4754"/>
+                <TextEquiv>
+                    <Unicode>Wenn erſt Hitlers Fahnen wehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l14" custom="readingOrder {index:13;}">
+                <Coords points="1705,4769 2029,4765 2222,4763 2278,4763 2328,4773 2335,4805 2278,4806 2240,4807 1967,4809 1925,4809 1697,4808"/>
+                <Baseline points="1705,4803 1792,4803 1817,4802 1902,4802 1925,4802 1967,4801 1990,4801 2065,4800 2090,4800 2197,4799 2222,4799 2328,4798"/>
+                <TextEquiv>
+                    <Unicode>dann kann ich nach Hauſe gehen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l15" custom="readingOrder {index:14;}">
+                <Coords points="1704,4814 1718,4812 2071,4809 2206,4809 2215,4849 1964,4853 1746,4856 1709,4858 1695,4850"/>
+                <Baseline points="1704,4848 1746,4848 1770,4847 1835,4847 1857,4847 2001,4846 2022,4845 2202,4843"/>
+                <TextEquiv>
+                    <Unicode>ich und mancher Kamerad!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l16" custom="readingOrder {index:15;}">
+                <Coords points="1794,4874 2190,4871 2252,4871 2264,4905 2213,4914 1962,4916 1949,4916 1788,4914"/>
+                <Baseline points="1794,4910 1921,4908 1949,4908 2019,4907 2049,4907 2163,4906 2190,4905 2252,4905"/>
+                <TextEquiv>
+                    <Unicode>Darum ſtill, darum ſtill</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l17" custom="readingOrder {index:16;}">
+                <Coords points="1699,4920 1719,4919 2034,4915 2276,4915 2287,4952 1927,4959 1761,4963 1744,4963 1699,4962"/>
+                <Baseline points="1705,4954 1772,4954 1791,4954 1833,4953 1851,4953 1937,4952 1957,4952 2015,4953 2034,4952 2129,4950 2147,4950 2183,4949 2199,4949 2276,4948"/>
+                <TextEquiv>
+                    <Unicode>füg' ich mich, wie Frick es will.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l18" custom="readingOrder {index:17;}">
+                <Coords points="1701,4963 1941,4960 2179,4958 2307,4958 2368,4968 2378,4997 2092,5003 1738,5006 1701,5006"/>
+                <Baseline points="1704,4999 1786,4998 1811,4998 1887,4998 1911,4998 1978,4997 2002,4997 2050,4996 2076,4995 2154,4994 2179,4994 2368,4992"/>
+                <TextEquiv>
+                    <Unicode>Hier habt Ihr die zwei Millionen,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l19" custom="readingOrder {index:18;}">
+                <Coords points="1704,5018 1751,5008 2001,5004 2234,5003 2357,5003 2431,5004 2441,5041 2357,5047 1965,5049 1920,5049 1696,5047"/>
+                <Baseline points="1704,5043 1770,5042 1790,5042 1858,5042 1876,5042 1965,5041 1984,5042 2050,5040 2068,5039 2144,5039 2164,5039 2429,5036"/>
+                <TextEquiv>
+                    <Unicode>und nun mögt Ihr mich verſchonen! —</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l20" custom="readingOrder {index:19;}">
+                <Coords points="1689,5052 2209,5049 2218,5091 1943,5093 1767,5094 1721,5094 1689,5088"/>
+                <Baseline points="1703,5087 1777,5086 1802,5086 1851,5086 1873,5085 1983,5085 2005,5084 2126,5083 2149,5083 2210,5082"/>
+                <TextEquiv>
+                    <Unicode>Ach, die Roſen welken all'</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r8l21" custom="readingOrder {index:20;}">
+                <Coords points="2378,5101 2432,5086 2453,5086 2536,5107 2550,5118 2551,5138 2435,5149 2410,5143 2378,5137"/>
+                <Baseline points="2386,5135 2546,5132"/>
+                <TextEquiv>
+                    <Unicode>Lynkeus.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Cabinet der Frontſoldaten.&#13;
+Letztes Auftreten: Dr. Wirth perſönlich&#13;
+Am (linken) Flügel: Brüning &amp; Co.&#13;
+Abgeſang&#13;
+Melodie nach einem bekannten Volkslied&#13;
+Morgen droht, morgen droht&#13;
+mir vielleicht des Bonzen Tod?&#13;
+Unter den Parteigenoſſen&#13;
+heute noch auf ſtolzen Roſſen,&#13;
+morgen ſchon ein Penſionär!&#13;
+Ach wie bald, ach wie bald&#13;
+ſchwindet Stellung und Gehalt!&#13;
+Wenn erſt Hitlers Fahnen wehen,&#13;
+dann kann ich nach Hauſe gehen,&#13;
+ich und mancher Kamerad!&#13;
+Darum ſtill, darum ſtill&#13;
+füg' ich mich, wie Frick es will.&#13;
+Hier habt Ihr die zwei Millionen,&#13;
+und nun mögt Ihr mich verſchonen! —&#13;
+Ach, die Roſen welken all'&#13;
+Lynkeus.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r10" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="2655,2984 3772,2984 3772,4857 2655,4859"/>
+            <TextLine id="r10l1" custom="readingOrder {index:0;}">
+                <Coords points="2786,3002 2992,2999 3426,2996 3457,2996 3602,2998 3642,2999 3661,3084 3493,3082 3457,3083 3226,3084 3185,3084 2777,3088"/>
+                <Baseline points="2786,3078 2962,3076 2992,3076 3156,3075 3185,3074 3321,3073 3350,3072 3642,3072"/>
+                <TextEquiv>
+                    <Unicode>Was wird hier geſpielt?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l2" custom="readingOrder {index:1;}">
+                <Coords points="2770,3117 3443,3107 3460,3107 3712,3107 3725,3110 3746,3118 3755,3147 3673,3153 3481,3157 3464,3157 2858,3160 2761,3157"/>
+                <Baseline points="2770,3153 2837,3153 2858,3152 3059,3150 3079,3150 3236,3149 3277,3148 3459,3147 3479,3146 3567,3145 3587,3145 3620,3145 3638,3145 3746,3144"/>
+                <TextEquiv>
+                    <Unicode>Der franzöſiſche Sozialiſt Caillaux hielt in Paris</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l3" custom="readingOrder {index:2;}">
+                <Coords points="2681,3164 2849,3161 3220,3156 3306,3155 3692,3154 3711,3154 3747,3162 3751,3193 3732,3194 3611,3195 3488,3200 3196,3203 3064,3204 3017,3204 2676,3201"/>
+                <Baseline points="2681,3198 2715,3198 2740,3198 2826,3197 2849,3197 3196,3194 3220,3194 3287,3193 3306,3193 3488,3191 3512,3191 3611,3190 3634,3190 3669,3190 3692,3189 3747,3189"/>
+                <TextEquiv>
+                    <Unicode>in einer Volksverſammlung eine beachtliche Rede, in der</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l4" custom="readingOrder {index:3;}">
+                <Coords points="2680,3218 2740,3208 2787,3202 2855,3202 3072,3204 3117,3207 3129,3245 3057,3247 2831,3250 2752,3252 2673,3250"/>
+                <Baseline points="2680,3243 2713,3242 2740,3242 2905,3241 2932,3241 3117,3239"/>
+                <TextEquiv>
+                    <Unicode>er folgendes ausführte:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l5" custom="readingOrder {index:4;}">
+                <Coords points="2773,3279 2792,3251 2888,3251 2986,3248 3364,3246 3567,3245 3585,3245 3731,3248 3747,3254 3757,3285 3732,3285 3539,3289 3049,3292 2825,3293 2773,3293"/>
+                <Baseline points="2773,3287 2860,3286 2888,3286 3145,3284 3173,3284 3335,3282 3364,3282 3539,3280 3567,3280 3626,3279 3654,3279 3747,3277"/>
+                <TextEquiv>
+                    <Unicode>„Der Verſailler Friede zerſtückelt den euro⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l6" custom="readingOrder {index:5;}">
+                <Coords points="2682,3307 2704,3297 2751,3296 2855,3294 3639,3288 3717,3288 3746,3289 3754,3328 3409,3334 3210,3338 2821,3339 2682,3339"/>
+                <Baseline points="2682,3332 2821,3330 2852,3330 3273,3327 3302,3327 3367,3326 3398,3326 3463,3325 3493,3325 3535,3325 3565,3325 3612,3324 3639,3324 3749,3322"/>
+                <TextEquiv>
+                    <Unicode>päiſchen Wirtſchaftsorganismus und ſetzt an die Stelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l7" custom="readingOrder {index:6;}">
+                <Coords points="2681,3351 2698,3342 3617,3332 3657,3332 3744,3330 3753,3373 3657,3375 3535,3376 2797,3384 2678,3382"/>
+                <Baseline points="2681,3376 2768,3375 2797,3375 2954,3374 2981,3374 3130,3373 3157,3372 3208,3372 3234,3372 3445,3370 3471,3370 3617,3369 3648,3369 3657,3369 3683,3369 3745,3368"/>
+                <TextEquiv>
+                    <Unicode>eines geſunden Körpers ein unhaltbares Syſtem. Die</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l8" custom="readingOrder {index:7;}">
+                <Coords points="2684,3386 3550,3377 3582,3377 3688,3378 3758,3385 3758,3418 3452,3424 2793,3428 2778,3428 2678,3425"/>
+                <Baseline points="2684,3421 2834,3420 2866,3420 2999,3419 3033,3418 3067,3418 3101,3417 3259,3416 3293,3416 3518,3415 3550,3415 3754,3413"/>
+                <TextEquiv>
+                    <Unicode>Grenzen wurden in dieſem ſchlechten Frieden</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l9" custom="readingOrder {index:8;}">
+                <Coords points="2682,3429 3525,3421 3711,3421 3746,3428 3757,3458 3731,3460 3691,3464 3152,3469 2850,3471 2675,3474"/>
+                <Baseline points="2682,3466 2919,3464 2943,3464 3009,3463 3030,3463 3184,3462 3209,3461 3268,3461 3289,3461 3504,3459 3525,3458 3747,3456"/>
+                <TextEquiv>
+                    <Unicode>widerrechtlich und entgegen den elementaren Wirtſchafts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l10" custom="readingOrder {index:9;}">
+                <Coords points="2683,3484 2721,3476 3141,3472 3652,3465 3746,3465 3755,3505 3577,3510 2934,3517 2776,3515 2684,3520"/>
+                <Baseline points="2683,3510 2811,3509 2830,3509 2975,3508 3003,3507 3077,3507 3138,3506 3620,3502 3636,3502 3746,3501"/>
+                <TextEquiv>
+                    <Unicode>geſetzen gezogen. Das Reparationsproblem wurde</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l11" custom="readingOrder {index:10;}">
+                <Coords points="2685,3520 2747,3520 2865,3516 3379,3512 3435,3512 3531,3513 3555,3514 3560,3550 3435,3556 3165,3560 2865,3560 2679,3561"/>
+                <Baseline points="2683,3555 2716,3554 2747,3554 2799,3554 2828,3553 3178,3551 3207,3550 3348,3549 3379,3549 3555,3547"/>
+                <TextEquiv>
+                    <Unicode>in der erbärmlichſten Weiſe behandelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l12" custom="readingOrder {index:11;}">
+                <Coords points="2772,3564 2915,3562 3326,3557 3713,3555 3724,3555 3747,3563 3755,3594 3724,3598 3496,3602 3216,3604 2818,3606 2772,3606"/>
+                <Baseline points="2772,3599 2871,3598 2901,3598 2943,3597 2973,3597 3007,3597 3036,3597 3296,3594 3326,3594 3528,3592 3557,3591 3682,3590 3713,3590 3747,3590"/>
+                <TextEquiv>
+                    <Unicode>Hätte ich in Verſailles mitſprechen dürfen, ſo</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l13" custom="readingOrder {index:12;}">
+                <Coords points="2677,3619 2714,3610 2840,3607 3412,3599 3747,3599 3754,3640 3438,3645 3141,3647 2678,3650"/>
+                <Baseline points="2682,3644 2790,3643 2827,3643 2868,3642 2905,3642 2964,3642 2998,3641 3237,3639 3273,3638 3377,3637 3412,3637 3523,3636 3560,3636 3651,3635 3685,3635 3747,3634"/>
+                <TextEquiv>
+                    <Unicode>würde ich den Deutſchen geſagt haben, ſetzen wir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l14" custom="readingOrder {index:13;}">
+                <Coords points="2682,3663 2851,3653 2974,3650 3661,3644 3672,3644 3745,3652 3750,3685 3672,3688 3062,3697 2974,3697 2706,3693 2677,3693"/>
+                <Baseline points="2681,3688 2747,3688 2779,3688 2821,3687 2851,3687 2943,3686 2974,3686 3062,3685 3093,3685 3158,3684 3189,3684 3343,3682 3372,3682 3451,3681 3483,3681 3745,3679"/>
+                <TextEquiv>
+                    <Unicode>uns an einen Tiſch und ſtellen wir gemeinſam</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l15" custom="readingOrder {index:14;}">
+                <Coords points="2683,3699 2774,3697 2849,3696 3619,3689 3680,3689 3709,3691 3709,3724 3680,3733 3491,3737 2807,3740 2774,3740 2676,3738"/>
+                <Baseline points="2683,3733 2749,3733 2774,3733 2893,3731 2918,3731 2990,3730 3015,3730 3594,3725 3619,3724 3701,3724"/>
+                <TextEquiv>
+                    <Unicode>die Höhe der Reparationszahlungen feſt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l16" custom="readingOrder {index:15;}">
+                <Coords points="2773,3742 2939,3738 3529,3733 3731,3733 3748,3735 3754,3771 3664,3777 3389,3781 2837,3785 2826,3785 2766,3780"/>
+                <Baseline points="2774,3777 2888,3776 2920,3776 3154,3774 3184,3773 3259,3772 3289,3772 3389,3771 3418,3771 3479,3770 3510,3770 3748,3768"/>
+                <TextEquiv>
+                    <Unicode>Unſere Unterhändler aber gaben das Aufbaugebiet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l17" custom="readingOrder {index:16;}">
+                <Coords points="2683,3788 2769,3786 3593,3777 3613,3777 3748,3778 3755,3820 3613,3821 2994,3829 2813,3829 2679,3825"/>
+                <Baseline points="2683,3822 2742,3822 2769,3821 3090,3818 3117,3818 3216,3817 3245,3817 3293,3817 3321,3816 3377,3816 3405,3815 3449,3815 3476,3815 3748,3812"/>
+                <TextEquiv>
+                    <Unicode>den Spekulanten preis, die ſich in unerhörter</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l18" custom="readingOrder {index:17;}">
+                <Coords points="2682,3832 2979,3830 2979,3830 3055,3830 3096,3831 3154,3838 3154,3863 3055,3872 2823,3873 2708,3873 2682,3868"/>
+                <Baseline points="2682,3868 2846,3866 3154,3863"/>
+                <TextEquiv>
+                    <Unicode>Weiſe bereicherten.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l19" custom="readingOrder {index:18;}">
+                <Coords points="2771,3875 3194,3869 3702,3867 3748,3867 3748,3911 3574,3914 2983,3918 2965,3918 2766,3914"/>
+                <Baseline points="2771,3912 2852,3911 2888,3910 3157,3907 3194,3907 3656,3903 3702,3902 3748,3902"/>
+                <TextEquiv>
+                    <Unicode>Die allgemeine Schuldenſtreichung iſt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l20" custom="readingOrder {index:19;}">
+                <Coords points="2683,3932 2745,3923 2869,3920 3408,3913 3605,3912 3673,3912 3746,3913 3754,3952 3549,3957 2940,3962 2922,3962 2676,3959"/>
+                <Baseline points="2683,3956 2940,3953 2988,3953 3082,3952 3139,3951 3233,3951 3279,3950 3558,3948 3605,3948 3746,3947"/>
+                <TextEquiv>
+                    <Unicode>notwendig und eine europäiſche Wirt⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l21" custom="readingOrder {index:20;}">
+                <Coords points="2683,3966 2706,3965 2760,3963 3653,3955 3653,3955 3681,3955 3681,3992 3651,4000 2862,4008 2683,4008"/>
+                <Baseline points="2683,3999 3119,3996 3151,3995 3223,3995 3252,3995 3427,3993 3461,3993 3681,3990"/>
+                <TextEquiv>
+                    <Unicode>ſchaftsföderation der einzige Ausweg.“</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l22" custom="readingOrder {index:21;}">
+                <Coords points="2771,4009 2875,4007 3683,3999 3721,3999 3747,4008 3754,4037 3728,4039 3615,4044 3141,4049 2965,4050 2875,4050 2762,4047"/>
+                <Baseline points="2771,4044 2846,4043 2875,4043 3048,4041 3079,4041 3141,4040 3172,4040 3257,4039 3287,4039 3427,4038 3457,4037 3522,4037 3551,4037 3655,4036 3683,4036 3747,4035"/>
+                <TextEquiv>
+                    <Unicode>Wir wünſchen, daß Herr Curtius von dieſen Er⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l23" custom="readingOrder {index:22;}">
+                <Coords points="2683,4054 3570,4043 3732,4043 3757,4046 3757,4081 3732,4088 3518,4091 3135,4094 2829,4096 2819,4096 2679,4092"/>
+                <Baseline points="2683,4089 2884,4087 2913,4087 2993,4086 3025,4086 3135,4085 3167,4084 3218,4084 3249,4084 3334,4083 3365,4083 3540,4081 3570,4081 3757,4079"/>
+                <TextEquiv>
+                    <Unicode>kenntniſſen nicht gerade am Lago Maggiore überraſcht</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l24" custom="readingOrder {index:23;}">
+                <Coords points="2681,4109 2715,4099 2787,4097 3104,4092 3562,4090 3630,4090 3744,4095 3752,4134 3325,4138 2799,4141 2787,4141 2675,4135"/>
+                <Baseline points="2681,4134 2763,4133 2787,4133 2865,4132 2884,4132 2993,4131 3015,4131 3062,4130 3085,4130 3325,4128 3354,4128 3404,4127 3427,4127 3503,4126 3525,4126 3596,4126 3618,4125 3746,4125"/>
+                <TextEquiv>
+                    <Unicode>wird (von wegen die Geſundheit!). Es muß doch immer⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l25" custom="readingOrder {index:24;}">
+                <Coords points="2682,4143 2769,4142 3401,4136 3645,4136 3722,4138 3747,4139 3758,4174 3645,4179 2898,4185 2701,4186 2682,4186"/>
+                <Baseline points="2682,4178 2738,4178 2769,4177 2898,4176 2930,4176 2995,4175 3026,4175 3078,4175 3109,4174 3169,4174 3198,4173 3371,4172 3401,4172 3645,4170 3677,4170 3746,4169"/>
+                <TextEquiv>
+                    <Unicode>hin peinlich ſein für den Epigonen Streſemanns, nun</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l26" custom="readingOrder {index:25;}">
+                <Coords points="2683,4198 2821,4187 3313,4181 3648,4177 3668,4177 3688,4178 3747,4185 3752,4218 3668,4222 2857,4230 2749,4230 2684,4228"/>
+                <Baseline points="2683,4222 2905,4221 2924,4220 2989,4220 3006,4220 3108,4219 3129,4218 3294,4217 3313,4217 3528,4214 3579,4214 3627,4214 3648,4214 3747,4214"/>
+                <TextEquiv>
+                    <Unicode>ausgerechnet von einem Vertreter Frankreichs das hören</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l27" custom="readingOrder {index:26;}">
+                <Coords points="2682,4242 2769,4232 3095,4227 3668,4222 3688,4222 3746,4231 3752,4264 3688,4266 3436,4270 2698,4275 2682,4275"/>
+                <Baseline points="2682,4267 2721,4267 2748,4267 2880,4265 2908,4265 2979,4265 3007,4264 3068,4264 3095,4264 3436,4260 3464,4260 3520,4259 3548,4259 3590,4259 3618,4260 3746,4258"/>
+                <TextEquiv>
+                    <Unicode>zu müſſen, was wir Nationalſozialiſten ſeit 10 Jahren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l28" custom="readingOrder {index:27;}">
+                <Coords points="2683,4287 2704,4278 2782,4276 2925,4274 3378,4270 3656,4268 3667,4268 3718,4269 3746,4275 3751,4305 3741,4307 3470,4312 2896,4319 2782,4319 2679,4317"/>
+                <Baseline points="2683,4312 2733,4311 2759,4311 2899,4310 2925,4309 3010,4309 3036,4308 3176,4307 3201,4307 3276,4306 3300,4306 3351,4305 3378,4305 3521,4304 3545,4304 3745,4303"/>
+                <TextEquiv>
+                    <Unicode>als möglich, Herr Curtius aber als lari⸗fari deklarierte.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l29" custom="readingOrder {index:28;}">
+                <Coords points="2771,4320 3577,4311 3710,4311 3746,4320 3758,4353 3679,4359 3078,4361 3000,4361 2766,4361"/>
+                <Baseline points="2771,4356 2835,4355 2870,4355 2964,4354 3000,4353 3246,4351 3285,4351 3344,4350 3378,4350 3454,4349 3490,4349 3545,4349 3577,4348 3745,4346"/>
+                <TextEquiv>
+                    <Unicode>Bei allem Peſſimismus, den man als Deutſcher</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l30" custom="readingOrder {index:29;}">
+                <Coords points="2683,4377 2728,4366 2969,4362 3605,4357 3690,4357 3752,4359 3757,4396 3690,4400 3677,4401 3449,4404 2755,4408 2728,4408 2676,4407"/>
+                <Baseline points="2683,4401 2755,4401 2793,4400 2893,4399 2932,4399 3123,4397 3160,4396 3449,4394 3484,4394 3571,4393 3605,4393 3746,4391"/>
+                <TextEquiv>
+                    <Unicode>auch einem „Caillaux“ entgegenbringen muß, eröffnet</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l31" custom="readingOrder {index:30;}">
+                <Coords points="2677,4412 2717,4411 2797,4409 3020,4407 3590,4402 3732,4402 3751,4411 3756,4441 3692,4444 2761,4453 2717,4453 2672,4449"/>
+                <Baseline points="2685,4445 2761,4445 2797,4445 2886,4443 2920,4443 2984,4442 3020,4442 3172,4440 3208,4440 3310,4439 3344,4439 3376,4439 3411,4438 3470,4438 3507,4438 3555,4437 3590,4437 3744,4434"/>
+                <TextEquiv>
+                    <Unicode>dieſe Rede von Caillaux genau ſo wie die Verlaut⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l32" custom="readingOrder {index:31;}">
+                <Coords points="2680,4456 2979,4452 3357,4447 3585,4445 3748,4445 3749,4485 2823,4498 2747,4498 2675,4493"/>
+                <Baseline points="2680,4490 2847,4489 2881,4488 2946,4488 2979,4487 3088,4485 3121,4485 3187,4485 3223,4485 3305,4485 3340,4484 3549,4482 3585,4482 3748,4479"/>
+                <TextEquiv>
+                    <Unicode>barungen von Hervé und Lord Rothermere Perſpek⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l33" custom="readingOrder {index:32;}">
+                <Coords points="2682,4502 2697,4501 2821,4499 3262,4492 3651,4491 3733,4491 3751,4495 3759,4528 3733,4532 3533,4537 2778,4540 2773,4540 2676,4538"/>
+                <Baseline points="2682,4535 2778,4534 2821,4533 2869,4533 2908,4532 2961,4532 3003,4531 3220,4529 3262,4529 3533,4527 3572,4526 3749,4525"/>
+                <TextEquiv>
+                    <Unicode>tiven, die ein deutſcher Außenpolitiker ausnützen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l34" custom="readingOrder {index:33;}">
+                <Coords points="2681,4554 2714,4545 2756,4544 2822,4543 3204,4538 3641,4535 3705,4535 3747,4538 3751,4571 3718,4577 3705,4579 2879,4586 2865,4586 2676,4584"/>
+                <Baseline points="2681,4579 2791,4578 2822,4578 2913,4577 2945,4577 3006,4576 3036,4576 3072,4575 3104,4575 3172,4574 3204,4574 3363,4573 3394,4572 3482,4571 3512,4571 3611,4570 3641,4570 3745,4568"/>
+                <TextEquiv>
+                    <Unicode>würde dazu, daß es dem deutſchen Volk beſſer ginge.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l35" custom="readingOrder {index:34;}">
+                <Coords points="2683,4588 3246,4582 3641,4578 3675,4578 3730,4579 3755,4591 3755,4606 3751,4622 3534,4624 2879,4630 2814,4630 2674,4628"/>
+                <Baseline points="2683,4624 2768,4623 2796,4623 2921,4622 2947,4621 3010,4620 3035,4620 3100,4619 3129,4619 3217,4619 3246,4618 3443,4616 3472,4616 3534,4615 3561,4615 3615,4615 3641,4615 3743,4614"/>
+                <TextEquiv>
+                    <Unicode>Aber machen wir uns keine Illuſionen, daß ein Kabi⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l36" custom="readingOrder {index:35;}">
+                <Coords points="2681,4644 2722,4636 2770,4632 3148,4628 3464,4625 3598,4624 3631,4624 3747,4632 3753,4661 3631,4666 3492,4668 2924,4674 2906,4674 2673,4672"/>
+                <Baseline points="2681,4668 2748,4668 2770,4667 2924,4666 2945,4666 3003,4665 3023,4665 3126,4664 3148,4664 3233,4663 3256,4663 3395,4661 3418,4661 3492,4660 3515,4660 3576,4659 3598,4659 3746,4658"/>
+                <TextEquiv>
+                    <Unicode>nett Brüning mit einem Herr Curtius auch nur Haares⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l37" custom="readingOrder {index:36;}">
+                <Coords points="2680,4679 2737,4678 2911,4675 3571,4668 3591,4668 3658,4669 3673,4679 3688,4707 3646,4713 3591,4713 3097,4718 2911,4718 2672,4718"/>
+                <Baseline points="2680,4713 2778,4712 2807,4712 2871,4711 2898,4711 2983,4710 3011,4710 3207,4708 3237,4708 3370,4706 3398,4706 3465,4705 3495,4705 3542,4705 3571,4704 3673,4703"/>
+                <TextEquiv>
+                    <Unicode>breite von ihrer Pedanterie abginge und die heißt:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l38" custom="readingOrder {index:37;}">
+                <Coords points="2773,4750 2792,4722 3100,4717 3639,4715 3748,4717 3747,4755 3594,4757 3077,4764 2773,4763"/>
+                <Baseline points="2773,4757 3079,4755 3109,4755 3455,4751 3478,4752 3745,4748"/>
+                <TextEquiv>
+                    <Unicode>„Notverordnung, Zwangsmaßnahmen, Zwangsſteuern,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l39" custom="readingOrder {index:38;}">
+                <Coords points="2683,4768 2762,4766 3318,4761 3682,4757 3746,4757 3746,4800 3510,4804 2932,4808 2762,4808 2677,4806"/>
+                <Baseline points="2683,4803 2963,4800 2981,4799 3054,4799 3074,4798 3172,4797 3190,4797 3255,4797 3277,4797 3650,4794 3670,4793 3746,4793"/>
+                <TextEquiv>
+                    <Unicode>Gummiknüppel nach innen und „Palmenwedel“ nach</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r10l40" custom="readingOrder {index:39;}">
+                <Coords points="2681,4822 2725,4811 3597,4801 3633,4801 3699,4815 3708,4842 3633,4846 2846,4857 2740,4857 2725,4856 2671,4850"/>
+                <Baseline points="2681,4847 2815,4847 3597,4839 3699,4838"/>
+                <TextEquiv>
+                    <Unicode>außen.“ hewo.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Was wird hier geſpielt?&#13;
+Der franzöſiſche Sozialiſt Caillaux hielt in Paris&#13;
+in einer Volksverſammlung eine beachtliche Rede, in der&#13;
+er folgendes ausführte:&#13;
+„Der Verſailler Friede zerſtückelt den euro⸗&#13;
+päiſchen Wirtſchaftsorganismus und ſetzt an die Stelle&#13;
+eines geſunden Körpers ein unhaltbares Syſtem. Die&#13;
+Grenzen wurden in dieſem ſchlechten Frieden&#13;
+widerrechtlich und entgegen den elementaren Wirtſchafts⸗&#13;
+geſetzen gezogen. Das Reparationsproblem wurde&#13;
+in der erbärmlichſten Weiſe behandelt.&#13;
+Hätte ich in Verſailles mitſprechen dürfen, ſo&#13;
+würde ich den Deutſchen geſagt haben, ſetzen wir&#13;
+uns an einen Tiſch und ſtellen wir gemeinſam&#13;
+die Höhe der Reparationszahlungen feſt.&#13;
+Unſere Unterhändler aber gaben das Aufbaugebiet&#13;
+den Spekulanten preis, die ſich in unerhörter&#13;
+Weiſe bereicherten.&#13;
+Die allgemeine Schuldenſtreichung iſt&#13;
+notwendig und eine europäiſche Wirt⸗&#13;
+ſchaftsföderation der einzige Ausweg.“&#13;
+Wir wünſchen, daß Herr Curtius von dieſen Er⸗&#13;
+kenntniſſen nicht gerade am Lago Maggiore überraſcht&#13;
+wird (von wegen die Geſundheit!). Es muß doch immer⸗&#13;
+hin peinlich ſein für den Epigonen Streſemanns, nun&#13;
+ausgerechnet von einem Vertreter Frankreichs das hören&#13;
+zu müſſen, was wir Nationalſozialiſten ſeit 10 Jahren&#13;
+als möglich, Herr Curtius aber als lari⸗fari deklarierte.&#13;
+Bei allem Peſſimismus, den man als Deutſcher&#13;
+auch einem „Caillaux“ entgegenbringen muß, eröffnet&#13;
+dieſe Rede von Caillaux genau ſo wie die Verlaut⸗&#13;
+barungen von Hervé und Lord Rothermere Perſpek⸗&#13;
+tiven, die ein deutſcher Außenpolitiker ausnützen&#13;
+würde dazu, daß es dem deutſchen Volk beſſer ginge.&#13;
+Aber machen wir uns keine Illuſionen, daß ein Kabi⸗&#13;
+nett Brüning mit einem Herr Curtius auch nur Haares⸗&#13;
+breite von ihrer Pedanterie abginge und die heißt:&#13;
+„Notverordnung, Zwangsmaßnahmen, Zwangsſteuern,&#13;
+Gummiknüppel nach innen und „Palmenwedel“ nach&#13;
+außen.“ hewo.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r11" custom="readingOrder {index:10;} structure {type:paragraph;}">
+            <Coords points="2655,4891 3772,4891 3772,5149 2655,5149"/>
+            <TextLine id="r11l1" custom="readingOrder {index:0;}">
+                <Coords points="2678,4903 2898,4902 3096,4902 3096,4964 2752,4968 2673,4966"/>
+                <Baseline points="2678,4959 2861,4957 2898,4956 3096,4955"/>
+                <TextEquiv>
+                    <Unicode>Werbt überall</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l2" custom="readingOrder {index:1;}">
+                <Coords points="2891,4981 3189,4974 3744,4974 3750,5035 3721,5038 3605,5043 2912,5045 2891,5045"/>
+                <Baseline points="2891,5036 2975,5036 3013,5035 3112,5034 3149,5034 3744,5030"/>
+                <TextEquiv>
+                    <Unicode>für das Hakenkreuz⸗Banner!</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l3" custom="readingOrder {index:2;}">
+                <Coords points="2891,5067 3590,5060 3729,5060 3743,5072 3756,5093 3729,5096 3725,5097 3335,5100 3048,5102 2891,5102"/>
+                <Baseline points="2891,5096 3082,5095 3102,5095 3172,5094 3192,5094 3364,5093 3383,5093 3438,5093 3459,5092 3507,5092 3526,5092 3571,5092 3590,5092 3743,5090"/>
+                <TextEquiv>
+                    <Unicode>Beſtellungen beim Briefträger und auf der Geſchäfts⸗</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r11l4" custom="readingOrder {index:3;}">
+                <Coords points="2890,5103 2979,5102 3078,5101 3274,5100 3291,5100 3327,5111 3328,5134 3242,5134 3093,5137 2959,5138 2890,5138"/>
+                <Baseline points="2890,5132 3329,5129"/>
+                <TextEquiv>
+                    <Unicode>ſtelle Mannheim, P 5, 13 a.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Werbt überall
+für das Hakenkreuz⸗Banner!
+Beſtellungen beim Briefträger und auf der Geſchäfts⸗
+ſtelle Mannheim, P 5, 13 a.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_11" custom="readingOrder {index:11;}">
+            <Coords points="378,220 3744,220 3744,261 378,261"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_12" custom="readingOrder {index:12;}">
+            <Coords points="0,261 204,261 204,271 0,271"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_13" custom="readingOrder {index:13;}">
+            <Coords points="1,679 197,679 197,689 1,689"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_14" custom="readingOrder {index:14;}">
+            <Coords points="0,1177 188,1177 188,1186 0,1186"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_15" custom="readingOrder {index:15;}">
+            <Coords points="0,1603 183,1603 183,1612 0,1612"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_16" custom="readingOrder {index:16;}">
+            <Coords points="1,2163 175,2163 175,2173 1,2173"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_17" custom="readingOrder {index:17;}">
+            <Coords points="0,2181 175,2181 175,2194 0,2194"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_18" custom="readingOrder {index:18;}">
+            <Coords points="0,2545 172,2545 172,2554 0,2554"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_19" custom="readingOrder {index:19;}">
+            <Coords points="1,2731 169,2731 169,2740 1,2740"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_20" custom="readingOrder {index:20;}">
+            <Coords points="1,2741 165,2741 165,2747 1,2747"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_21" custom="readingOrder {index:21;}">
+            <Coords points="0,2927 168,2927 168,2936 0,2936"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_22" custom="readingOrder {index:22;}">
+            <Coords points="1525,2946 3749,2946 3749,2987 1525,2987"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_23" custom="readingOrder {index:23;}">
+            <Coords points="0,3397 164,3397 164,3404 0,3404"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_24" custom="readingOrder {index:24;}">
+            <Coords points="2,3421 162,3421 162,3428 2,3428"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_25" custom="readingOrder {index:25;}">
+            <Coords points="1953,3951 2165,3951 2165,3960 1953,3960"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_26" custom="readingOrder {index:26;}">
+            <Coords points="2678,4854 3746,4854 3746,4883 2678,4883"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_27" custom="readingOrder {index:27;}">
+            <Coords points="0,2525 169,2525 169,2538 0,2538"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_28" custom="readingOrder {index:28;}">
+            <Coords points="117,4029 160,4029 160,5179 117,5179"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_29" custom="readingOrder {index:29;}">
+            <Coords points="163,2181 178,2181 178,2537 163,2537"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_30" custom="readingOrder {index:30;}">
+            <Coords points="1476,620 1492,620 1492,5150 1476,5150"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_31" custom="readingOrder {index:31;}">
+            <Coords points="2629,3002 2644,3002 2644,5140 2629,5140"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_32" custom="readingOrder {index:32;}">
+            <Coords points="2629,610 2644,610 2644,2932 2629,2932"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="r_33" custom="readingOrder {index:33;}">
+            <Coords points="1479,3586 1481,3586 1481,3614 1479,3614"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>
