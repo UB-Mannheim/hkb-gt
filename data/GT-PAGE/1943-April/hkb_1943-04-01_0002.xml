@@ -13,7 +13,7 @@ Transkribus</Creator>
             </Comments>
         <TranskribusMetadata docId="1126048" pageId="46550273" pageNr="1" tsid="123367236" status="GT" userId="109938" imgUrl="https://files.transkribus.eu/Get?id=KEDNBLBZGHIMOKJKCQHQAETK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SFSXIOWAOZRYSJIIBEPTVFLH" imageId="37937425"/>
     </Metadata>
-    <Page imageFilename="hkb_1943_004_April_01-10_0002.jpg" imageWidth="5126" imageHeight="7344">
+    <Page imageFilename="hkb_1943-04-01_0002.jpg" imageWidth="5126" imageHeight="7344">
         <PrintSpace>
             <Coords points="389,106 4894,106 4894,7232 389,7232"/>
         </PrintSpace>
