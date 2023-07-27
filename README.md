@@ -1,16 +1,19 @@
 # hkb-gt
-Das Hakenkreuzbanner (hkb) war ein Parteiblatt der NSDAP zwischen 1931–1945. Weitere
-Information ist auf der Seite von [Udo Leuschner](https://www.udo-leuschner.de/zeitungsgeschichte/sonstige/hkb.htm) zu finden.
+The Hakenkreuzbanner (hkb) was the party newspaper of the NSDAP for the Mannheim region from 1931 to 1945.
+More information can be found on the website of [Udo Leuschner](https://www.udo-leuschner.de/zeitungsgeschichte/sonstige/hkb.htm).
 
+The city archive of Mannheim [MARCHIVUM](https://druckschriften-digital.marchivum.de/zd/periodical/titleinfo/74387) has digitised this newspaper.
+In order to optimise the automated text recognition, this ground truth dataset was created to train new models.
 
-Das [MARCHIVUM](https://druckschriften-digital.marchivum.de/zd/periodical/titleinfo/74387) digitalisierte das Parteiblatt. Im Rahmen dieser Tätigkeit wurde zur hochqualitativen Texterkennung dieser GT-Datensatz erstellt, um neue Modelle zu trainieren.
+Mannheim University Library makes this ground truth available for the purposes of science, research and teaching.
+The University Library expressly distances itself from all NS, racist and violence-glorifying content.
 
 ### Images:
-Images can be downloaded via script in their own image folder
+Images can be downloaded via script to their own image folder
 
 `./download_images_to_folder.sh `
 
-Or to the existing pagexml files
+Or to the existing PAGE XML files
 
 `./download_images_to_page.sh `
 
