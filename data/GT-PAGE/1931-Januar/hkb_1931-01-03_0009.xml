@@ -1082,7 +1082,7 @@ Straße:&#13;
                 <Coords points="2249,4454 2311,4454 2311,4763 2299,5133 2252,5133 2249,4763"/>
                 <Baseline points="2287,5127 2292,4868 2293,4545 2294,4468"/>
                 <TextEquiv>
-                    <Unicode>Postcheckkonto: ࿕ „Banner Verlag“ </Unicode>
+                    <Unicode>Postcheckkonto: ࿕ „Banner Verlag“</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r14l5" custom="readingOrder {index:4;}">
