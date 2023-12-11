@@ -32,7 +32,7 @@ German, English, French
 ### Transcription guidelines:
 All transcriptions were created using [Transkribus](https://readcoop.eu/transkribus/?sc=Transkribus). The transcription rules are based on the [OCR-D transcription guidelines Level 2](https://ocr-d.de/en/gt-guidelines/trans/trLevels.html) with some exceptions (see below):
 
-**Special characters**: 
+**Special characters**:
 - Long s (ſ)
 - Currency symbols: German Mark (ℳ) and Pfennig (₰), $, £
 - Fractions (¼ ½ ¾ ⅐ ⅑ ⅒ ⅓ ⅔ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞)
@@ -41,7 +41,7 @@ All transcriptions were created using [Transkribus](https://readcoop.eu/transkri
 - White square (□)
 
 **Normalizations**:
-- Roman numerals ⅠⅤ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --> I V X L C D M  
+- Roman numerals Ⅰ Ⅴ Ⅹ Ⅼ Ⅽ Ⅾ Ⅿ --> I V X L C D M
 - Em dash (—) instead of En dash (–)
 - Asterisk (\*) used for both standard asterisk (\*) and tear-drop asterisk (✽)
 
