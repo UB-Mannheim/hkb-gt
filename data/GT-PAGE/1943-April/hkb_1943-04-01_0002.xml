@@ -827,7 +827,7 @@ fanteriewaffen des Feindes.</Unicode>
                 <Coords points="1381,1321 2212,1324 2214,1367 1383,1363"/>
                 <Baseline points="1388,1357 1504,1357 1530,1357 1835,1358 1859,1358 1975,1359 1999,1359 2140,1359 2160,1359 2210,1359"/>
                 <TextEquiv>
-                    <Unicode>(4153), „Corinthiakos“ (3562), „Marie Ⅰ“,</Unicode>
+                    <Unicode>(4153), „Corinthiakos“ (3562), „Marie I“,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l2" custom="readingOrder {index:1;}">
@@ -901,7 +901,7 @@ fanteriewaffen des Feindes.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>(4153), „Corinthiakos“ (3562), „Marie Ⅰ“,
+                <Unicode>(4153), „Corinthiakos“ (3562), „Marie I“,
 „Monut Helikon“ (5525), „Nymphe“
 (4504), „Saronikos“ (3548), „Panaghis“
 (5187), „Alchiba“ (4427), „Cliftonhall“
