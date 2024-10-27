@@ -1778,7 +1778,7 @@ lung eines derartigen Unglücks zu ſchützen.</Unicode>
                 <Coords points="1553,5413 1615,5408 1971,5404 2085,5404 3551,5430 3705,5458 3717,5571 1834,5559 1783,5559 1553,5548"/>
                 <Baseline points="1553,5534 1783,5535 1823,5535 2085,5536 2126,5536 2459,5536 2503,5537 2714,5542 2753,5543 3152,5544 3195,5545 3702,5545"/>
                 <TextEquiv>
-                    <Unicode>Aus dem Felde der Arbeit gefallen</Unicode>
+                    <Unicode>Auf dem Felde der Arbeit gefallen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l2" custom="readingOrder {index:1;}">
@@ -1789,7 +1789,7 @@ lung eines derartigen Unglücks zu ſchützen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>Aus dem Felde der Arbeit gefallen
+                <Unicode>Auf dem Felde der Arbeit gefallen
 Sechs verschüttete Bergleute aufgegeben</Unicode>
             </TextEquiv>
         </TextRegion>
