@@ -742,7 +742,7 @@ king in der Provinz Szetſchuan verlegt hat.</Unicode>
                 <Coords points="2682,3565 2789,3561 3472,3569 3688,3572 3726,3579 3725,3617 3603,3614 2858,3611 2784,3611 2681,3610"/>
                 <Baseline points="2681,3604 2919,3603 2945,3604 3090,3605 3117,3605 3196,3606 3223,3606 3384,3608 3413,3608 3538,3609 3563,3609 3628,3610 3656,3610 3717,3610"/>
                 <TextEquiv>
-                    <Unicode>„iudenfrei“ erklärt, und unſeren Nöten als ein</Unicode>
+                    <Unicode>„judenfrei“ erklärt, und unſeren Nöten als ein</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l11" custom="readingOrder {index:10;}">
@@ -818,7 +818,7 @@ dieſes Jahres die folgenden, ſehr ernſten Aus⸗
 führungen:
 „Man könnte annehmen, daß zwiſchen dem
 nationalſozialiſtiſchen Regime, das ſich als
-„iudenfrei“ erklärt, und unſeren Nöten als ein
+„judenfrei“ erklärt, und unſeren Nöten als ein
 von Juden, bedrängtes Volk inſoweit Bezie⸗
 hungen beſtehen ſollten, als der rumäniſche
 Handel ſich Deutſchland zuwenden könnte. In
@@ -1562,7 +1562,7 @@ bei Berlin Weltbild (M)</Unicode>
                 <Coords points="1610,4381 1981,4387 3418,4394 3575,4396 3671,4407 3670,4462 3494,4463 3383,4463 2025,4458 1611,4453"/>
                 <Baseline points="1616,4442 1981,4444 2025,4444 2275,4445 2311,4445 2485,4446 2524,4447 2738,4447 2778,4447 2859,4447 2899,4447 3020,4447 3059,4448 3494,4450 3534,4450 3657,4451"/>
                 <TextEquiv>
-                    <Unicode>Frankreich gesteht seine Schuld an der Verbreitund der</Unicode>
+                    <Unicode>Frankreich gesteht seine Schuld an der Verbreitung der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r18l3" custom="readingOrder {index:2;}">
@@ -1574,7 +1574,7 @@ bei Berlin Weltbild (M)</Unicode>
             </TextLine>
             <TextEquiv>
                 <Unicode>Aus Algerien eingeſchleppt
-Frankreich gesteht seine Schuld an der Verbreitund der
+Frankreich gesteht seine Schuld an der Verbreitung der
 Maul- und Klauenseuche ein</Unicode>
             </TextEquiv>
         </TextRegion>
