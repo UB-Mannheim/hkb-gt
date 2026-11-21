@@ -72,7 +72,7 @@ Transkribus</Creator>
                 <Coords points="494,629 2217,628 2217,666 496,668"/>
                 <Baseline points="498,664 1357,659 1922,659 2210,662"/>
                 <TextEquiv>
-                    <Unicode>Verlag und Schriftleiltung: Mannheim, R 3, 14/15. Fernruf-Sammel-Nr. Mannheim 354 21</Unicode>
+                    <Unicode>Verlag und Schriftleitung: Mannheim, R 3, 14/15. Fernruf-Sammel-Nr. Mannheim 354 21</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l2" custom="readingOrder {index:1;}">
@@ -2785,7 +2785,7 @@ wolle.</Unicode>
                 <Coords points="3152,1197 3989,1200 3993,1236 3884,1235 3150,1237"/>
                 <Baseline points="3157,1233 3281,1231 3358,1225 3403,1225 3437,1232 3986,1232"/>
                 <TextEquiv>
-                    <Unicode>litiker unq Journalisten wurden um</Unicode>
+                    <Unicode>litiker und Journalisten wurden um</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r28l3" custom="readingOrder {index:2;}">
