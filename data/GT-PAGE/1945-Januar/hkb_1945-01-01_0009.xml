@@ -425,7 +425,7 @@
                 <Coords points="602,2585 630,2577 720,2576 1187,2573 1498,2573 1502,2612 1485,2614 1263,2615 600,2617"/>
                 <Baseline points="609,2611 666,2611 691,2610 886,2610 912,2610 987,2610 1010,2610 1287,2609 1312,2608 1495,2608"/>
                 <TextEquiv>
-                    <Unicode>sle vielmehr aus dauerhaftem Material</Unicode>
+                    <Unicode>sie vielmehr aus dauerhaftem Material</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r2l46" custom="readingOrder {index:45;}">
@@ -659,7 +659,7 @@ kleinen Teil der Verbraucherschaft be-</Unicode>
                 <Coords points="1564,1549 1685,1544 2437,1537 2466,1537 2470,1575 1971,1582 1947,1582 1563,1586"/>
                 <Baseline points="1570,1580 1757,1578 1791,1577 1914,1575 1948,1575 2181,1574 2215,1573 2344,1572 2380,1572 2461,1571"/>
                 <TextEquiv>
-                    <Unicode>mancbhes blank gescheuert haben und</Unicode>
+                    <Unicode>manches blank gescheuert haben und</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l25" custom="readingOrder {index:24;}">
@@ -1915,7 +1915,7 @@ schieren, von unerschütterlichem Glauben</Unicode>
                 <Coords points="4621,670 4650,662 4903,656 5421,647 5459,647 5625,647 5631,683 5579,687 4649,703 4621,704"/>
                 <Baseline points="4625,696 4709,695 4737,695 4820,693 4849,693 5036,689 5062,689 5336,684 5367,683 5621,677"/>
                 <TextEquiv>
-                    <Unicode>gibt sich niemand trügerischen Hoflnungen</Unicode>
+                    <Unicode>gibt sich niemand trügerischen Hoffnungen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l6" custom="readingOrder {index:5;}">
@@ -3544,7 +3544,7 @@ Trauerfeier: Donnerstag, 4. Jan.,
                 <Coords points="567,6417 597,6416 1149,6410 1161,6410 1182,6416 1191,6443 848,6447 828,6447 566,6446"/>
                 <Baseline points="571,6442 701,6441 736,6441 849,6440 879,6440 1035,6439 1076,6439 1182,6438"/>
                 <TextEquiv>
-                    <Unicode>Eltern: Georg schmidt sowie</Unicode>
+                    <Unicode>Eltern: Georg Schmidt sowie</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l7" custom="readingOrder {index:6;}">
@@ -5112,7 +5112,7 @@ vorm. 11.30, in aller Stille statt.</Unicode>
                 <Coords points="2746,4156 3012,4155 3310,4154 3372,4154 3400,4159 3400,4186 3372,4188 3334,4188 2899,4187 2746,4185"/>
                 <Baseline points="2749,4182 2968,4181 3012,4181 3230,4181 3267,4182 3283,4182 3310,4182 3394,4180"/>
                 <TextEquiv>
-                    <Unicode>Bestattung: Donnerstag 9 Unr,</Unicode>
+                    <Unicode>Bestattung: Donnerstag 9 Uhr,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r50l7" custom="readingOrder {index:6;}">
@@ -6203,7 +6203,7 @@ stoff- und Reifenstelle.</Unicode>
                 <Coords points="3468,5861 4221,5860 4240,5860 4906,5862 4914,5880 4916,5892 4776,5893 4629,5895 4057,5896 3978,5896 3574,5895 3469,5895"/>
                 <Baseline points="3473,5890 3577,5891 3607,5891 3743,5891 3773,5892 3902,5892 3914,5891 3948,5891 3975,5891 4057,5891 4088,5891 4441,5890 4471,5890 4639,5889 4668,5889 4711,5889 4740,5888 4776,5888 4804,5888 4914,5888"/>
                 <TextEquiv>
-                    <Unicode>neim, nachm. 14.30-15 30 Uhr, Karl-Benz-Straße; Samstag, 13. 1., vorm.</Unicode>
+                    <Unicode>heim, nachm. 14.30-15 30 Uhr, Karl-Benz-Straße; Samstag, 13. 1., vorm.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r63l5" custom="readingOrder {index:4;}">
@@ -6273,7 +6273,7 @@ Sanitätsräumen stätt. Staatl. Gesundheitsamt.</Unicode>
                 <Coords points="3469,6190 3521,6186 4288,6186 4758,6187 4916,6188 4920,6217 4851,6218 4618,6219 4139,6219 3925,6218 3525,6218 3469,6218"/>
                 <Baseline points="3473,6214 3542,6214 3564,6214 3632,6215 3653,6215 3707,6215 3731,6215 3794,6215 3815,6215 4012,6215 4036,6215 4146,6215 4168,6215 4288,6215 4310,6215 4522,6214 4544,6214 4851,6213 4858,6213 4913,6213"/>
                 <TextEquiv>
-                    <Unicode>und 2217 bei der Deutschen Bank, Fillale Mannheim, Depositenkasse am</Unicode>
+                    <Unicode>und 2217 bei der Deutschen Bank, Filiale Mannheim, Depositenkasse am</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r64l4" custom="readingOrder {index:3;}">
@@ -6410,7 +6410,7 @@ des erfolgt gebührenpflichtige Zustellung. Der Bürgermeister.</Unicode>
                 <Coords points="3502,6831 4343,6834 4361,6834 4861,6832 4900,6834 4910,6844 4911,6866 4844,6869 4798,6868 4284,6871 4274,6871 3868,6870 3500,6866"/>
                 <Baseline points="3505,6862 3757,6864 3799,6864 4028,6865 4052,6865 4079,6865 4094,6865 4181,6865 4207,6865 4284,6865 4307,6865 4449,6865 4473,6865 4541,6865 4567,6865 4650,6865 4673,6865 4747,6864 4771,6864 4908,6861"/>
                 <TextEquiv>
-                    <Unicode>Großsachsen. Donnerstag, 4. Jan. 1945, werden von 14-17 Unhr nachm.</Unicode>
+                    <Unicode>Großsachsen. Donnerstag, 4. Jan. 1945, werden von 14-17 Uhr nachm.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r67l2" custom="readingOrder {index:1;}">
@@ -7261,7 +7261,7 @@ Abzug.: Untere Riedstr. 10, 3. St.</Unicode>
                 <Coords points="4975,7211 5021,7211 5649,7218 5647,7252 5581,7250 4973,7244"/>
                 <Baseline points="4976,7239 5074,7240 5098,7240 5158,7240 5171,7240 5221,7241 5235,7241 5285,7241 5309,7241 5351,7242 5366,7242 5426,7243 5441,7243 5641,7247"/>
                 <TextEquiv>
-                    <Unicode>✉ u. Nr. 250 137 an HB Weinneim.</Unicode>
+                    <Unicode>✉ u. Nr. 250 137 an HB Weinheim.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r79l3" custom="readingOrder {index:2;}">

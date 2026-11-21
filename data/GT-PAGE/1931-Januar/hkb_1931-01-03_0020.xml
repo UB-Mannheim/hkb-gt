@@ -865,7 +865,7 @@ Hoſpizes ab.</Unicode>
                 <Coords points="1662,2816 1895,2816 2445,2815 2595,2817 2628,2834 2628,2853 2496,2861 2397,2866 1687,2857 1662,2850"/>
                 <Baseline points="1670,2850 1882,2850 1896,2850 1951,2850 1964,2850 2259,2849 2274,2849 2328,2849 2339,2849 2541,2851 2556,2851 2629,2851"/>
                 <TextEquiv>
-                    <Unicode>Vorsitzender des Rechtsausschusses des Reichstages, ũber</Unicode>
+                    <Unicode>Vorsitzender des Rechtsausschusses des Reichstages, über</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l8" custom="readingOrder {index:7;}">
@@ -1590,7 +1590,7 @@ beſprechung ſtatt. 8 Uhr.</Unicode>
                 <Coords points="407,4137 570,4137 596,4145 604,4159 537,4160 408,4161"/>
                 <Baseline points="412,4157 476,4157 489,4157 525,4157 535,4158 596,4158"/>
                 <TextEquiv>
-                    <Unicode>keine fũr diese</Unicode>
+                    <Unicode>keine für diese</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l15" custom="readingOrder {index:14;}">
@@ -1764,7 +1764,7 @@ Körperpflege, Schrifttum. Kostl. Beratung u. Auskunft.
                 <Coords points="1681,4408 1793,4407 1862,4407 2400,4408 2477,4410 2477,4456 2400,4463 1839,4463 1677,4462"/>
                 <Baseline points="1681,4456 1895,4456 1913,4456 1958,4456 1977,4456 2189,4456 2201,4456 2477,4456"/>
                 <TextEquiv>
-                    <Unicode>Einkäufe in deuiſchen Geſchäften!</Unicode>
+                    <Unicode>Einkäufe in deutſchen Geſchäften!</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>

@@ -142,7 +142,7 @@ P 5, 13 a. — Zahlungs⸗ und Erfüllungsort, ſowie Gerichts⸗
                 <Coords points="2703,326 2807,325 3123,322 3278,322 3291,323 3298,347 3285,348 3164,349 3059,352 2716,353 2703,353"/>
                 <Baseline points="2703,348 2788,348 2807,347 2899,347 2918,347 3059,346 3078,345 3164,345 3183,345 3291,344"/>
                 <TextEquiv>
-                    <Unicode>höherer Gewalt, pollzellichem Verbot, Beiriebs⸗</Unicode>
+                    <Unicode>höherer Gewalt, polizeilichem Verbot, Betriebs⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l6" custom="readingOrder {index:5;}">
@@ -1211,7 +1211,7 @@ Vorwärts, über Gräber vorwärts! hewo.</Unicode>
                 <Coords points="2561,2547 2601,2538 2616,2538 3609,2533 3628,2548 3628,2563 3622,2576 3523,2579 2608,2581 2593,2581 2561,2582"/>
                 <Baseline points="2561,2574 2781,2573 2802,2574 2957,2573 2978,2572 3124,2571 3152,2571 3207,2571 3228,2571 3332,2571 3352,2570 3411,2570 3428,2570 3538,2571 3560,2567 3623,2567"/>
                 <TextEquiv>
-                    <Unicode>geſchloffenen Gebieten wohnen. So wenig wie unſere Be⸗</Unicode>
+                    <Unicode>geſchloſſenen Gebieten wohnen. So wenig wie unſere Be⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l14" custom="readingOrder {index:13;}">
@@ -1337,7 +1337,7 @@ Vorwärts, über Gräber vorwärts! hewo.</Unicode>
                 <Coords points="2558,3366 2633,3365 2955,3363 3216,3362 3481,3361 3538,3361 3551,3362 3622,3370 3622,3402 3596,3405 3481,3405 2630,3404 2555,3403"/>
                 <Baseline points="2558,3400 2592,3400 2633,3400 2730,3399 2773,3399 2837,3399 2854,3399 2913,3400 2955,3400 3066,3398 3108,3397 3174,3398 3218,3398 3622,3395"/>
                 <TextEquiv>
-                    <Unicode>in Wien 800 000 Zuden und Juden⸗Abkömmlinge,</Unicode>
+                    <Unicode>in Wien 800 000 Juden und Juden⸗Abkömmlinge,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l32" custom="readingOrder {index:31;}">

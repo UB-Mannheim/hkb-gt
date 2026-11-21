@@ -594,7 +594,7 @@
                 <Coords points="275,3829 324,3818 534,3812 622,3810 825,3806 1168,3800 1290,3798 1308,3798 1357,3801 1359,3835 1243,3844 356,3860 324,3860 275,3854"/>
                 <Baseline points="283,3854 356,3852 381,3852 429,3851 455,3851 592,3847 622,3846 713,3844 740,3843 800,3842 825,3841 942,3839 968,3838 1015,3837 1041,3836 1119,3835 1144,3834 1263,3831 1290,3830 1349,3829"/>
                 <TextEquiv>
-                    <Unicode>euch die Juden? Sind das Dinge, die wert wärxen. das</Unicode>
+                    <Unicode>euch die Juden? Sind das Dinge, die wert wären. das</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l76" custom="readingOrder {index:75;}">
@@ -745,7 +745,7 @@ Leben zu laſſen? —</Unicode>
                 <Coords points="1491,954 1723,948 2183,940 2366,938 2407,938 2480,941 2475,972 2407,980 2259,984 2112,987 1831,991 1689,993 1586,993 1482,995"/>
                 <Baseline points="1491,989 1550,988 1586,987 1689,985 1723,985 1831,982 1863,982 1919,981 1954,980 2148,977 2183,976 2259,974 2293,974 2332,973 2366,972 2464,971"/>
                 <TextEquiv>
-                    <Unicode>Im letzten Abſatz des Schreibens fteht zu leſen:</Unicode>
+                    <Unicode>Im letzten Abſatz des Schreibens ſteht zu leſen:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l10" custom="readingOrder {index:9;}">
@@ -2377,7 +2377,7 @@ beamten.</Unicode>
                 <Coords points="2589,4590 2652,4580 2895,4570 3350,4561 3535,4559 3665,4557 3663,4598 3576,4602 3240,4607 2609,4623 2589,4623"/>
                 <Baseline points="2592,4615 2680,4613 2706,4613 2836,4610 2859,4609 3239,4601 3260,4600 3488,4595 3514,4595 3576,4594 3601,4593 3657,4592"/>
                 <TextEquiv>
-                    <Unicode>zend, unſeren nationalſozialiſtiſchen Standpunnkt, daß auf</Unicode>
+                    <Unicode>zend, unſeren nationalſozialiſtiſchen Standpunkt, daß auf</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l8" custom="readingOrder {index:7;}">

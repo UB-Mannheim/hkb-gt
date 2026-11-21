@@ -489,7 +489,7 @@ Anzeigenpreisliste; zur Zeit ist Liste Nr. 13 gültig. - Zahlungs- und Erfüllun
                 <Coords points="468,3641 1310,3626 1310,3664 471,3679"/>
                 <Baseline points="480,3675 1304,3659"/>
                 <TextEquiv>
-                    <Unicode>deutet dahre, so schließt Stefani, eine</Unicode>
+                    <Unicode>deutet daher, so schließt Stefani, eine</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l70" custom="readingOrder {index:47;}">
@@ -1398,7 +1398,7 @@ Unritterliche Kampfesweise der britischen Propaganda</Unicode>
                 <Coords points="1360,4704 1379,4701 1799,4695 1949,4693 2103,4691 2162,4691 2195,4700 2195,4731 1994,4737 1974,4737 1395,4740 1356,4744"/>
                 <Baseline points="1364,4734 1438,4733 1459,4733 1643,4731 1668,4730 1715,4730 1741,4729 1876,4728 1897,4727 2009,4726 2031,4726 2128,4725 2150,4724 2190,4723"/>
                 <TextEquiv>
-                    <Unicode>tige Interesse an Italien fndet auch in</Unicode>
+                    <Unicode>tige Interesse an Italien findet auch in</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -3952,7 +3952,7 @@ Politische Interessen hat Deutschland</Unicode>
                 <Coords points="4014,3905 4069,3895 4720,3887 4780,3887 4829,3888 4855,3904 4853,3927 4829,3926 4750,3928 4319,3935 4015,3932"/>
                 <Baseline points="4021,3928 4319,3925 4356,3925 4473,3924 4510,3924 4625,3922 4648,3922 4847,3921"/>
                 <TextEquiv>
-                    <Unicode>amerikanische Hetze gsegen Deutsch-</Unicode>
+                    <Unicode>amerikanische Hetze gegen Deutsch-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l55" custom="readingOrder {index:54;}">
@@ -4579,7 +4579,7 @@ Das Lärmen und Krachen ringsum</Unicode>
                 <Coords points="4002,5903 4110,5904 4139,5904 4726,5903 4782,5904 4841,5910 4840,5942 4691,5946 4630,5946 4090,5945 4002,5942"/>
                 <Baseline points="4007,5936 4289,5936 4585,5935 4829,5934"/>
                 <TextEquiv>
-                    <Unicode>lung entfernt gibt es einen gsewaltigen</Unicode>
+                    <Unicode>lung entfernt gibt es einen gewaltigen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l11" custom="readingOrder {index:10;}">

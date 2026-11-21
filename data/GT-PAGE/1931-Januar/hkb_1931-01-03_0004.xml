@@ -1415,7 +1415,7 @@ Buchhandlung</Unicode>
                 <Coords points="2812,1371 3196,1369 3643,1369 3726,1375 3726,1401 3354,1418 3105,1418 2812,1403"/>
                 <Baseline points="2812,1403 2873,1403 2898,1403 2954,1403 2979,1402 3168,1402 3196,1401 3305,1401 3330,1401 3509,1401 3535,1401 3586,1401 3611,1401 3663,1401 3687,1401 3726,1401"/>
                 <TextEquiv>
-                    <Unicode>Auf die bisherigen Preise gewähfen wir bis zu</Unicode>
+                    <Unicode>Auf die bisherigen Preise gewähren wir bis zu</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r26l14" custom="readingOrder {index:13;}">
@@ -2028,7 +2028,7 @@ klärung:</Unicode>
                 <Coords points="1628,3469 1669,3461 1669,3461 2072,3461 2332,3462 2572,3463 2671,3466 2688,3473 2688,3500 2622,3507 2332,3509 2235,3509 1669,3504 1628,3503"/>
                 <Baseline points="1628,3496 1785,3497 1803,3497 1866,3498 1882,3498 1923,3498 1939,3498 2009,3499 2025,3499 2147,3499 2165,3499 2220,3499 2235,3499 2332,3499 2345,3499 2492,3500 2510,3500 2688,3500"/>
                 <TextEquiv>
-                    <Unicode>zuſtellen, nur zu dem Zweck, um durch hünſtlich geſteigerte</Unicode>
+                    <Unicode>zuſtellen, nur zu dem Zweck, um durch künſtlich geſteigerte</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r31l5" custom="readingOrder {index:4;}">

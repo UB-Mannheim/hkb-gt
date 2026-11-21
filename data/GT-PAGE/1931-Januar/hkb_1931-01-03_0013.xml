@@ -119,14 +119,14 @@
                 <Coords points="1439,584 1525,583 2450,588 2873,590 3061,591 3217,592 3291,593 3374,596 3428,604 3430,647 3376,648 2699,646 2664,646 1437,637"/>
                 <Baseline points="1449,631 1553,632 1591,632 1774,632 1814,633 1906,633 1945,633 2127,634 2167,634 2249,634 2283,634 2347,634 2381,634 2448,635 2484,635 2635,635 2664,635 2894,636 2932,637 3134,638 3172,638 3245,639 3282,639 3424,640"/>
                 <TextEquiv>
-                    <Unicode>Wir haben die Preise bis zu 25 Proz. gesenkt innerhelb der letzten</Unicode>
+                    <Unicode>Wir haben die Preise bis zu 25 Proz. gesenkt innerhalb der letzten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l5" custom="readingOrder {index:4;}">
                 <Coords points="1446,647 1676,652 2367,654 3290,654 3399,655 3434,666 3438,710 3325,712 3002,710 2968,710 1445,700"/>
                 <Baseline points="1451,694 1616,694 1650,694 1712,694 1747,694 1877,695 1927,695 2117,696 2144,696 2437,697 2466,697 2558,697 2586,697 2815,698 2845,698 3075,700 3110,700 3324,701 3358,702 3425,702"/>
                 <TextEquiv>
-                    <Unicode>Monate bis heute. Ferner verkaufen wir enorme Mengen Sehuhe, die</Unicode>
+                    <Unicode>Monate bis heute. Ferner verkaufen wir enorme Mengen Schuhe, die</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l6" custom="readingOrder {index:5;}">
@@ -309,7 +309,7 @@ Auskunft und Prospekte kostenlos.</Unicode>
                 <Coords points="352,2327 439,2325 681,2325 853,2328 867,2329 920,2332 918,2368 681,2375 439,2375 352,2373"/>
                 <Baseline points="360,2365 391,2365 416,2365 574,2364 589,2364 691,2364 717,2364 910,2363"/>
                 <TextEquiv>
-                    <Unicode>in bestbewährten Qalitäten</Unicode>
+                    <Unicode>in bestbewährten Qualitäten</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l4" custom="readingOrder {index:3;}">

@@ -2589,7 +2589,7 @@ handlung P 5, 13 a</Unicode>
                 <Coords points="2605,4872 2761,4856 3117,4855 3291,4855 3511,4856 3518,4903 3370,4906 3291,4907 2761,4907 2605,4907"/>
                 <Baseline points="2605,4896 2982,4896 3011,4896 3087,4896 3117,4896 3235,4895 3262,4895 3416,4894 3444,4894 3511,4893"/>
                 <TextEquiv>
-                    <Unicode>zusammengestellt von Ernst Jjünger mit</Unicode>
+                    <Unicode>zusammengestellt von Ernst Jünger mit</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r50l4" custom="readingOrder {index:3;}">

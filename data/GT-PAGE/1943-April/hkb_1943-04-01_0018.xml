@@ -830,7 +830,7 @@ Fetzen von dannen und die Sterne</Unicode>
                 <Coords points="1372,1685 1413,1685 2203,1682 2206,1720 1966,1725 1776,1726 1757,1726 1387,1724 1371,1722"/>
                 <Baseline points="1378,1719 1627,1718 1658,1718 1835,1718 1872,1717 1966,1717 2004,1716 2079,1716 2116,1716 2200,1715"/>
                 <TextEquiv>
-                    <Unicode>heischendes Schreien sties von dort</Unicode>
+                    <Unicode>heischendes Schreien stieg von dort</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l31" custom="readingOrder {index:30;}">
@@ -4817,7 +4817,7 @@ nebst Eltern und Geschwistern.</Unicode>
                 <Coords points="2757,4553 2880,4554 3292,4553 3329,4553 3357,4558 3370,4566 3371,4587 3359,4586 3182,4587 2991,4586 2980,4586 2796,4586 2754,4587"/>
                 <Baseline points="2759,4581 2853,4583 2880,4583 2953,4582 2980,4581 3016,4581 3043,4581 3071,4581 3099,4581 3182,4584 3208,4582 3265,4583 3292,4583 3366,4582"/>
                 <TextEquiv>
-                    <Unicode>Jakob Senz (z. Z. Wm.) und Fam.</Unicode>
+                    <Unicode>Jakob Benz (z. Z. Wm.) und Fam.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l15" custom="readingOrder {index:14;}">
@@ -4831,7 +4831,7 @@ nebst Eltern und Geschwistern.</Unicode>
                 <Coords points="2719,4636 2743,4632 2982,4636 3000,4636 3356,4635 3370,4641 3373,4655 3372,4669 3329,4669 2968,4670 2951,4670 2794,4669 2754,4670 2717,4670"/>
                 <Baseline points="2721,4664 2770,4666 2787,4666 2966,4665 2983,4664 3071,4665 3088,4665 3133,4664 3150,4665 3367,4664"/>
                 <TextEquiv>
-                    <Unicode>Die Beerdigung fndet am Samstagnach-</Unicode>
+                    <Unicode>Die Beerdigung findet am Samstagnach-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l17" custom="readingOrder {index:16;}">

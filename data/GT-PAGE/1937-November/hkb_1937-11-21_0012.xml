@@ -93,7 +93,7 @@
                 <Coords points="570,495 681,495 2382,515 3569,597 3605,606 3629,703 2384,734 2308,732 1871,731 1028,711 552,702"/>
                 <Baseline points="570,686 1056,685 1126,691 1272,695 1333,697 2016,708 2074,714 2517,705 2731,702 2765,701 2930,691 3046,690 3080,690 3272,693 3307,692 3605,687"/>
                 <TextEquiv>
-                    <Unicode>Kurven, im Renntempo gefehen . . . / Von Rudolf Caracciola</Unicode>
+                    <Unicode>Kurven, im Renntempo geſehen . . . / Von Rudolf Caracciola</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -804,7 +804,7 @@ zu beſchleunigen. Die Vorderräder ſind in die⸗</Unicode>
                 <Coords points="419,5859 491,5858 567,5857 1469,5854 1475,5898 1208,5901 927,5902 905,5902 419,5899"/>
                 <Baseline points="422,5895 674,5894 705,5894 1002,5893 1024,5893 1234,5892 1275,5893 1370,5893 1379,5893 1469,5892"/>
                 <TextEquiv>
-                    <Unicode>volllommen gefühlsmäßig reagieren. Die Tri⸗</Unicode>
+                    <Unicode>vollkommen gefühlsmäßig reagieren. Die Tri⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l45" custom="readingOrder {index:44;}">
@@ -839,7 +839,7 @@ zu beſchleunigen. Die Vorderräder ſind in die⸗</Unicode>
                 <Coords points="420,6091 618,6091 708,6091 1436,6088 1466,6089 1466,6133 435,6137 418,6137"/>
                 <Baseline points="420,6130 535,6130 560,6130 730,6128 757,6128 1014,6127 1039,6127 1085,6127 1109,6127 1273,6126 1298,6126 1466,6125"/>
                 <TextEquiv>
-                    <Unicode>ſogde techniſch einwandfrei zu nehmen verſteht,</Unicode>
+                    <Unicode>ſagen techniſch einwandfrei zu nehmen verſteht,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l50" custom="readingOrder {index:49;}">
@@ -2329,7 +2329,7 @@ mit der Gewöhnung an den Gegner und gip⸗</Unicode>
                 <Coords points="2645,5348 3080,5348 3102,5348 3637,5354 3685,5359 3687,5392 2747,5395 2643,5395"/>
                 <Baseline points="2645,5387 2749,5388 2783,5388 3000,5389 3034,5388 3264,5387 3320,5388 3398,5389 3457,5388 3582,5390 3615,5389 3685,5388"/>
                 <TextEquiv>
-                    <Unicode>tigen ſportlichen Auffaffung und hindert vor</Unicode>
+                    <Unicode>tigen ſportlichen Auffaſſung und hindert vor</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l37" custom="readingOrder {index:36;}">
@@ -2371,7 +2371,7 @@ mit der Gewöhnung an den Gegner und gip⸗</Unicode>
                 <Coords points="2643,5630 2704,5629 3035,5629 3315,5631 3648,5635 3679,5641 3679,5673 3646,5678 3339,5678 3314,5678 2704,5675 2637,5671"/>
                 <Baseline points="2643,5668 2788,5668 2826,5668 2889,5668 2929,5668 3254,5668 3295,5668 3359,5668 3436,5669 3679,5670"/>
                 <TextEquiv>
-                    <Unicode>Gefahr der Mechaniſierung der Bewegungem.</Unicode>
+                    <Unicode>Gefahr der Mechaniſierung der Bewegungen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l43" custom="readingOrder {index:42;}">
@@ -2651,7 +2651,7 @@ müſſen getragen ſein vom Willen zum Sieg.</Unicode>
                 <Coords points="3785,1253 3929,1254 4359,1250 4418,1252 4427,1250 4658,1249 4682,1252 4699,1281 4699,1290 4682,1296 4652,1298 3950,1298 3927,1298 3785,1301"/>
                 <Baseline points="3795,1291 4160,1290 4185,1290 4238,1289 4263,1289 4309,1290 4335,1290 4490,1289 4509,1289 4699,1290"/>
                 <TextEquiv>
-                    <Unicode>ſen (Düſfeldorf), 10. A. Gerftel (Berlin).</Unicode>
+                    <Unicode>ſen (Düſſeldorf), 10. A. Gerſtel (Berlin).</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l16" custom="readingOrder {index:15;}">
@@ -3057,7 +3057,7 @@ müſſen getragen ſein vom Willen zum Sieg.</Unicode>
                 <Coords points="3799,4441 3866,4441 4365,4445 4577,4448 4629,4449 4674,4450 4730,4459 4756,4478 4762,4541 4616,4543 4555,4543 4320,4541 4019,4539 3791,4533"/>
                 <Baseline points="3799,4524 3913,4525 3946,4525 4114,4527 4147,4527 4524,4532 4557,4531 4756,4531"/>
                 <TextEquiv>
-                    <Unicode>Die unfere Mannfchaften ſpielen:</Unicode>
+                    <Unicode>Wie unſere Mannſchaften ſpielen:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l74" custom="readingOrder {index:73;}">

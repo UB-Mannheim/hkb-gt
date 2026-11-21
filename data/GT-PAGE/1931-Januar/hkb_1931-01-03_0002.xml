@@ -154,7 +154,7 @@ P 5, 13 a. — Zahlungs⸗ und Erfüllungsort, ſowie Gerichts⸗
                 <Coords points="2818,382 3046,383 3657,385 3675,395 3675,423 3457,423 3169,421 2957,418 2816,417"/>
                 <Baseline points="2823,412 2884,412 2910,412 3046,413 3074,413 3122,413 3145,413 3342,414 3370,414 3433,415 3457,415 3675,416"/>
                 <TextEquiv>
-                    <Unicode>kein Anſpruch auf Rüchzahlung oder Nachlieferung.</Unicode>
+                    <Unicode>kein Anſpruch auf Rückzahlung oder Nachlieferung.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -631,7 +631,7 @@ wie iſt Ihnen?</Unicode>
                 <Coords points="353,4292 689,4286 706,4286 1368,4293 1417,4303 1417,4328 1376,4334 1345,4335 1131,4336 889,4336 523,4334 374,4327 353,4326"/>
                 <Baseline points="356,4329 496,4326 523,4326 598,4326 625,4326 746,4326 770,4326 850,4327 874,4327 1131,4327 1156,4327 1217,4327 1240,4327 1417,4328"/>
                 <TextEquiv>
-                    <Unicode>beamten ſind, müfſen ohne Entſchädigung aus ſtädtiſchen</Unicode>
+                    <Unicode>beamten ſind, müſſen ohne Entſchädigung aus ſtädtiſchen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l53" custom="readingOrder {index:52;}">
