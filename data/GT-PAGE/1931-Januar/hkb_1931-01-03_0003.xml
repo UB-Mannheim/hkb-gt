@@ -215,7 +215,7 @@
                 <Coords points="277,1189 370,1189 431,1185 466,1188 1303,1192 1342,1202 1345,1234 1242,1235 449,1238 434,1238 334,1233 277,1226"/>
                 <Baseline points="277,1225 354,1225 373,1225 449,1225 465,1225 641,1225 668,1225 744,1225 763,1225 911,1225 933,1225 994,1226 1012,1226 1062,1226 1081,1226 1130,1226 1148,1226 1340,1227"/>
                 <TextEquiv>
-                    <Unicode>Böß lch bezahlen? Wir fürchten, daß ihr die ſchaffenden</Unicode>
+                    <Unicode>Böß auch bezahlen? Wir fürchten, daß ihr die ſchaffenden</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r4l22" custom="readingOrder {index:21;}">

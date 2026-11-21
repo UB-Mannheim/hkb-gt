@@ -656,7 +656,7 @@ Ruf 213 46</Unicode>
                 <Coords points="279,4846 320,4846 1070,4849 1221,4850 1325,4858 1331,4893 1295,4895 1255,4895 505,4892 276,4890"/>
                 <Baseline points="282,4885 454,4887 505,4887 773,4887 803,4888 902,4889 933,4888 1021,4890 1049,4891 1120,4891 1148,4889 1324,4886"/>
                 <TextEquiv>
-                    <Unicode>Abends. Anſchließend wind nach den Klängen</Unicode>
+                    <Unicode>Abends. Anſchließend wird nach den Klängen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l25" custom="readingOrder {index:24;}">
@@ -2318,7 +2318,7 @@ treuung der NSDAP ſteht.</Unicode>
                 <Coords points="3667,2368 4068,2371 4623,2372 4667,2371 4681,2381 4681,2397 4679,2408 4573,2410 4564,2410 3833,2409 3707,2408 3666,2406"/>
                 <Baseline points="3673,2404 3840,2403 3860,2403 4132,2404 4150,2404 4219,2404 4238,2405 4341,2406 4362,2407 4573,2405 4591,2405 4676,2404"/>
                 <TextEquiv>
-                    <Unicode>Rheinau, Neckarau⸗Nord und ⸗Süd, Sandhoſen, Neu⸗</Unicode>
+                    <Unicode>Rheinau, Neckarau⸗Nord und ⸗Süd, Sandhofen, Neu⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r17l32" custom="readingOrder {index:31;}">

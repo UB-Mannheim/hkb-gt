@@ -1989,14 +1989,14 @@ Dann, als ich älter geworden und die</Unicode>
                 <Coords points="2428,3855 2476,3851 2576,3853 3383,3859 3408,3868 3408,3901 3294,3901 2836,3896 2453,3893 2429,3890"/>
                 <Baseline points="2435,3886 2576,3888 2611,3889 2703,3890 2752,3890 2981,3892 3028,3892 3223,3892 3267,3892 3406,3894"/>
                 <TextEquiv>
-                    <Unicode>schöne und womöglieh gescheite Worte,</Unicode>
+                    <Unicode>schöne und womöglich gescheite Worte,</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l12" custom="readingOrder {index:11;}">
                 <Coords points="2432,3898 2482,3898 3128,3903 3208,3904 3262,3905 3407,3908 3409,3945 3369,3945 3262,3946 3247,3946 2891,3945 2432,3938"/>
                 <Baseline points="2433,3934 2531,3934 2555,3935 2663,3935 2689,3936 2791,3937 2813,3938 2925,3939 2945,3939 2990,3939 3012,3939 3148,3940 3172,3940 3229,3940 3247,3940 3290,3940 3313,3940 3403,3940"/>
                 <TextEquiv>
-                    <Unicode>doch nicht allzu viele, er muſte sie ja aus-</Unicode>
+                    <Unicode>doch nicht allzu viele, er mußte sie ja aus-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r10l13" custom="readingOrder {index:12;}">
@@ -3524,7 +3524,7 @@ tischen bewahrt unsere Lautung vor dem</Unicode>
                 <Coords points="1377,6049 1454,6047 1554,6047 2267,6052 2322,6053 2366,6062 2368,6091 2346,6092 1858,6091 1834,6091 1494,6088 1378,6084"/>
                 <Baseline points="1386,6080 1616,6082 1648,6082 1801,6083 1834,6083 1976,6084 2005,6085 2267,6086 2296,6087 2363,6085"/>
                 <TextEquiv>
-                    <Unicode>verflachen, ohwohl gerade andererseits der</Unicode>
+                    <Unicode>verflachen, obwohl gerade andererseits der</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r16l27" custom="readingOrder {index:26;}">
@@ -4276,7 +4276,7 @@ halten ist. Dr. Oskar Wessel.</Unicode>
                 <Coords points="3796,422 3890,415 3937,415 4921,413 5022,422 5141,437 5142,507 5076,528 4498,528 3790,516"/>
                 <Baseline points="3802,509 4078,507 4146,507 4353,506 4410,505 4639,505 4697,504 5128,501"/>
                 <TextEquiv>
-                    <Unicode>Cãsar über seine Feldzüge</Unicode>
+                    <Unicode>Cäsar über seine Feldzüge</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -5519,7 +5519,7 @@ er beispielsweise über seinen Vorbruch ge-</Unicode>
                 <Coords points="4467,5845 4500,5845 4983,5852 5452,5858 5452,5900 5386,5899 4561,5887 4466,5884"/>
                 <Baseline points="4471,5878 4726,5882 4757,5882 4805,5883 4833,5884 4976,5886 5027,5886 5099,5887 5129,5888 5256,5890 5283,5890 5352,5891 5383,5892 5443,5894"/>
                 <TextEquiv>
-                    <Unicode>Fallgewicht zu heben. Die Natur der da-</Unicode>
+                    <Unicode>Fallgewicht zu haben. Die Natur der da-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r21l113" custom="readingOrder {index:112;}">

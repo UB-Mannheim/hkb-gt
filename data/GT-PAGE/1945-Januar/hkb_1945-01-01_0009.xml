@@ -680,7 +680,7 @@ kleinen Teil der Verbraucherschaft be-</Unicode>
                 <Coords points="1564,1690 1599,1687 1710,1685 2180,1680 2206,1680 2441,1681 2468,1685 2468,1699 2464,1715 2393,1719 2268,1720 1565,1725"/>
                 <Baseline points="1570,1720 1662,1718 1687,1718 1801,1717 1825,1717 1986,1716 2010,1716 2088,1715 2107,1715 2223,1713 2246,1713 2345,1712 2367,1711 2458,1707"/>
                 <TextEquiv>
-                    <Unicode>men einen Flicken von nicht ganz pas-</Unicode>
+                    <Unicode>man einen Flicken von nicht ganz pas-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l28" custom="readingOrder {index:27;}">
@@ -5903,7 +5903,7 @@ Beisetz. fand in all. Stille statt.</Unicode>
                 <Coords points="3574,4508 3659,4506 3897,4504 4879,4504 4899,4504 4900,4536 4857,4535 4116,4539 3719,4539 3598,4536 3571,4535"/>
                 <Baseline points="3576,4533 3752,4534 3779,4534 3846,4534 3872,4534 3959,4534 3983,4534 4017,4534 4041,4534 4116,4534 4588,4533 4656,4533 4675,4533 4690,4533 4709,4533 4895,4532"/>
                 <TextEquiv>
-                    <Unicode>zuschlag) von über 20 Pfg. Für 1 Abschnitt</Unicode>
+                    <Unicode>zuschlag) von über 20 Pfg. für 1 Abschnitt</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r61l15" custom="readingOrder {index:14;}">
@@ -6526,7 +6526,7 @@ beschauers. Der Bürgermeister.</Unicode>
                 <Coords points="3465,7421 3588,7422 4439,7423 4840,7424 4895,7429 4904,7436 4912,7449 4904,7458 4768,7457 4225,7458 4204,7458 3465,7453"/>
                 <Baseline points="3470,7447 3626,7451 3653,7451 3728,7451 3754,7451 4015,7453 4040,7452 4104,7452 4132,7452 4291,7453 4317,7453 4380,7453 4404,7453 4624,7454 4652,7453 4778,7453 4804,7453 4903,7453"/>
                 <TextEquiv>
-                    <Unicode>gleichen Zeit verausgsabt. - Die Ausgabe der Mahlkarten erfolgt Mon-</Unicode>
+                    <Unicode>gleichen Zeit verausgabt. - Die Ausgabe der Mahlkarten erfolgt Mon-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r69l8" custom="readingOrder {index:7;}">
@@ -6993,7 +6993,7 @@ Neckarauer Straße 97.</Unicode>
                 <Coords points="4986,5939 5401,5943 5436,5943 5652,5946 5663,5978 5545,5976 5526,5976 5083,5976 4984,5972"/>
                 <Baseline points="4986,5966 5092,5967 5118,5967 5180,5968 5210,5968 5378,5969 5399,5970 5496,5971 5526,5971 5581,5972 5610,5972 5652,5972"/>
                 <TextEquiv>
-                    <Unicode>Grau, aut „Tyrras“ hör., am 15.</Unicode>
+                    <Unicode>Grau, auf „Tyrras“ hör., am 15.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r75l3" custom="readingOrder {index:2;}">

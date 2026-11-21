@@ -122,7 +122,7 @@
                 <Coords points="661,1728 2283,1729 3655,1724 4582,1710 4637,1710 4638,1988 4190,1987 2535,2010 1061,2017 938,2017 666,1999"/>
                 <Baseline points="690,1987 1521,1986 1619,1986 2199,1983 3114,1978 3216,1978 3559,1977 3655,1977 4621,1973"/>
                 <TextEquiv>
-                    <Unicode>England droht Spanien mt Ueberfall</Unicode>
+                    <Unicode>England droht Spanien mit Ueberfall</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r7l2" custom="readingOrder {index:1;}">

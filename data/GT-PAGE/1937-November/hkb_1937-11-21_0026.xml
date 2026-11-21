@@ -332,7 +332,7 @@
                 <Coords points="412,2559 1434,2555 1434,2555 1456,2555 1456,2616 1434,2616 438,2609 412,2608"/>
                 <Baseline points="412,2600 586,2601 607,2600 682,2600 702,2600 901,2601 919,2601 1190,2603 1210,2603 1288,2604 1309,2604 1434,2604 1453,2604 1456,2604"/>
                 <TextEquiv>
-                    <Unicode>Haltung das lebendige Vermüchtnis von Lange⸗</Unicode>
+                    <Unicode>Haltung das lebendige Vermächtnis von Lange⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l40" custom="readingOrder {index:39;}">
@@ -3301,7 +3301,7 @@ Bande „Die Gefährten“ (im Paul⸗Liſt⸗</Unicode>
                 <Coords points="3719,5040 3908,5043 4058,5043 4343,5046 4656,5050 4698,5051 4753,5060 4760,5093 4698,5096 4125,5089 4099,5089 3719,5083"/>
                 <Baseline points="3728,5078 3865,5080 3908,5080 3985,5081 4008,5081 4077,5082 4096,5082 4122,5083 4174,5083 4218,5084 4243,5084 4283,5084 4308,5085 4407,5086 4431,5086 4555,5087 4580,5087 4656,5088 4678,5088 4753,5089"/>
                 <TextEquiv>
-                    <Unicode>innert. Sie alle gebenen in ihrer klaren und her⸗</Unicode>
+                    <Unicode>innert. Sie alle geben in ihrer klaren und her⸗</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r15l11" custom="readingOrder {index:10;}">

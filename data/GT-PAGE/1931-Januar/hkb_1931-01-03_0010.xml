@@ -96,7 +96,7 @@ Jahrg. 1</Unicode>
                 <Coords points="590,408 1156,397 1156,397 1259,397 1276,401 1284,418 1284,423 1276,428 1259,434 684,435 590,435"/>
                 <Baseline points="590,431 647,430 662,430 684,430 696,430 830,428 856,428 1027,426 1041,426 1096,425 1111,425 1284,423"/>
                 <TextEquiv>
-                    <Unicode>ſtand iſt Mannheim. Poſtſcheckonto: 6775 Ludwigshafen.</Unicode>
+                    <Unicode>ſtand iſt Mannheim. Poſtſcheckkonto: 6775 Ludwigshafen.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
@@ -1232,7 +1232,7 @@ Vorwärts, über Gräber vorwärts! hewo.</Unicode>
                 <Coords points="2559,2672 2626,2670 3415,2666 3615,2667 3641,2683 3641,2703 3619,2710 3418,2710 2559,2714"/>
                 <Baseline points="2559,2705 2840,2706 2882,2707 3018,2705 3039,2705 3212,2704 3237,2704 3366,2704 3395,2704 3515,2704 3533,2704 3624,2701"/>
                 <TextEquiv>
-                    <Unicode>ſtaatspolitiſchen Grenzen innerhalb unſerer Ration halt.</Unicode>
+                    <Unicode>ſtaatspolitiſchen Grenzen innerhalb unſerer Nation halt.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r12l17" custom="readingOrder {index:16;}">

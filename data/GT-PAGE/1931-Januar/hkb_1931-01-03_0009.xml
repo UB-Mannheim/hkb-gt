@@ -240,7 +240,7 @@
                 <Coords points="223,1375 250,1374 383,1383 512,1383 578,1391 593,1394 593,1419 576,1427 386,1426 251,1426 223,1425"/>
                 <Baseline points="237,1417 593,1419"/>
                 <TextEquiv>
-                    <Unicode>Atbeitsvermittlung:</Unicode>
+                    <Unicode>Arbeitsvermittlung:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r5l23" custom="readingOrder {index:22;}">
@@ -330,7 +330,7 @@ Sprechſtunden Mittwochs von 17—19 Uhr.</Unicode>
                 <Coords points="1397,495 1679,495 2136,498 2215,501 2215,534 2136,541 1849,541 1415,539 1397,531"/>
                 <Baseline points="1397,531 1679,532 1719,532 1813,532 1849,532 2213,533"/>
                 <TextEquiv>
-                    <Unicode>Verlagsleitung: „Das Hankenkreuzbanner“.</Unicode>
+                    <Unicode>Verlagsleitung: „Das Hakenkreuzbanner“.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r6l2" custom="readingOrder {index:1;}">

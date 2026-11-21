@@ -774,7 +774,7 @@ Fetzen von dannen und die Sterne</Unicode>
                 <Coords points="1377,1314 1774,1314 1808,1314 2018,1314 2088,1315 2207,1318 2209,1354 2188,1352 2133,1353 1374,1355"/>
                 <Baseline points="1378,1349 1450,1349 1479,1348 1539,1349 1567,1349 1626,1348 1655,1348 1750,1348 1774,1348 1846,1347 1878,1347 2015,1348 2045,1348 2200,1346"/>
                 <TextEquiv>
-                    <Unicode>den lch am Ende des letzten Wagens</Unicode>
+                    <Unicode>den ich am Ende des letzten Wagens</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l23" custom="readingOrder {index:22;}">
@@ -893,7 +893,7 @@ Fetzen von dannen und die Sterne</Unicode>
                 <Coords points="1406,2101 1453,2100 1883,2096 1915,2096 2158,2097 2202,2107 2206,2136 1852,2139 1723,2139 1407,2142"/>
                 <Baseline points="1415,2137 1479,2135 1508,2135 1588,2135 1616,2135 1852,2133 1883,2133 1941,2132 1970,2132 2043,2132 2072,2132 2198,2131"/>
                 <TextEquiv>
-                    <Unicode>lch war erschüttert. An den hellen</Unicode>
+                    <Unicode>Ich war erschüttert. An den hellen</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l40" custom="readingOrder {index:39;}">
@@ -984,7 +984,7 @@ Fetzen von dannen und die Sterne</Unicode>
                 <Coords points="1367,2699 1578,2700 1653,2700 2204,2703 2206,2741 2061,2739 1996,2739 1728,2741 1420,2740 1365,2738"/>
                 <Baseline points="1373,2732 1462,2733 1489,2733 1554,2733 1578,2733 1653,2733 1680,2733 1730,2733 1756,2734 1866,2732 1878,2733 2019,2732 2043,2732 2087,2732 2112,2732 2197,2732"/>
                 <TextEquiv>
-                    <Unicode>heit. lch ließ es, einen Zweig zu bre-</Unicode>
+                    <Unicode>heit. Ich ließ es, einen Zweig zu bre-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r3l53" custom="readingOrder {index:52;}">
@@ -1345,7 +1345,7 @@ ARNOLD KRIEGER</Unicode>
                 <Coords points="2254,1220 2462,1218 2796,1213 3034,1209 3077,1213 3086,1248 3036,1254 2803,1254 2570,1258 2256,1257"/>
                 <Baseline points="2259,1250 2366,1249 2389,1249 2426,1248 2448,1248 2549,1248 2570,1248 2689,1247 2714,1247 2953,1245 2975,1245 3077,1244"/>
                 <TextEquiv>
-                    <Unicode>wenn es ernst genus vorgebracht wird.</Unicode>
+                    <Unicode>wenn es ernst genug vorgebracht wird.</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r9l18" custom="readingOrder {index:17;}">
@@ -4661,7 +4661,7 @@ Beerdigung: Montag, 5. April, mittags
                 <Coords points="2717,3674 3321,3673 3323,3673 3355,3675 3370,3680 3370,3698 3372,3711 3326,3710 3028,3711 3012,3711 2804,3712 2716,3711"/>
                 <Baseline points="2723,3706 2750,3707 2804,3707 2871,3707 2878,3707 2935,3707 2949,3707 2992,3707 3011,3706 3132,3706 3138,3706 3166,3706 3188,3706 3282,3706 3302,3706 3368,3704"/>
                 <TextEquiv>
-                    <Unicode>im Alter von 34 jahren in einem Hei-</Unicode>
+                    <Unicode>im Alter von 34 Jahren in einem Hei-</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r23l6" custom="readingOrder {index:5;}">
@@ -5695,7 +5695,7 @@ Frau Anna Kipphan.</Unicode>
                 <Coords points="3479,5779 3820,5774 3838,5774 4072,5782 4103,5790 4104,5817 3839,5816 3821,5816 3479,5817"/>
                 <Baseline points="3488,5811 3528,5811 3549,5810 3655,5811 3676,5812 3702,5811 3725,5811 3871,5810 3893,5810 4096,5811"/>
                 <TextEquiv>
-                    <Unicode>Im Namen d. tauernd. Hinterblieb.:</Unicode>
+                    <Unicode>Im Namen d. trauernd. Hinterblieb.:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r31l12" custom="readingOrder {index:11;}">
