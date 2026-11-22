@@ -638,7 +638,7 @@ wo nationalſozialiſtiſche Zeitungen aufliegen.</Unicode>
                 <Coords points="1590,2041 1762,2041 2239,2042 2263,2054 2269,2091 1411,2091 1415,2055 1453,2044 1483,2042"/>
                 <Baseline points="1419,2084 1728,2082 1754,2086 2262,2079"/>
                 <TextEquiv>
-                    <Unicode>während des lnventur-Ausverkaufs</Unicode>
+                    <Unicode>während des Inventur-Ausverkaufs</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r11l4" custom="readingOrder {index:3;}">
@@ -854,7 +854,7 @@ wo nationalſozialiſtiſche Zeitungen aufliegen.</Unicode>
             <TextEquiv>
                 <Unicode>Anzüge
 für 8⁵⁰
-während des lnventur-Ausverkaufs
+während des Inventur-Ausverkaufs
 Mäntel teils reine Wolle
 8⁵⁰
 marengo und farbig 14.-
@@ -970,7 +970,7 @@ Fernruf 530 86 MANNHEIM Stamitzstr. 15
                 <Coords points="2753,1226 2759,1226 3497,1228 3611,1232 3614,1269 3191,1268 2746,1264"/>
                 <Baseline points="2753,1260 3173,1262 3607,1262"/>
                 <TextEquiv>
-                    <Unicode>lch bringe in bekannt guten Qualitäten zum</Unicode>
+                    <Unicode>Ich bringe in bekannt guten Qualitäten zum</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r13l2" custom="readingOrder {index:1;}">
@@ -1044,7 +1044,7 @@ Fernruf 530 86 MANNHEIM Stamitzstr. 15
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>lch bringe in bekannt guten Qualitäten zum
+                <Unicode>Ich bringe in bekannt guten Qualitäten zum
 Inventur-Ausverkauf
 Rest-Posten in Bettwäsehe
 zu zeitgemäß außergewöhnl. billigen Preisen
