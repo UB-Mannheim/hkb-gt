@@ -2120,11 +2120,11 @@ Musikhaus</Unicode>
                 <Coords points="1485,4547 1781,4547 2577,4549 2811,4551 2835,4565 2840,4601 2606,4603 1318,4600 1321,4548"/>
                 <Baseline points="1321,4595 2185,4596 2835,4599"/>
                 <TextEquiv>
-                    <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+                    <Unicode>NATIONALSOZIALISTEN TREFFEN SICH IN:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+                <Unicode>NATIONALSOZIALISTEN TREFFEN SICH IN:</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r26" custom="readingOrder {index:27;} structure {type:paragraph;}">

@@ -1460,7 +1460,7 @@ Dienſtag und Freitag von
                 <Coords points="3527,3563 3598,3563 3603,3657 2799,3660 2804,3565"/>
                 <Baseline points="2804,3648 3598,3647"/>
                 <TextEquiv>
-                    <Unicode>HElNR. KINNA</Unicode>
+                    <Unicode>HEINR. KINNA</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextLine id="r24l2" custom="readingOrder {index:1;}">
@@ -1492,7 +1492,7 @@ Dienſtag und Freitag von
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>HElNR. KINNA
+                <Unicode>HEINR. KINNA
 MANNHEIM
 F 1, 7 a
 Deutsche Tafelbutter Pfd. 1.60
@@ -1643,11 +1643,11 @@ Versand nach auswärts.
                 <Coords points="2442,4568 2642,4568 2666,4581 2673,4621 1369,4624 1319,4624 1154,4623 1156,4572"/>
                 <Baseline points="1156,4619 2666,4615"/>
                 <TextEquiv>
-                    <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+                    <Unicode>NATIONALSOZIALISTEN TREFFEN SICH IN:</Unicode>
                 </TextEquiv>
             </TextLine>
             <TextEquiv>
-                <Unicode>NATIONALSOZIALISTEN TREFFEN SlCH IN:</Unicode>
+                <Unicode>NATIONALSOZIALISTEN TREFFEN SICH IN:</Unicode>
             </TextEquiv>
         </TextRegion>
         <TextRegion type="paragraph" id="r28" custom="readingOrder {index:29;} structure {type:paragraph;}">
